@@ -11,11 +11,13 @@ output:
 ## UC Davis DataLab
 * The [DataLab](https://datalab.ucdavis.edu/about/) (formerly the Data Science Initiative) offers trainings, seminars, and consultations on a wide variety of data analysis and exploration. 
 
+## Learning Statistics
+* [Statistics for Terrified Biologists](http://mtvernon.wsu.edu/wp-content/uploads/2016/12/Statistics_for_Terrified_Biologists.pdf)
 
 ## Learning R
-* The [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/index.html) course offered through the Graduate Group in Ecology has excellent resources
-* Weekly [#TidyTuesday Challenges](https://github.com/rfordatascience/tidytuesday) are an excellent way to hone your coding skills
-* Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz/index.html) is available for free on the web!
+* [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/index.html) course offered through the Graduate Group in Ecology
+* Weekly [#TidyTuesday Challenges](https://github.com/rfordatascience/tidytuesday)
+* Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz/index.html)
 
 *Fun fact: this website was made in R Markdown -- so learning to use R is a useful skill to learn beyond data analysis purposes!* 
 
@@ -24,3 +26,16 @@ output:
 
 ## Learning GIS
 * [Getting Started with GIS](https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/#!) via ESRI
+
+## Data Visualzation / Figure Design
+* [Data Visualization: A Practical Introduction](https://socviz.co/gettingstarted.html#work-in-plain-text-using-rmarkdown) by Kieran Healy
+* [MIT Communication Lab Figure Design](https://mitcommlab.mit.edu/be/commkit/figure-design/)
+* [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+
+## Using Version Control / GitHub
+* [R-DAVIS guide to setting up a Git repository with RStudio](https://gge-ucd.github.io/R-DAVIS/setting_up_git.html)
+* [A Quick Introduction to Version Control with Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668) by Blischak et al. (2016)
+* [MIT Communication Lab GitHub Resources](https://mitcommlab.mit.edu/be/commkit/github-resources/)
+
+## Best Practices: Coding / Dcumentation / Organization
+* [MIT Communication Lab Coding Mindset](https://mitcommlab.mit.edu/be/commkit/best-practices-for-coding-organization-and-documentation/)

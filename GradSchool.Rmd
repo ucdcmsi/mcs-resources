@@ -8,6 +8,29 @@ output:
 
 # **Resources for applying to graduate school**
 
-*[So, you want to go to grad school? Nail the inquiry email](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/)
+## General Advice
+*[Academic Secret Menu, updated July 15, 2020](Res_Mentoring/ASecretMenu_15July2020.pdf)
+* [Resources for Undegraduate Students](http://www.raulpacheco.org/resources/resources-for-undergraduate-students/) by Dr. Raul Pacheco-Vega
+* [notes_for_students](https://gitlab.com/stanstrup-work/notes_for_students) by Jan Stanstrup
+* [A Field Guide to Grad School](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school) by Jessica McCrory Calarco
+* [Academia from the perspective of a first-generation student (Twitter thread)](https://twitter.com/AnnaMeierPS/status/1276544857977303043?s=20)
+
+## Developing Research Skills (Laboratory / Fieldwork)
+* [Let's Experiment: A Guide for Scientists Working at the Bench (Self-Paced)](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about) via iBiology
+
+## Contacting Potential Advisors
+* [So, you want to go to grad school? Nail the inquiry email](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/)
+
+## Letters of Recommendation
+* [How To Choose Letter Writers and Help Them Help You (Twitter Thread)](https://twitter.com/rwidome/status/1272923501708656644?s=20)
+
+## Advice for the Application Process
+* TBD
+
+## GRE Advice (hopefully this section will be defunct soon!)
+* TBD
+
+## Funding Opportunities for Graduate School
+* [Resources for POC in STEAM](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit#gid=1417047090)
 
 ### *More information coming soon!*

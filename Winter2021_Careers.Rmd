@@ -8,6 +8,9 @@ output:
 
 # **Career Discovery Course**
 
-### This will entail weekly conversations with a wide variety of marine science professionals.
+This will entail weekly conversations with a wide variety of marine science professionals.
+
+## Stories of Marine Scientists
+* [Why I Pursued Marine Research](https://airplanesandavocados.com/why-i-pursued-marine-research-stories-from-scientists-around-the-world/): Stories from Scientists Around The World
 
 ### *More information coming soon!*

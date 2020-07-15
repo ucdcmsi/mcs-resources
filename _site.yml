@@ -25,16 +25,22 @@ navbar:
       - text: "Resources"
         icon: fa-anchor  fa-1x
         menu: 
-          - text: "Science Communication"
-            href: SciComm.html
-          - text: "Applying to Graduate School"
+          - text: "COVID-19"
+            href: COVID.html
+          - text: "Applying to Internships/Jobs"
+            href: Jobs.html
+          - text: "Applying to Grad School"
             href: GradSchool.html
-          - text: "Quantitative Skills"
-            href: QuantTools.Rmd
           - text: "JEDI in Marine Science"
             href: JEDImarsci.html
           - text: "Peer Mentorship"
             href: peer_mentor.html
+          - text: "Quantitative Skills"
+            href: QuantTools.Rmd
+          - text: "Science Communication"
+            href: SciComm.html
+          - text: "Science Writing"
+            href: sciwri.html
     right:
       - text: "CMSI"
         icon: fa-map
