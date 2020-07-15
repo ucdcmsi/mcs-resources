@@ -8,6 +8,15 @@ output:
 
 # **Resources for Science Communication**
 
+## General Science Communcation Training
+* [Science Says]() at UC Davis
+* [#SciFund Challenge Classes](https://scifundchallenge.org/scifund-classes/)
+* [Science Talk Courses](https://www.sciencetalk.org/training--courses.html)
+  + Science Talk courses cost  to participate
+
 ## Writing Training / Opportunities
+* [The Ethogram at UC Davis](https://theethogram.com/author/theethogram/)
 * [Massive Science](https://massivesci.com/)
 * [oceanbites](https://oceanbites.org/)
+
+### *More information coming soon!*

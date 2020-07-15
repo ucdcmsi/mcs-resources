@@ -8,6 +8,9 @@ output:
 
 # **Resources for Improving Quantitative Skills**
 
+## UC Davis DataLab
+* The [DataLab](https://datalab.ucdavis.edu/about/) (formerly the Data Science Initiative) offers trainings, seminars, and consultations on a wide variety of data analysis and exploration. 
+
 
 ## Learning R
 * The [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/index.html) course offered through the Graduate Group in Ecology has excellent resources

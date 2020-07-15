@@ -7,4 +7,6 @@ output:
 
 # **Course Archive**
 
-### *This will eventually be an archive of previous courses offered through the mentoring program*
+### This will eventually be an archive of previous courses offered through the mentoring program.
+
+### *More information coming soon!*

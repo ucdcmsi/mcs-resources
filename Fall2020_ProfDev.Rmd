@@ -5,7 +5,10 @@ output:
 ---
 <br>
 
+
 # **Fall 2020: Professional Development Seminar**
+
+### *More information coming soon!*
 
 ## Syllabus
 * PDF coming soon
@@ -17,6 +20,18 @@ output:
 * X
 * Y
 * Z
+
+## Course Schedule
+* Week 1
+* Week 2
+* Week 3
+* Week 4
+* Week 5
+* Week 6
+* Week 7
+* Week 8
+* Week 9
+* Week 10
 
 ## Code of Conduct
 * coming soon

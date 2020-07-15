@@ -1,11 +1,11 @@
 output_dir: "."
 navbar:
-    title: "For Emerging Ocean Scientists"
+    title: " "
     left: 
       - text: "Home"
         href: index.html
       - text: "Courses"
-        icon: fa-binoculars  fa-1x
+        icon: fa-fish  fa-1x
         menu:
           - text: "Fall 2020: Professional Development"
             href: Fall2020_ProfDev.html
@@ -22,9 +22,6 @@ navbar:
             href: https://docs.google.com/spreadsheets/d/1w60Jja3kncjZw8KY0aUWuNanN9CF-bRqmqYYRb2MObw/edit?usp=sharing
           - text: "Post Opportunities"
             href: https://forms.gle/AnAuDkrS9Mv7z6SF7  
-      - text: "Peer Mentorship"
-        icon: fa-fish  fa-1x
-        href: peer_mentor.html
       - text: "Resources"
         icon: fa-anchor  fa-1x
         menu: 
@@ -36,6 +33,8 @@ navbar:
             href: QuantTools.Rmd
           - text: "JEDI in Marine Science"
             href: JEDImarsci.html
+          - text: "Peer Mentorship"
+            href: peer_mentor.html
     right:
       - text: "CMSI"
         icon: fa-map
@@ -43,4 +42,6 @@ navbar:
       - text: "MCS Major"
         icon: fa-university
         href: https://geology.ucdavis.edu/mcs
+name: "Resources for Emerging Ocean Scientists"
+
             

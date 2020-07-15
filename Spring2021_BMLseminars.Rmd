@@ -10,7 +10,10 @@ output:
 
 ## Mary and Louise Riley Seminar Series Complement
 
-### Resources for reading scientific papers 
+
+## Resources for reading scientific papers 
 * [Journal Article Notebook](Res_SciPapers/Liu_SciPaperNbk.pdf), [courtesy of Christine Liu](https://twitter.com/christineliuart/status/819285847316918272?s=20)
 * [How to Use Web of Science](Res_SciPapers/HowToUseWebOfScience.pdf)
 
+
+### *More information coming soon!*
