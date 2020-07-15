@@ -1,0 +1,7 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<center>**Justice, Diversity, Equity & Inclusion in the Marine Sciences**

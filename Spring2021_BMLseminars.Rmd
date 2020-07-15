@@ -1,0 +1,7 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<center>**Mary and Louise Riley Seminar Series Complement**
