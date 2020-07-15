@@ -5,8 +5,8 @@ output:
 ---
 <br>
 
-## CMSI Lead Mentor
-#Priya Shukla
+# CMSI Lead Mentor
+## Priya Shukla
 
 ![](photos/PShukla_CMSIphoto.jpg){width=250px}
 
