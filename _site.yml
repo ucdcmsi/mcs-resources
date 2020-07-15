@@ -24,7 +24,7 @@ navbar:
             href: https://forms.gle/AnAuDkrS9Mv7z6SF7  
       - text: "Peer Mentorship"
         icon: fa-fish  fa-1x
-        href: peer_mentor.Rmd
+        href: peer_mentor.html
       - text: "Other Resources"
         icon: fa-anchor  fa-1x
         menu: 
