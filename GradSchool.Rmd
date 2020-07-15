@@ -9,7 +9,7 @@ output:
 # **Resources for applying to graduate school**
 
 ## General Advice
-*[Academic Secret Menu, updated July 15, 2020](Res_Mentoring/ASecretMenu_15July2020.pdf)
+* [Academic Secret Menu, updated July 15, 2020](Res_Mentoring/ASecretMenu_15July2020.pdf)
 * [Resources for Undegraduate Students](http://www.raulpacheco.org/resources/resources-for-undergraduate-students/) by Dr. Raul Pacheco-Vega
 * [notes_for_students](https://gitlab.com/stanstrup-work/notes_for_students) by Jan Stanstrup
 * [A Field Guide to Grad School](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school) by Jessica McCrory Calarco
