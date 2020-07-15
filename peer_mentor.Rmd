@@ -9,6 +9,9 @@ output:
 
 # **Resources for Mentoring**
 
+## From UC Davis Grad Pathways
+* [Maximizing Mentoring Relationships (YouTube Video)](https://www.youtube.com/watch?v=PhjIrepywXc)
+
 ## From UCSF's [Accelerate Program](accelerate.ucsf.edu)
 * [Defining Mentorship from the Beginning](https://accelerate.ucsf.edu/training/mdp-seminar1)
 * [Communicating Effectively with Mentees](https://accelerate.ucsf.edu/training/mdp-seminar3)
