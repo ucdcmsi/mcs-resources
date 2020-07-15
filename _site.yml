@@ -26,7 +26,7 @@ navbar:
         icon: fa-anchor  fa-1x
         menu: 
           - text: "COVID-19"
-            href: COVID.html
+            href: covid19.html
           - text: "Applying to Internships/Jobs"
             href: Jobs.html
           - text: "Applying to Grad School"
@@ -36,7 +36,7 @@ navbar:
           - text: "Peer Mentorship"
             href: peer_mentor.html
           - text: "Quantitative Skills"
-            href: QuantTools.Rmd
+            href: QuantTools.html
           - text: "Science Communication"
             href: SciComm.html
           - text: "Science Writing"
