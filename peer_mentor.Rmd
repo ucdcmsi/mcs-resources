@@ -3,6 +3,6 @@ output:
   html_document:
     theme: yeti
 ---
-<br>
 
-<center>Undergrads & graduate students unite! 
+<br>
+<center> Undergrads & graduate students unite! 

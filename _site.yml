@@ -1,9 +1,20 @@
 output_dir: "."
 navbar:
-    title: ""
+    title: "For MCS Majors"
     left: 
       - text: "Home"
         href: index.html
+      - text: "Courses"
+        icon: fa-binoculars  fa-1x
+        menu:
+          - text: "Fall 2020: Professional Development"
+            href: Fall2020_ProfDev.html
+          - text: "Winter 2021: Career Discovery"
+            href: Winter2021_Careers.html
+          - text: "Spring 2021: BML Seminar Series"
+            href: Spring2021_BMLseminars.html
+          - text: "Previous Courses"
+            href: prev_courses.html
       - text: "Undergrad Opportunities at UCD"
         icon: fa-ship  fa-1x
         menu:
@@ -14,6 +25,15 @@ navbar:
       - text: "Peer Mentorship"
         icon: fa-fish  fa-1x
         href: peer_mentor.Rmd
+      - text: "Other Resources"
+        icon: fa-anchor  fa-1x
+        menu: 
+          - text: "Science Communication"
+            href: SciComm.html
+          - text: "Applying to Graduate School"
+            href: GradSchool.html
+          - text: "JEDI in Marine Science"
+            href: JEDImarsci.html
     right:
       - text: "Contact"
         icon: fa-paper-plane  fa-1x
