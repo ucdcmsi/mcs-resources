@@ -1,0 +1,23 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+
+
+# **Resources for Improving Quantitative Skills**
+
+
+## Learning R
+* The [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/index.html) course offered through the Graduate Group in Ecology has excellent resources
+* Weekly [#TidyTuesday Challenges](https://github.com/rfordatascience/tidytuesday) are an excellent way to hone your coding skills
+* Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz/index.html) is available for free on the web!
+
+*Fun fact: this website was made in R Markdown -- so learning to use R is a useful skill to learn beyond data analysis purposes!* 
+
+## Learning Python
+* [Python Programming for Beginners](https://outschool.com/classes/python-programming-for-beginners-harry-potter-sorting-hat-edition-rlPpH2mv?sectionUid=7a556d9f-7718-4bf4-a142-cd61c88550fb&fbclid=IwAR3_e5WJqoUqRD5TKIwuLmUaZGQdv8oHOjFmQ5xmLW9TMPfeyb2yI3oXNrs#abk7wme1xh) using Harry Potter Examples!
+
+## Learning GIS
+* [Getting Started with GIS](https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/#!) via ESRI

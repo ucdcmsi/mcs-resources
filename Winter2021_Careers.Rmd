@@ -4,4 +4,8 @@ output:
     theme: yeti
 ---
 <br>
-<center>**Career Discovery Course**
+
+
+**Career Discovery Course**
+
+### *This will entail weekly conversations with a wide variety of marine science professionals.*

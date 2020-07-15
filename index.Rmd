@@ -4,9 +4,25 @@ output:
     theme: yeti
 ---
 <br>
-<center>**Resources for Marine & Coastal Science Majors at UC Davis**
-<center> Brought to you by the MCS Major & CMSI at UC Davis
 
-<center>![](photos/thomas-kelley-t20pc32VbrU-unsplash.jpg) {width-250px}
+
+
+# **Resources for Marine & Coastal Science Majors at UC Davis**
 
 This is the beginning of a website full of resources for undergraduate marine science students at UC Davis! :) 
+
+Brought to you by the MCS Major & CMSI at UC Davis
+
+
+<br>
+
+<center>![](photos/PShukla_CMSIphoto.jpg)  {width-250px}
+
+
+## The CMSI Lead Mentor for the 2020-2021 school year will be [Priya Shukla](www.priyashukla.com).
+
+Priya is a third-year PhD student in the graduate group in Ecology. Her research explores the effects of climate change on shellfish aquaculture in California. She is working with the Hog Island and Tomales Bay Oyster Companies to explore whether pre-conditioning the commercially farmed Pacific Oyster (Crassostrea gigas) to elevated seawater temperatures improves the species’ resistance to disease outbreaks. Prior to beginning her PhD, Priya received her Master's in Ecology from San Diego State University and her Bachelor's from UC Davis in Environmental Science and Management, with a minor in Oceanography.
+
+She has also worked as an environmental consultant, a high school teacher, a policy specialist, a public educator, and a lab manager. Priya is an active science communicator and deeply invested in improving the accessibility of marine science. Her undergraduate experiences at UC Davis heavily shaped her trajectory, and she is excited to work with students in the MCS major to explore their career options. 
+
+E-mail: [pshukla@ucdavis.edu](pshukla@ucdavis.edu).

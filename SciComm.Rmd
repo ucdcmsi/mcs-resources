@@ -4,4 +4,10 @@ output:
     theme: yeti
 ---
 <br>
-<center>**Resources for Science Communication**
+
+
+# **Resources for Science Communication**
+
+## Writing Training / Opportunities
+* [Massive Science](https://massivesci.com/)
+* [oceanbites](https://oceanbites.org/)

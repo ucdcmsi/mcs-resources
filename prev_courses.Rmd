@@ -4,4 +4,7 @@ output:
     theme: yeti
 ---
 <br>
-<center>**Previous Courses**
+
+# **Course Archive**
+
+### *This will eventually be an archive of previous courses offered through the mentoring program*

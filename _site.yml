@@ -1,6 +1,6 @@
 output_dir: "."
 navbar:
-    title: "For MCS Majors"
+    title: "For Emerging Ocean Scientists"
     left: 
       - text: "Home"
         href: index.html
@@ -15,7 +15,7 @@ navbar:
             href: Spring2021_BMLseminars.html
           - text: "Previous Courses"
             href: prev_courses.html
-      - text: "Undergrad Opportunities at UCD"
+      - text: "Research Opportunities"
         icon: fa-ship  fa-1x
         menu:
           - text: "View Opportunities"
@@ -25,23 +25,22 @@ navbar:
       - text: "Peer Mentorship"
         icon: fa-fish  fa-1x
         href: peer_mentor.html
-      - text: "Other Resources"
+      - text: "Resources"
         icon: fa-anchor  fa-1x
         menu: 
           - text: "Science Communication"
             href: SciComm.html
           - text: "Applying to Graduate School"
             href: GradSchool.html
+          - text: "Quantitative Skills"
+            href: QuantTools.Rmd
           - text: "JEDI in Marine Science"
             href: JEDImarsci.html
     right:
-      - text: "Contact"
-        icon: fa-paper-plane  fa-1x
-        href: contact.html
       - text: "CMSI"
         icon: fa-map
         href: https://marinescience.ucdavis.edu/
-      - text: "MCS Majors"
+      - text: "MCS Major"
         icon: fa-university
         href: https://geology.ucdavis.edu/mcs
             
