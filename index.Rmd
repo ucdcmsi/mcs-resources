@@ -1,0 +1,12 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<center>**Resources for Marine & Coastal Science Majors at UC Davis**
+<center> Brought to you by the MCS Major & CMSI at UC Davis
+
+<center>![](photos/thomas-kelley-t20pc32VbrU-unsplash.jpg) {width-250px}
+
+This is the beginning of a website full of resources for undergraduate marine science students at UC Davis! :) 

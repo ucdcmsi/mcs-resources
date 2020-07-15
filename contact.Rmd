@@ -1,0 +1,7 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+The CMSI Lead Mentor for the 2020-2021 school year will be Priya Shukla(priyashukla.com). You can reach her at <pshukla@ucdavis.edu>.

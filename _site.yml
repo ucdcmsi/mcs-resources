@@ -1,0 +1,27 @@
+output_dir: "."
+navbar:
+    title: ""
+    left: 
+      - text: "Home"
+        href: index.html
+      - text: "Undergrad Opportunities at UCD"
+        icon: fa-ship  fa-1x
+        menu:
+          - text: "View Opportunities"
+            href: https://docs.google.com/spreadsheets/d/1w60Jja3kncjZw8KY0aUWuNanN9CF-bRqmqYYRb2MObw/edit?usp=sharing
+          - text: "Post Opportunities"
+            href: https://forms.gle/AnAuDkrS9Mv7z6SF7  
+      - text: "Peer Mentorship"
+        icon: fa-fish  fa-1x
+        href: peer_mentor.Rmd
+    right:
+      - text: "Contact"
+        icon: fa-paper-plane  fa-1x
+        href: contact.html
+      - text: "CMSI"
+        icon: fa-map
+        href: https://marinescience.ucdavis.edu/
+      - text: "MCS Majors"
+        icon: fa-university
+        href: https://geology.ucdavis.edu/mcs
+            
