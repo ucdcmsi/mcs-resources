@@ -16,7 +16,7 @@ Brought to you by the MCS Major & CMSI at UC Davis
 
 <br>
 
-<center>![](photos/PShukla_CMSIphoto.jpg)  {width-250px}
+<center>![](photos/PShukla_CMSIphoto.jpg){width=250px}
 
 
 ## The CMSI Lead Mentor for the 2020-2021 school year will be [Priya Shukla](www.priyashukla.com).
