@@ -12,7 +12,7 @@ output:
 * [Science Says]() at UC Davis
 * [#SciFund Challenge Classes](https://scifundchallenge.org/scifund-classes/)
 * [Science Talk Courses](https://www.sciencetalk.org/training--courses.html)
-  + Science Talk courses cost  to participate
+  + Cost ~$100 to participate in a **Science Talk** course
 
 ## Writing Training / Opportunities
 * [The Ethogram at UC Davis](https://theethogram.com/author/theethogram/)

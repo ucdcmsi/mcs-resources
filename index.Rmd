@@ -8,14 +8,16 @@ output:
 
 # **Resources for Marine & Coastal Science Majors at UC Davis**
 
-## About this Resource
 
-This is the beginning of a website full of resources for undergraduate marine science students at UC Davis!
+
+## About this Resource
+This website
+
 
 ### Have questions? Contact the new CMSI Lead Mentor, [Priya Shukla](contact.html).
 
 <br>
 
-### *More information coming soon!*
+*More information coming soon!*
 
 

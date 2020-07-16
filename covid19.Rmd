@@ -22,7 +22,7 @@ output:
 * [Statewide UPdate](https://update.covid19.ca.gov/)
 * [Data & Tools](https://covid19.ca.gov/data-and-tools/)
 
-## U.S. Centers for Disease Control
+## U.S. Centers for Disease Control and Prevention
 * [How to Protect Yourself & Others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [What to Do If You Are Sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 * [Cases in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
