@@ -2,11 +2,6 @@
 output: 
   html_document:
     theme: yeti
-    toc: yes
-    toc_float:
-      collapsed: yes
-    include:
-      in_footer: footer.html
 ---
 <br>
 
