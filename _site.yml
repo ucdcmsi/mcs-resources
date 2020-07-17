@@ -48,6 +48,19 @@ navbar:
       - text: "MCS Major"
         icon: fa-university
         href: https://geology.ucdavis.edu/mcs
+output:
+  html_document:
+    theme: yeti
+    #highlight: pygments
+    #code_folding: hide
+    toc: yes
+    toc_float:
+      collapsed: yes
+    include:
+      in_footer: footer.html
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
 name: "Resources for Emerging Ocean Scientists"
 
             
