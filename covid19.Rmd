@@ -1,13 +1,16 @@
 ---
+title: "Coronavirus Disease (COVID-19) Resources & Support"
 output: 
   html_document:
     theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
 
 
-<center> ## **Coronavirus Disease (COVID-19) Resources & Support**
-<br>
+<center>
 <img src="photos/united-nations-covid-19-response-3biD4LTasgY-unsplash.jpg" style="width:50%">
 </center>
 <br>

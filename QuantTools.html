@@ -11,7 +11,7 @@
 
 
 
-<title>QuantTools.utf8</title>
+<title>Quantitative Skill-Building</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -312,12 +312,6 @@ div.tocify {
   border-radius: 0px;
 }
 
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
 
 </style>
 
@@ -461,14 +455,13 @@ div.tocify {
 
 
 
+<h1 class="title toc-ignore">Quantitative Skill-Building</h1>
 
 </div>
 
 
 <br>
 <center>
-<div id="resources-for-improving-quantitative-skills" class="section level2">
-<h2><strong>Resources for Improving Quantitative Skills</strong></h2>
 <img src="photos/martin-adams-B2wIx44pYAU-unsplash.jpg" style="width:100%">
 </center>
 <p><br></p>
@@ -478,14 +471,14 @@ div.tocify {
 <li>The <a href="https://datalab.ucdavis.edu/about/">DataLab</a> (formerly the Data Science Initiative) offers trainings, seminars, and consultations on a wide variety of data analysis and exploration.</li>
 </ul>
 </div>
-<div id="learning-statistics" class="section level3">
-<h3>Learning Statistics</h3>
+<div id="statistics" class="section level3">
+<h3>Statistics</h3>
 <ul>
 <li><a href="http://mtvernon.wsu.edu/wp-content/uploads/2016/12/Statistics_for_Terrified_Biologists.pdf">Statistics for Terrified Biologists</a></li>
 </ul>
 </div>
-<div id="learning-r" class="section level3">
-<h3>Learning R</h3>
+<div id="programming-in-r" class="section level3">
+<h3>Programming in R</h3>
 <ul>
 <li><a href="https://gge-ucd.github.io/R-DAVIS/index.html">R-DAVIS</a> course offered through the Graduate Group in Ecology</li>
 <li>Weekly <a href="https://github.com/rfordatascience/tidytuesday">#TidyTuesday Challenges</a></li>
@@ -493,14 +486,14 @@ div.tocify {
 </ul>
 <p><em>Fun fact: this website was made in R Markdown – so learning to use R is a useful skill to learn beyond data analysis purposes!</em></p>
 </div>
-<div id="learning-python" class="section level3">
-<h3>Learning Python</h3>
+<div id="programming-in-python" class="section level3">
+<h3>Programming in Python</h3>
 <ul>
 <li><a href="https://outschool.com/classes/python-programming-for-beginners-harry-potter-sorting-hat-edition-rlPpH2mv?sectionUid=7a556d9f-7718-4bf4-a142-cd61c88550fb&amp;fbclid=IwAR3_e5WJqoUqRD5TKIwuLmUaZGQdv8oHOjFmQ5xmLW9TMPfeyb2yI3oXNrs#abk7wme1xh">Python Programming for Beginners</a> using Harry Potter Examples!</li>
 </ul>
 </div>
-<div id="learning-gis" class="section level3">
-<h3>Learning GIS</h3>
+<div id="gis" class="section level3">
+<h3>GIS</h3>
 <ul>
 <li><a href="https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/#!">Getting Started with GIS</a> via ESRI</li>
 </ul>
@@ -521,12 +514,11 @@ div.tocify {
 <li><a href="https://mitcommlab.mit.edu/be/commkit/github-resources/">MIT Communication Lab GitHub Resources</a></li>
 </ul>
 </div>
-<div id="best-practices-coding-dcumentation-organization" class="section level3">
-<h3>Best Practices: Coding / Dcumentation / Organization</h3>
+<div id="best-practices-for-organizing-code" class="section level3">
+<h3>Best Practices for Organizing Code</h3>
 <ul>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/best-practices-for-coding-organization-and-documentation/">MIT Communication Lab Coding Mindset</a></li>
 </ul>
-</div>
 </div>
 
 
@@ -575,7 +567,7 @@ $(document).ready(function ()  {
 
     // establish options
     var options = {
-      selectors: "h1,h2,h3",
+      selectors: "h1,h2,h3,h4",
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
@@ -584,7 +576,7 @@ $(document).ready(function ()  {
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
     };
-    options.showAndHide = false;
+    options.showAndHide = true;
     options.smoothScroll = true;
 
     // tocify

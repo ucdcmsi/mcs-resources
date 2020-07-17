@@ -1,13 +1,14 @@
 ---
+title: "Quantitative Skill-Building"
 output: 
   html_document:
     theme: yeti
-    toc: yes
-    toc_float:
-      collapsed: no
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
-<center>  ## **Resources for Improving Quantitative Skills**
+<center>
 <img src="photos/martin-adams-B2wIx44pYAU-unsplash.jpg" style="width:100%"> 
 </center>
 <br>
@@ -15,20 +16,20 @@ output:
 ### UC Davis DataLab
 * The [DataLab](https://datalab.ucdavis.edu/about/) (formerly the Data Science Initiative) offers trainings, seminars, and consultations on a wide variety of data analysis and exploration. 
 
-### Learning Statistics
+### Statistics
 * [Statistics for Terrified Biologists](http://mtvernon.wsu.edu/wp-content/uploads/2016/12/Statistics_for_Terrified_Biologists.pdf)
 
-### Learning R
+### Programming in R
 * [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/index.html) course offered through the Graduate Group in Ecology
 * Weekly [#TidyTuesday Challenges](https://github.com/rfordatascience/tidytuesday)
 * Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz/index.html)
 
 *Fun fact: this website was made in R Markdown -- so learning to use R is a useful skill to learn beyond data analysis purposes!* 
 
-### Learning Python
+### Programming in Python
 * [Python Programming for Beginners](https://outschool.com/classes/python-programming-for-beginners-harry-potter-sorting-hat-edition-rlPpH2mv?sectionUid=7a556d9f-7718-4bf4-a142-cd61c88550fb&fbclid=IwAR3_e5WJqoUqRD5TKIwuLmUaZGQdv8oHOjFmQ5xmLW9TMPfeyb2yI3oXNrs#abk7wme1xh) using Harry Potter Examples!
 
-### Learning GIS
+### GIS
 * [Getting Started with GIS](https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/#!) via ESRI
 
 ### Data Visualzation / Figure Design
@@ -41,5 +42,5 @@ output:
 * [A Quick Introduction to Version Control with Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668) by Blischak et al. (2016)
 * [MIT Communication Lab GitHub Resources](https://mitcommlab.mit.edu/be/commkit/github-resources/)
 
-### Best Practices: Coding / Dcumentation / Organization
+### Best Practices for Organizing Code
 * [MIT Communication Lab Coding Mindset](https://mitcommlab.mit.edu/be/commkit/best-practices-for-coding-organization-and-documentation/)

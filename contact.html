@@ -11,7 +11,7 @@
 
 
 
-<title>contact.utf8</title>
+<title>CMSI Lead Mentor</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -250,6 +253,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -257,6 +323,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -329,13 +405,13 @@ $(document).ready(function () {
       <a href="covid19.html">COVID-19</a>
     </li>
     <li>
-      <a href="BMLseminar.html">BML Seminar Series</a>
-    </li>
-    <li>
       <a href="Jobs.html">Applying to Internships/Jobs</a>
     </li>
     <li>
       <a href="GradSchool.html">Applying to Grad School</a>
+    </li>
+    <li>
+      <a href="BMLseminar.html">BML Seminar Series</a>
     </li>
     <li>
       <a href="JEDImarsci.html">JEDI in Marine Science</a>
@@ -379,32 +455,15 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">CMSI Lead Mentor</h1>
 
 </div>
 
-<div id="TOC">
-<ul>
-<li><a href="#cmsi-lead-mentor">CMSI Lead Mentor</a><ul>
-<li><a href="#priya-shukla"><strong><span>Priya Shukla</span></strong></a><ul>
-<li><a href="#contact-information">Contact Information</a></li>
-</ul></li>
-<li><a href="#about-priya">About Priya</a></li>
-</ul></li>
-</ul>
-</div>
 
 <p><br></p>
 <center>
-<div id="cmsi-lead-mentor" class="section level1">
-<h1>CMSI Lead Mentor</h1>
 <div id="priya-shukla" class="section level2">
 <h2><strong><a href="www.priyashukla.com">Priya Shukla</a></strong></h2>
-<p><br> <br></p>
-<div id="contact-information" class="section level3">
-<h3>Contact Information</h3>
-<p>E-mail: <strong><a href="mailto:pshukla@ucdavis.edu" class="email">pshukla@ucdavis.edu</a></strong></p>
-<p>Office Hours for Fall 2020: TBD</p>
-<p>Location: Zoom (link forthcoming)</p>
 <p><br></p>
 <img src="photos/PShukla_CMSIphoto.jpg" style="width:75%">
 <figcaption>
@@ -412,16 +471,24 @@ $(document).ready(function () {
 </figcaption>
 <p><br> <br></p>
 </div>
-</div>
 <div id="about-priya" class="section level2">
 <h2>About Priya</h2>
 <p>Priya is a third-year PhD student in the graduate group in Ecology. Her research explores the effects of climate change on shellfish aquaculture in California. She is working with the Hog Island and Tomales Bay Oyster Companies to explore whether pre-conditioning the commercially farmed Pacific Oyster (Crassostrea gigas) to elevated seawater temperatures improves the species’ resistance to disease outbreaks. Prior to beginning her PhD, Priya received her Master’s in Ecology from San Diego State University and her Bachelor’s from UC Davis in Environmental Science and Management, with a minor in Oceanography.</p>
 <p>She has also worked as an environmental consultant, a high school teacher, a policy specialist, a public educator, and a lab manager. Priya is an active science communicator and deeply invested in improving the accessibility of marine science. Her undergraduate experiences at UC Davis heavily shaped her trajectory, and she is excited to work with students in the MCS major to explore their career options.</p>
+<p><br></p>
+</div>
+<div id="contact-information" class="section level2">
+<h2>Contact Information</h2>
+<p>E-mail: <strong><a href="mailto:pshukla@ucdavis.edu" class="email">pshukla@ucdavis.edu</a></strong></p>
+<p>Office Hours for Fall 2020: TBD</p>
+<p>Location: Zoom (link forthcoming)</p>
+<p><br></p>
+</div>
+
+
+
 </div>
 </div>
-
-
-
 
 </div>
 
@@ -454,6 +521,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

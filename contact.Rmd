@@ -1,22 +1,17 @@
 ---
+title: "CMSI Lead Mentor"
 output: 
   html_document:
     theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
 
-<center> # CMSI Lead Mentor
+
+<center>
 ## **[Priya Shukla](www.priyashukla.com)**
-<br>
-<br>
-
-### Contact Information
-E-mail: **<pshukla@ucdavis.edu>**
-
-Office Hours for Fall 2020: TBD
-
-Location: Zoom (link forthcoming)
-
 <br>
 
 <img src="photos/PShukla_CMSIphoto.jpg" style="width:75%"> 
@@ -32,3 +27,13 @@ Priya is a third-year PhD student in the graduate group in Ecology. Her research
 
 She has also worked as an environmental consultant, a high school teacher, a policy specialist, a public educator, and a lab manager. Priya is an active science communicator and deeply invested in improving the accessibility of marine science. Her undergraduate experiences at UC Davis heavily shaped her trajectory, and she is excited to work with students in the MCS major to explore their career options.
 
+<br>
+
+## Contact Information
+E-mail: **<pshukla@ucdavis.edu>**
+
+Office Hours for Fall 2020: TBD
+
+Location: Zoom (link forthcoming)
+
+<br>

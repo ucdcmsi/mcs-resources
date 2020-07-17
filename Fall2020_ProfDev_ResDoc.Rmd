@@ -1,16 +1,19 @@
 ---
+title: "Resources from Fall 2020 Professional Development Seminar"
 output: 
   html_document:
     theme: yeti
-    toc: false
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
 
 
 
-## **Fall 2020: Professional Development Seminar** 
-### Collection of Resources {.tabset .tabset-fade}
 
+## Resources coming soon! :)  {.tabset .tabset-fade}
+<br>
 
 #### Topic 1
 * Coming Soon

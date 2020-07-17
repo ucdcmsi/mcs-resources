@@ -11,7 +11,7 @@
 
 
 
-<title>sciwri.utf8</title>
+<title>Science Writing</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -312,12 +312,6 @@ div.tocify {
   border-radius: 0px;
 }
 
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
 
 </style>
 
@@ -461,25 +455,24 @@ div.tocify {
 
 
 
+<h1 class="title toc-ignore">Science Writing</h1>
 
 </div>
 
 
 <p><br></p>
 <center>
-<div id="writing-scientifically" class="section level2">
-<h2><strong>Writing Scientifically</strong></h2>
 <img src="photos/isaac-smith-6EnTPvPPL6I-unsplash.jpg" style="width:75%">
 </center>
 <p><br></p>
-<div id="general-writing-advice" class="section level3">
-<h3>General Writing Advice</h3>
+<div id="general-writing-advice" class="section level2">
+<h2>General Writing Advice</h2>
 <ul>
 <li><a href="http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf">How to construct a <em>Nature</em> summary paragraph</a></li>
 </ul>
 </div>
-<div id="writing-grants-fellowships-application-research-proposals" class="section level3">
-<h3>Writing Grants + Fellowships Application &amp; Research Proposals</h3>
+<div id="writing-grants-fellowships-application-research-proposals" class="section level2">
+<h2>Writing Grants + Fellowships Application &amp; Research Proposals</h2>
 <ul>
 <li>Fellowship Application Tips from
 <ul>
@@ -489,8 +482,8 @@ div.tocify {
 </ul></li>
 </ul>
 </div>
-<div id="writing-manuscriptspapers" class="section level3">
-<h3>Writing Manuscripts/Papers</h3>
+<div id="writing-manuscriptspapers" class="section level2">
+<h2>Writing Manuscripts/Papers</h2>
 <ul>
 <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers</a> by Mensh &amp; Kording (2017)</li>
 <li><a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165">Simple rules for concise scientific writing</a></li>
@@ -505,19 +498,18 @@ div.tocify {
 </ul></li>
 </ul>
 </div>
-<div id="writing-a-talk-presentation" class="section level3">
-<h3>Writing a Talk / Presentation</h3>
+<div id="writing-a-talk-presentation" class="section level2">
+<h2>Writing a Talk / Presentation</h2>
 <ul>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/introduction-to-public-speaking/">MIT Communication Lab Public Speaking Tips</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/slideshow/">MIT Communication Lab Slide Deck Design</a></li>
 </ul>
 </div>
-<div id="designing-a-poster" class="section level3">
-<h3>Designing a Poster</h3>
+<div id="designing-a-poster" class="section level2">
+<h2>Designing a Poster</h2>
 <ul>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/poster/">MIT Communication Lab Poster Structure</a></li>
 </ul>
-</div>
 </div>
 
 
@@ -566,7 +558,7 @@ $(document).ready(function ()  {
 
     // establish options
     var options = {
-      selectors: "h1,h2,h3",
+      selectors: "h1,h2,h3,h4",
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
@@ -575,7 +567,7 @@ $(document).ready(function ()  {
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
     };
-    options.showAndHide = false;
+    options.showAndHide = true;
     options.smoothScroll = true;
 
     // tocify

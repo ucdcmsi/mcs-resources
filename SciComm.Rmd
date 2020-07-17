@@ -1,50 +1,46 @@
 ---
+title: "Science Communication"
 output: 
   html_document:
     theme: yeti
-    toc: yes
-    toc_float:
-      collapsed: no
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
-
-
-<center> ## **Science Communication**
-
 <img src="photos/ben-white-1zA_mC846yU-unsplash.jpg" style="width:75%">
 </center>
 <br>
 <br>
 
-### General Science Communication Resources
+## General Science Communication Resources
 * [AAAS Communication Toolkit](https://www.aaas.org/resources/communication-toolkit)
 
-### Science Communcation Training
+## Science Communcation Training
 * [Science Says](https://davissciencesays.ucdavis.edu/) at UC Davis
 * [#SciFund Challenge Classes](https://scifundchallenge.org/scifund-classes/)
 * [Science Talk Courses](https://www.sciencetalk.org/training--courses.html)
   + Cost ~$100 to participate in a **Science Talk** course
 
-### Writing Training / Opportunities
+## Writing Training / Opportunities
 * [The Ethogram at UC Davis](https://theethogram.com/author/theethogram/)
 * [Massive Science](https://massivesci.com/)
 * [oceanbites](https://oceanbites.org/)
 
-### Scientific Filmmaking
+## Scientific Filmmaking
 * [Jackson Wild Media Lab](https://www.jacksonwild.org/2020-media-lab.html)
 * Eric Sanford has also periodically offers a scientific filmmaking course at UC Davis
-
 ### Science Policy
 * [MIT Communication Lab Intro to Policy Communication](https://mitcommlab.mit.edu/be/commkit/public-policy-communication-introduction/)
 * [National Science Policy Network SciPol Resource Guide](https://scipolnetwork.org/page/scipol-guide)
 
-### Useful Twitter Hashtags
-#### *Science Communication*
+## Useful Twitter Hashtags
+### *Science Communication*
 * [#SciComm](https://twitter.com/search?q=%23scicomm&src=typed_query): Science Communication
 * [#SciWri](https://twitter.com/search?q=%23sciwri&src=typed_query): Science Writing
 * [#SciPol](https://twitter.com/search?q=%23scipol&src=typed_query): Science Policy
 
-#### *About Academia*
+### *About Academia*
 * [#CCtoPhD](https://twitter.com/search?q=%23cctophd&src=typed_query): Community College to PhD
 * [#PhDChat](https://twitter.com/search?q=%23phdchat&src=typed_query)
 * [#PhDLife](https://twitter.com/search?q=%23phdlife&src=typed_query)

@@ -1,12 +1,13 @@
 ---
+title: "Winter 2021: Career Discovery Seminar"
 output: 
   html_document:
     theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
-
-
-## **Career Discovery Seminar**
 
 This will be a career exploration seminar for juniors, seniors and transfer students (max: 30
 students) in the MCS major with weekly guest speakers, in consultation with the UC

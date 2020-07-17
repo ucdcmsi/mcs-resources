@@ -1,12 +1,13 @@
 ---
+title: "Applying to Graduate School"
 output: 
   html_document:
     theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
-
-
-# **Resources for applying to graduate school**
 
 ## General Advice
 * [Academic Secret Menu, updated July 15, 2020](Res_Mentoring/ASecretMenu_15July2020.pdf)

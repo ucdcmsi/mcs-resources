@@ -11,7 +11,7 @@
 
 
 
-<title>Fall2020_ProfDev.utf8</title>
+<title>Fall 2020: Professional Development Seminar</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -250,6 +253,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -257,6 +323,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -379,20 +455,25 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">Fall 2020: Professional Development Seminar</h1>
 
 </div>
 
 
 <p><br></p>
 <center>
-<div id="fall-2020-professional-development-seminar" class="section level2">
-<h2><strong>Fall 2020: Professional Development Seminar</strong></h2>
-<p><img src="photos/nariman-mesharrafa-ROSPIhZsOaI-unsplash.jpg" style="width:75%"></p>
+<p><img src="photos/nariman-mesharrafa-ROSPIhZsOaI-unsplash.jpg" style="width: 50%"></p>
 <p>This is a professional development seminar for sophomore, junior, and first-year transfer students in the Marine and Coastal Science (MCS) major (class is capped at 30 students) that covers topics spanning how to find and read scientific papers; what academic science/research entails; building a resume and/or CV; writing grant and fellowship applications; applying for jobs, internships, and graduate school; science communication; and science ethics. By the end of this seminar, undergraduate students should have a better understanding of how to navigate the upper division portion of their undergraduate experience as well as exploring career options after completing their degrees.</p>
 <p>Download the Fall 2020 syllabus <a href="pdfs/SYLLABUS_PLACEHOLDER.pdf">here</a>.</p>
 View the resources collected by students in the course <a href="Fall2020_ProfDev_ResDoc.html">here</a>.
 </center>
+<p><br> <br></p>
+<div id="territorial-acknowledgement" class="section level3">
+<h3>Territorial Acknowledgement</h3>
+<p>We <a href="https://native-land.ca/territory-acknowledgement/">acknowledge</a> that UC Davis campus exists on land that the Patwin/Suisune People have thrived on since time immemorial. As settlers, we must recognize how we benefit from colonialism and how it is has impacted the Native Peoples whose lands we now use. It is incumbent upon us to dismantle components of colonialism to ensure a more just and equitable future for the Patwin/Suisune People.</p>
+<p>This acknowledgement was made possible by <a href="native-land.ca">native-land.ca</a>. Consider using this resource to determine which Native Peoples’ lands you currently occupy.</p>
 <p><br></p>
+</div>
 <div id="syllabus" class="section level3 tabset tabset-fade">
 <h3>Syllabus</h3>
 <div id="course-schedule" class="section level4">
@@ -415,8 +496,16 @@ View the resources collected by students in the course <a href="Fall2020_ProfDev
 </div>
 <div id="grading" class="section level4">
 <h4>Grading</h4>
-<p>The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments. * In order to participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week, missing several classes will put a passing grade in jeopardy. * Assignments will consist of pre-class reading and brief questionnaire and should be submitted by 12:00pm the day of class.</p>
-<p>Because a key goal of this course is to share and collect resources, the bar for a passing grade is high: * You must attend 7/10 classes. * All assignments must be turned in.</p>
+<ul>
+<li>The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments.</li>
+<li>In order to participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week, missing several classes will put a passing grade in jeopardy.</li>
+<li>Assignments will consist of pre-class reading and brief questionnaire and should be submitted by 12:00pm the day of class.</li>
+<li>Because a key goal of this course is to share and collect resources, the bar for a passing grade is high:
+<ul>
+<li>You must attend 7/10 classes.</li>
+<li>All assignments must be turned in.</li>
+</ul></li>
+</ul>
 </div>
 <div id="assignments" class="section level4">
 <h4>Assignments</h4>
@@ -442,11 +531,6 @@ View the resources collected by students in the course <a href="Fall2020_ProfDev
 <div id="jedi-in-marine-science" class="section level4">
 <h4>JEDI in Marine Science</h4>
 <p>You may notice that Justice, Diversity, Equity &amp; Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because issue pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named “JEDI Mind Tricks”). JEDI resources are also available <a href="JEDImarsci.html">here</a>.</p>
-</div>
-<div id="territorial-acknowledgement" class="section level4">
-<h4>Territorial Acknowledgement</h4>
-<p>We <a href="https://native-land.ca/territory-acknowledgement/">acknowledge</a> that UC Davis campus exists on land that the Patwin/Suisune People have thrived on since time immemorial. As settlers, we must recognize how we benefit from colonialism and how it is has impacted the Native Peoples whose lands we now use. It is incumbent upon us to dismantle components of colonialism to ensure a more just and equitable future for the Patwin/Suisune People.</p>
-<p>This acknowledgement was made possible by <a href="native-land.ca">native-land.ca</a>. Consider using this resource to determine which Native Peoples’ lands you currently occupy.</p>
 </div>
 <div id="code-of-conduct" class="section level4">
 <h4>Code of Conduct</h4>
@@ -477,10 +561,11 @@ View the resources collected by students in the course <a href="Fall2020_ProfDev
 <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact: * Priya Shukla, the course facilitator: <a href="mailto:pshukla@ucdavis.edu" class="email">pshukla@ucdavis.edu</a> * Anne Todgham, the Insructor affiliated with this course: <a href="mailto:todgham@ucdavis.edu" class="email">todgham@ucdavis.edu</a> * Mandy Hanou, the Undergraduate Advisor: <a href="mailto:mlrousseau@ucdavis.edu" class="email">mlrousseau@ucdavis.edu</a> * Tawny Mata, the CMSI Executive Director: <a href="mailto:tmmata@ucdavis.edu" class="email">tmmata@ucdavis.edu</a> * Additionally, you can also reach out to the <a href="http://ombuds.ucdavis.edu/">UC Davis ombuds office</a>.</p>
 </div>
 </div>
+
+
+
 </div>
-
-
-
+</div>
 
 </div>
 
@@ -513,6 +598,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
