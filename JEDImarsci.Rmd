@@ -6,7 +6,7 @@ output:
 <br>
 
 
-# **Justice, Diversity, Equity & Inclusion in the Marine Sciences**
+# **Justice, Equity, Diversity & Inclusion in the Marine Sciences**
 
 ## Diversity, Equity and Inclusion at UC Davis
 * [Office of Diversity, Equity and Inclusion](https://diversity.ucdavis.edu/diversity-resources)
@@ -16,13 +16,16 @@ output:
 ## Imposter Syndrome
 * [Imposter syndrome isn’t the problem—toxic workplaces are](https://qz.com/work/1286549/imposter-syndrome-lets-toxic-work-culture-off-the-hook/) by Christine Liu
 
-## Academic Articles About JEDI in Marine Science
+## JEDI in Marine Science
 * From A Special Issue of [Oceanography]() entitled ["Graduate Education in the Ocean Sciences"](https://tos.org/oceanography/issue/volume-29-issue-01) (2016)
 *All articles are open access*
 
   + [Strategies for Increasing Diversity in the Ocean Science Workforce Through Mentoring](https://doi.org/10.5670/oceanog.2016.11) by Johnson et al.
   + [The Ocean Science Social Diversity Challenge](https://doi.org/10.5670/oceanog.2016.12) by Gilligan & Ebanks
   + [MS PHD’S: By and for Minorities](https://doi.org/10.5670/oceanog.2016.13) by Ricciardi et al.
+  
+* [Minorities in Ocean Sciences: The LGBT Pride Weekend Edition](http://www.deepseanews.com/2011/06/minorities-in-ocean-sciences-the-lgbt-pride-weekend-edition/)
+
 
 ## Anti-Racism Resources
 * [Scaffolded Anti-Racist Resources](https://docs.google.com/document/u/1/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/mobilebasic)
@@ -44,11 +47,19 @@ output:
 * [California Through Native Eyes: Reclaiming History by William J Bauer](https://www.goodreads.com/book/show/27781495-california-through-native-eyes)
 * [An Indigenous Peoples' History of the United States by Roxanne Dunbar-Ortiz](https://www.goodreads.com/book/show/20588662-an-indigenous-peoples-history-of-the-united-states)
 
+## LGBTQIA+ Resources
+* [500 Queer Scientists](https://500queerscientists.com/)
+*X
 
-## Accessibility in STEM
+## Accessibility/Disabilities in STEM
 * [STEM Climate for Students with Disabilities](https://www.higheredtoday.org/2018/05/23/stem-climate-students-disabilities/)
 * [It’s time to stop excluding people with disabilities from science](https://massivesci.com/articles/disability-science-career-stem-field/)
 * [How immunocompromised people manage risk (Twitter Thread)](https://twitter.com/geotransversals/status/1277410466973671424?s=20)
 
 ## Mental Health in STEM
 * [The Importance of Mental Health Awareness in STEM!](https://thefemalescientist.com/guide/megan-sharrock-1/1989/the-importance-of-mental-health-awareness-in-stem/)
+
+## Women in Science
+* [500 WOmen Scientists](https://500womenscientists.org/resources)
+* [American Association For University Women (AAUW)](https://www.aauw.org/get-empowered/)
+* [Association for Women in Science (AWIS)](https://www.awis.org/)
