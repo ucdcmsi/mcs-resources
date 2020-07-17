@@ -8,8 +8,11 @@ output:
 
 # **Resources for Science Communication**
 
-## General Science Communcation Training
-* [Science Says]() at UC Davis
+## General Science Communication Resources
+* [AAAS Communication Toolkit] (https://www.aaas.org/resources/communication-toolkit)
+
+## Science Communcation Training
+* [Science Says](https://davissciencesays.ucdavis.edu/) at UC Davis
 * [#SciFund Challenge Classes](https://scifundchallenge.org/scifund-classes/)
 * [Science Talk Courses](https://www.sciencetalk.org/training--courses.html)
   + Cost ~$100 to participate in a **Science Talk** course
@@ -25,5 +28,6 @@ output:
 
 ## Science Policy (this could be its own website!)
 * [MIT Communication Lab Intro to Policy Communication](https://mitcommlab.mit.edu/be/commkit/public-policy-communication-introduction/)
+* [National Science Policy Network SciPol Resource Guide](https://scipolnetwork.org/page/scipol-guide)
 
 ### *More information coming soon!*
