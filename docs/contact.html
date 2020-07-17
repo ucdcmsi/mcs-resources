@@ -11,7 +11,7 @@
 
 
 
-<title>SciComm.utf8</title>
+<title>contact.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,6 +23,7 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
@@ -73,6 +74,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 
 
@@ -250,6 +252,9 @@ $(document).ready(function () {
 </style>
 
 <!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
 
 
 
@@ -345,7 +350,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"> </a>
+      <a class="navbar-brand" href="index.html">For Emerging Ocean Scientists</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -402,28 +407,19 @@ div.tocify {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="covid19.html">COVID-19</a>
+      <a href="SciComm.html">Science Communication</a>
     </li>
     <li>
-      <a href="Jobs.html">Applying to Internships/Jobs</a>
+      <a href="GradSchool.html">Applying to Graduate School</a>
     </li>
     <li>
-      <a href="GradSchool.html">Applying to Grad School</a>
+      <a href="QuantTools.Rmd">Quantitative Skills</a>
     </li>
     <li>
       <a href="JEDImarsci.html">JEDI in Marine Science</a>
     </li>
     <li>
       <a href="peer_mentor.html">Peer Mentorship</a>
-    </li>
-    <li>
-      <a href="QuantTools.html">Quantitative Skills</a>
-    </li>
-    <li>
-      <a href="SciComm.html">Science Communication</a>
-    </li>
-    <li>
-      <a href="sciwri.html">Science Writing</a>
     </li>
   </ul>
 </li>
@@ -450,6 +446,14 @@ div.tocify {
 
 <div class="fluid-row" id="header">
 
+<div class="btn-group pull-right">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
 
 
 
@@ -457,67 +461,13 @@ div.tocify {
 
 
 <p><br></p>
-<div id="resources-for-science-communication" class="section level1">
-<h1><strong>Resources for Science Communication</strong></h1>
-<div id="general-science-communication-resources" class="section level2">
-<h2>General Science Communication Resources</h2>
-<ul>
-<li><a href="https://www.aaas.org/resources/communication-toolkit">AAAS Communication Toolkit</a></li>
-</ul>
-</div>
-<div id="science-communcation-training" class="section level2">
-<h2>Science Communcation Training</h2>
-<ul>
-<li><a href="https://davissciencesays.ucdavis.edu/">Science Says</a> at UC Davis</li>
-<li><a href="https://scifundchallenge.org/scifund-classes/">#SciFund Challenge Classes</a></li>
-<li><a href="https://www.sciencetalk.org/training--courses.html">Science Talk Courses</a>
-<ul>
-<li>Cost ~$100 to participate in a <strong>Science Talk</strong> course</li>
-</ul></li>
-</ul>
-</div>
-<div id="writing-training-opportunities" class="section level2">
-<h2>Writing Training / Opportunities</h2>
-<ul>
-<li><a href="https://theethogram.com/author/theethogram/">The Ethogram at UC Davis</a></li>
-<li><a href="https://massivesci.com/">Massive Science</a></li>
-<li><a href="https://oceanbites.org/">oceanbites</a></li>
-</ul>
-</div>
-<div id="scientific-filmmaking" class="section level2">
-<h2>Scientific Filmmaking</h2>
-<ul>
-<li><a href="https://www.jacksonwild.org/2020-media-lab.html">Jackson Wild Media Lab</a></li>
-<li>Eric Sanford has also periodically offers a scientific filmmaking course at UC Davis</li>
-</ul>
-</div>
-<div id="science-policy" class="section level2">
-<h2>Science Policy</h2>
-<ul>
-<li><a href="https://mitcommlab.mit.edu/be/commkit/public-policy-communication-introduction/">MIT Communication Lab Intro to Policy Communication</a></li>
-<li><a href="https://scipolnetwork.org/page/scipol-guide">National Science Policy Network SciPol Resource Guide</a></li>
-</ul>
-</div>
-<div id="useful-twitter-hashtags" class="section level2">
-<h2>Useful Twitter Hashtags</h2>
-<div id="science-communication" class="section level3">
-<h3><em>Science Communication</em></h3>
-<ul>
-<li><a href="https://twitter.com/search?q=%23scicomm&amp;src=typed_query">#SciComm</a>: Science Communication</li>
-<li><a href="https://twitter.com/search?q=%23sciwri&amp;src=typed_query">#SciWri</a>: Science Writing</li>
-<li><a href="https://twitter.com/search?q=%23scipol&amp;src=typed_query">#SciPol</a>: Science Policy</li>
-</ul>
-</div>
-<div id="about-academia" class="section level3">
-<h3><em>About Academia</em></h3>
-<ul>
-<li><a href="https://twitter.com/search?q=%23cctophd&amp;src=typed_query">#CCtoPhD</a>: Community College to PhD</li>
-<li><a href="https://twitter.com/search?q=%23phdchat&amp;src=typed_query">#PhDChat</a></li>
-<li><a href="https://twitter.com/search?q=%23phdlife&amp;src=typed_query">#PhDLife</a></li>
-<li><a href="">#ICanHazPDF</a>: For PDFs you can’t access thru university licenses</li>
-</ul>
-</div>
-</div>
+<div id="cmsi-lead-mentor-priya-shukla" class="section level2">
+<h2>CMSI Lead Mentor: Priya Shukla</h2>
+<p><img src="photos/PShukla_CMSIphoto.jpg" width="250" /></p>
+<p>The CMSI Lead Mentor for the 2020-2021 school year will be <strong><a href="www.priyashukla.com">Priya Shukla</a></strong>.</p>
+<p>Priya is a third-year PhD student in the graduate group in Ecology. Her research explores the effects of climate change on shellfish aquaculture in California. She is working with the Hog Island and Tomales Bay Oyster Companies to explore whether pre-conditioning the commercially farmed Pacific Oyster (Crassostrea gigas) to elevated seawater temperatures improves the species’ resistance to disease outbreaks. Prior to beginning her PhD, Priya received her Master’s in Ecology from San Diego State University and her Bachelor’s from UC Davis in Environmental Science and Management, with a minor in Oceanography.</p>
+<p>She has also worked as an environmental consultant, a high school teacher, a policy specialist, a public educator, and a lab manager. Priya is an active science communicator and deeply invested in improving the accessibility of marine science. Her undergraduate experiences at UC Davis heavily shaped her trajectory, and she is excited to work with students in the MCS major to explore their career options.</p>
+<p>E-mail: <a href="pshukla@ucdavis.edu">pshukla@ucdavis.edu</a>. Office Hours for Fall 2020: TBD Location: Zoom (link TBD)</p>
 </div>
 
 
@@ -555,6 +505,11 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
 
 <script>
 $(document).ready(function ()  {

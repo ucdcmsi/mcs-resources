@@ -11,7 +11,7 @@
 
 
 
-<title>SciComm.utf8</title>
+<title>JEDImarsci.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -253,69 +250,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -323,16 +257,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -345,7 +269,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"> </a>
+      <a class="navbar-brand" href="index.html">For Emerging Ocean Scientists</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -354,7 +278,7 @@ div.tocify {
 </li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    <span class="fa fa-fish  fa-1x"></span>
+    <span class="fa fa-binoculars  fa-1x"></span>
      
     Courses
      
@@ -392,6 +316,13 @@ div.tocify {
     </li>
   </ul>
 </li>
+<li>
+  <a href="peer_mentor.html">
+    <span class="fa fa-fish  fa-1x"></span>
+     
+    Peer Mentorship
+  </a>
+</li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-anchor  fa-1x"></span>
@@ -402,28 +333,16 @@ div.tocify {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="covid19.html">COVID-19</a>
-    </li>
-    <li>
-      <a href="Jobs.html">Applying to Internships/Jobs</a>
-    </li>
-    <li>
-      <a href="GradSchool.html">Applying to Grad School</a>
-    </li>
-    <li>
-      <a href="JEDImarsci.html">JEDI in Marine Science</a>
-    </li>
-    <li>
-      <a href="peer_mentor.html">Peer Mentorship</a>
-    </li>
-    <li>
-      <a href="QuantTools.html">Quantitative Skills</a>
-    </li>
-    <li>
       <a href="SciComm.html">Science Communication</a>
     </li>
     <li>
-      <a href="sciwri.html">Science Writing</a>
+      <a href="GradSchool.html">Applying to Graduate School</a>
+    </li>
+    <li>
+      <a href="QuantTools.Rmd">Quantitative Skills</a>
+    </li>
+    <li>
+      <a href="JEDImarsci.html">JEDI in Marine Science</a>
     </li>
   </ul>
 </li>
@@ -457,73 +376,33 @@ div.tocify {
 
 
 <p><br></p>
-<div id="resources-for-science-communication" class="section level1">
-<h1><strong>Resources for Science Communication</strong></h1>
-<div id="general-science-communication-resources" class="section level2">
-<h2>General Science Communication Resources</h2>
+<div id="justice-diversity-equity-inclusion-in-the-marine-sciences" class="section level1">
+<h1><strong>Justice, Diversity, Equity &amp; Inclusion in the Marine Sciences</strong></h1>
+<div id="imposter-syndrome" class="section level2">
+<h2>Imposter Syndrome</h2>
 <ul>
-<li><a href="https://www.aaas.org/resources/communication-toolkit">AAAS Communication Toolkit</a></li>
+<li><a href="https://qz.com/work/1286549/imposter-syndrome-lets-toxic-work-culture-off-the-hook/">Imposter syndrome isn’t the problem—toxic workplaces are</a> by Christine Liu</li>
 </ul>
 </div>
-<div id="science-communcation-training" class="section level2">
-<h2>Science Communcation Training</h2>
+<div id="academic-articles-about-jedi-in-marine-science" class="section level2">
+<h2>Academic Articles About JEDI in Marine Science</h2>
+<div id="from-a-special-issue-of-oceanography-entitled-graduate-education-in-the-ocean-sciences-2016" class="section level3">
+<h3>From A Special Issue of <a href="">Oceanography</a> entitled <a href="https://tos.org/oceanography/issue/volume-29-issue-01">“Graduate Education in the Ocean Sciences”</a> (2016)</h3>
+<p><em>All articles are open access</em></p>
 <ul>
-<li><a href="https://davissciencesays.ucdavis.edu/">Science Says</a> at UC Davis</li>
-<li><a href="https://scifundchallenge.org/scifund-classes/">#SciFund Challenge Classes</a></li>
-<li><a href="https://www.sciencetalk.org/training--courses.html">Science Talk Courses</a>
-<ul>
-<li>Cost ~$100 to participate in a <strong>Science Talk</strong> course</li>
-</ul></li>
+<li><a href="https://doi.org/10.5670/oceanog.2016.11">Strategies for Increasing Diversity in the Ocean Science Workforce Through Mentoring</a> by Johnson et al.</li>
+<li><a href="https://doi.org/10.5670/oceanog.2016.12">The Ocean Science Social Diversity Challenge</a> by Gilligan &amp; Ebanks</li>
+<li><a href="https://doi.org/10.5670/oceanog.2016.13">MS PHD’S: By and for Minorities</a> by Ricciardi et al.</li>
 </ul>
 </div>
-<div id="writing-training-opportunities" class="section level2">
-<h2>Writing Training / Opportunities</h2>
-<ul>
-<li><a href="https://theethogram.com/author/theethogram/">The Ethogram at UC Davis</a></li>
-<li><a href="https://massivesci.com/">Massive Science</a></li>
-<li><a href="https://oceanbites.org/">oceanbites</a></li>
-</ul>
-</div>
-<div id="scientific-filmmaking" class="section level2">
-<h2>Scientific Filmmaking</h2>
-<ul>
-<li><a href="https://www.jacksonwild.org/2020-media-lab.html">Jackson Wild Media Lab</a></li>
-<li>Eric Sanford has also periodically offers a scientific filmmaking course at UC Davis</li>
-</ul>
-</div>
-<div id="science-policy" class="section level2">
-<h2>Science Policy</h2>
-<ul>
-<li><a href="https://mitcommlab.mit.edu/be/commkit/public-policy-communication-introduction/">MIT Communication Lab Intro to Policy Communication</a></li>
-<li><a href="https://scipolnetwork.org/page/scipol-guide">National Science Policy Network SciPol Resource Guide</a></li>
-</ul>
-</div>
-<div id="useful-twitter-hashtags" class="section level2">
-<h2>Useful Twitter Hashtags</h2>
-<div id="science-communication" class="section level3">
-<h3><em>Science Communication</em></h3>
-<ul>
-<li><a href="https://twitter.com/search?q=%23scicomm&amp;src=typed_query">#SciComm</a>: Science Communication</li>
-<li><a href="https://twitter.com/search?q=%23sciwri&amp;src=typed_query">#SciWri</a>: Science Writing</li>
-<li><a href="https://twitter.com/search?q=%23scipol&amp;src=typed_query">#SciPol</a>: Science Policy</li>
-</ul>
-</div>
-<div id="about-academia" class="section level3">
-<h3><em>About Academia</em></h3>
-<ul>
-<li><a href="https://twitter.com/search?q=%23cctophd&amp;src=typed_query">#CCtoPhD</a>: Community College to PhD</li>
-<li><a href="https://twitter.com/search?q=%23phdchat&amp;src=typed_query">#PhDChat</a></li>
-<li><a href="https://twitter.com/search?q=%23phdlife&amp;src=typed_query">#PhDLife</a></li>
-<li><a href="">#ICanHazPDF</a>: For PDFs you can’t access thru university licenses</li>
-</ul>
+<div id="more-information-coming-soon" class="section level3">
+<h3><em>More information coming soon!</em></h3>
 </div>
 </div>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -556,32 +435,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

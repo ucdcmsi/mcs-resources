@@ -2,6 +2,9 @@
 output: 
   html_document:
     theme: yeti
+    toc: yes
+    toc_float:
+      collapsed: yes
 ---
 <br>
 
@@ -9,7 +12,7 @@ output:
 # **Resources for Science Communication**
 
 ## General Science Communication Resources
-* [AAAS Communication Toolkit] (https://www.aaas.org/resources/communication-toolkit)
+* [AAAS Communication Toolkit](https://www.aaas.org/resources/communication-toolkit)
 
 ## Science Communcation Training
 * [Science Says](https://davissciencesays.ucdavis.edu/) at UC Davis
@@ -24,10 +27,20 @@ output:
 
 ## Scientific Filmmaking
 * [Jackson Wild Media Lab](https://www.jacksonwild.org/2020-media-lab.html)
+* Eric Sanford has also periodically offers a scientific filmmaking course at UC Davis
 
-
-## Science Policy (this could be its own website!)
+## Science Policy
 * [MIT Communication Lab Intro to Policy Communication](https://mitcommlab.mit.edu/be/commkit/public-policy-communication-introduction/)
 * [National Science Policy Network SciPol Resource Guide](https://scipolnetwork.org/page/scipol-guide)
 
-### *More information coming soon!*
+## Useful Twitter Hashtags
+### *Science Communication*
+* [#SciComm](https://twitter.com/search?q=%23scicomm&src=typed_query): Science Communication
+* [#SciWri](https://twitter.com/search?q=%23sciwri&src=typed_query): Science Writing
+* [#SciPol](https://twitter.com/search?q=%23scipol&src=typed_query): Science Policy
+
+### *About Academia*
+* [#CCtoPhD](https://twitter.com/search?q=%23cctophd&src=typed_query): Community College to PhD
+* [#PhDChat](https://twitter.com/search?q=%23phdchat&src=typed_query)
+* [#PhDLife](https://twitter.com/search?q=%23phdlife&src=typed_query)
+* [#ICanHazPDF](https://twitter.com/search?q=%23icanhazpdf&src=recent_search_click): For PDFs you can't access thru university licenses
