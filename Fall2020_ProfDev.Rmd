@@ -2,32 +2,27 @@
 output: 
   html_document:
     theme: yeti
+    toc: false
 ---
 <br>
 
 
-# **Fall 2020: Professional Development Seminar**
+<center> ## **Fall 2020: Professional Development Seminar**
 
-### *More information coming soon!*
+<img src="photos/nariman-mesharrafa-ROSPIhZsOaI-unsplash.jpg" style="width:75%"> 
 
-## Syllabus
-* PDF coming soon
+This is a professional development seminar for sophomore, junior, and first-year transfer students in the Marine and Coastal Science (MCS) major (class is capped at 30 students) that covers topics spanning how to find and read scientific papers; what academic science/research entails; building a resume and/or CV; writing grant and fellowship applications; applying for jobs, internships, and graduate school; science communication; and science ethics. By the end of this seminar, undergraduate students should have a better understanding of how to navigate the upper division portion of their undergraduate experience as well as exploring career options after completing their degrees.
 
- <object data="/pdfs/SYLLABUS_PLACEHOLDER" type="application/pdf" width="800px" height="800px">
-    <embed src="/pdfs/SYLLABUS_PLACEHOLDER.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="/pdfs/SYLLABUS_PLACEHOLDER.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Download the Fall 2020 syllabus [here](pdfs/SYLLABUS_PLACEHOLDER.pdf).
 
-## Course Description
-* This course is intended to help sophomore, junior and first-year transfer students in the MCS major build skills that will help them succeed in their undergraduate careers and beyond.
+View the resources collected by students in the course [here](Fall2020_ProfDev_ResDoc.html). </center>
 
-## Course Objectives
-* X
-* Y
-* Z
+<br>
 
-## Course Schedule
+### Syllabus {.tabset .tabset-fade}
+
+#### Course Schedule
+##### Coming soon!
 * Week 1
 * Week 2
 * Week 3
@@ -39,11 +34,83 @@ output:
 * Week 9
 * Week 10
 
-## Code of Conduct
-* coming soon
-* See UC Davis [Principles of Community](https://diversity.ucdavis.edu/principles-community)
+#### Grading
 
-## Territorial Acknowledgement
+The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments. 
+*	In order to participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week, missing several classes will put a passing grade in jeopardy. 
+*	Assignments will consist of pre-class reading and brief questionnaire and should be submitted by 12:00pm the day of class.
+
+Because a key goal of this course is to share and collect resources, the bar for a passing grade is high: 
+*	You must attend 7/10 classes.
+*	All assignments must be turned in.
+
+#### Assignments
+
+Assignments will consist of readings and a brief questionnaire that should be submitted **by 12:00pm the day of class**.
+
+A quarter-long goal is to accumulate resources as a class that you can leave with and continue to reference as you continue throughout your careers. I will, of course, provide some of these, but I expect you to also look for resources related to the next week’s topic (this can be a book, a peer-reviewed article, a blog post, an Instagram post, a Facebook Group, a Twitter thread, an infographic, advice a professor gave you, something you learned from a lunch with a seminar speaker, etc.). 
+
+Through this exercise, I hope you will not only improve your ability to find information you need, but to also see your classmates as resources. Science is competitive, but the people who have helped me through it most are those doing it alongside me! The link for this document that we will flesh out over the course of the quarter is located on the course website and is available [here](Fall2020_ProfDev_ResDoc.html).
+
+
+##### Coming soon!
+* Week 1
+* Week 2
+* Week 3
+* Week 4
+* Week 5
+* Week 6
+* Week 7
+* Week 8
+* Week 9
+* Week 10
+
+
+#### JEDI in Marine Science
+You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because issue pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named “JEDI Mind Tricks”). JEDI resources are also available [here](JEDImarsci.html).
+
+
+#### Territorial Acknowledgement
 We [acknowledge](https://native-land.ca/territory-acknowledgement/) that UC Davis campus exists on land that the Patwin/Suisune People have thrived on since time immemorial. As settlers, we must recognize how we benefit from colonialism and how it is has impacted the Native Peoples whose lands we now use. It is incumbent upon us to dismantle components of colonialism to ensure a more just and equitable future for the Patwin/Suisune People.
 
-This acknowledgement was made possible by [native-land.ca](native-land.ca). Consider using this resource to determine which Native Peoples' lands you currently occupies.
+This acknowledgement was made possible by [native-land.ca](native-land.ca). Consider using this resource to determine which Native Peoples' lands you currently occupy.
+
+
+#### Code of Conduct
+*This Code of Conduct is based on one used by the [Western Society of Naturalists](https://www.wsn-online.org/code-of-conduct/).*
+
+This course is intended to broaden our communal understanding of different aspects of academia and marine science. We are all coming into it with different lived experiences and levels of understanding about each topic. This courses is intended to foster the exchange of ideas, provide participants with an opportunity to share their experiences, to establish pathways for addiongal professional, and develop resources that will help our cohort grow as scientists. Thus, we are committed to creating an environment in which all attendees can participate without harassment, discrimination, or violence of any type.
+
+**All students must be treated with respect, regardless of race, gender, sexual orientation, gender identity/expression, ethnicity, ability, religion, language, professional status, institution or age. All meeting participants including, but not limited to, members, volunteers, attendees, vendors, exhibitors, contractors, and guests are expected to abide by this Code of Conduct.**
+
+This Code of Conduct applies to all activities related to this class (in-person / virtual meetings, email exchanges, and chatroom discussions).
+
+*Expected behavior includes (but is not limited to):*
+
+* Treating all participants and meeting facilities with respect and consideration.
+* Communicating openly with respect for others, critiquing ideas rather than individuals.
+* Avoiding personal attacks directed toward others.
+* Complying with [UC Davis' Principles of Community](https://diversity.ucdavis.edu/principles-community).
+* Abiding by principles of academic integrity and ethical professional conduct.
+
+Harassment or discrimination by or of any meeting participant or of any type will not be tolerated.
+
+*Unacceptable behavior includes (but is not limited to):*
+
+* Behavior that implies or indicates that someone does not belong in this class based on any personal characteristic or identity.
+* Any unwanted attention, sexual advances, and comments about appearance.
+* Verbal harassment, including comments, epithets, slurs, threats, and negative stereotyping that are offensive, hostile, disrespectful, or unwelcome.
+* Non-verbal harassment, including actions or distribution, display, or discussion of any written or graphic material toward an individual or group that ridicules, denigrates, insults, belittles, or shows hostility, aversion, or disrespect.
+* Bullying, intimidation, stalking, shaming, and assault.
+* Retaliation for reporting harassment.
+* Reporting an incident in bad faith.
+
+*Reporting:*
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact:
+* Priya Shukla, the course facilitator: <pshukla@ucdavis.edu>
+* Anne Todgham, the Insructor affiliated with this course: <todgham@ucdavis.edu>
+* Mandy Hanou, the Undergraduate Advisor: <mlrousseau@ucdavis.edu>
+* Tawny Mata, the CMSI Executive Director: <tmmata@ucdavis.edu>
+* Additionally, you can also reach out to the [UC Davis ombuds office](http://ombuds.ucdavis.edu/).
+

@@ -2,33 +2,39 @@
 output: 
   html_document:
     theme: yeti
+    toc: yes
+    toc_float:
+      collapsed: yes
 ---
 <br>
 
+<center> ## **Applying for Jobs / Internships**
 
-# **Applying for Jobs / Internships**
+<img src="photos/marina-YmQ0-nmWcV0-unsplash.jpg" style="width:75%">
+</center>
+<br>
 
-## General Career Advice
+### General Career Advice
 * [The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job](https://www.goodreads.com/book/show/24811991-the-professor-is-in) by Karen Kelsky
 
-## Campus Resources
+### Campus Resources
 * [Internship & Career Center (ICC)](https://icc.ucdavis.edu/)
 * [Career Resources Manual](https://icc.ucdavis.edu/services/crm)
 
-## Designing your CV / Resume
+### Designing your CV / Resume
 * [ICC Resume / CV Resources](https://icc.ucdavis.edu/materials/resume)
 * ["When applying for nonacademic jobs, think creatively about your transferable skills"](https://www.sciencemag.org/careers/2020/06/when-applying-nonacademic-jobs-think-creatively-about-your-transferable-skills) by Karin Bodewits
 * [MIT Communication Lab CV/Resume Resources](https://mitcommlab.mit.edu/be/commkit/cvresume/)
 
-## Writing Cover Letters
+### Writing Cover Letters
 * [ICC COver Letter Resources](https://icc.ucdavis.edu/materials/cover-letters)
 * [MIT Communication Lab Cover Letter Tips](https://mitcommlab.mit.edu/be/commkit/cover-letter-for-a-job/)
 
-## Practicing Interview Skills
+### Practicing Interview Skills
 * [MIT Communication Lab Interview Prep](https://mitcommlab.mit.edu/be/commkit/interviewing/)
 
 
-## Miscellaneous Professional Skills
+### Miscellaneous Professional Skills
 * From the MIT Communication Lab
   + [Elevator Pitch](https://mitcommlab.mit.edu/be/commkit/elevator-pitch/)
   + [Professional Bio](https://mitcommlab.mit.edu/be/commkit/professional-bio/)
@@ -36,4 +42,4 @@ output:
 
   
 
-### *More information coming soon!*
+*More information coming soon!*

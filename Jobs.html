@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -250,6 +253,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -257,6 +323,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -303,7 +379,7 @@ $(document).ready(function () {
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-ship  fa-1x"></span>
      
-    Research Opportunities
+    Research @ UCD/BML
      
     <span class="caret"></span>
   </a>
@@ -335,10 +411,13 @@ $(document).ready(function () {
       <a href="GradSchool.html">Applying to Grad School</a>
     </li>
     <li>
+      <a href="BMLseminar.html">BML Seminar Series</a>
+    </li>
+    <li>
       <a href="JEDImarsci.html">JEDI in Marine Science</a>
     </li>
     <li>
-      <a href="peer_mentor.html">Peer Mentorship</a>
+      <a href="peer_mentor.html">Peer Mentors</a>
     </li>
     <li>
       <a href="QuantTools.html">Quantitative Skills</a>
@@ -381,44 +460,48 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<div id="applying-for-jobs-internships" class="section level1">
-<h1><strong>Applying for Jobs / Internships</strong></h1>
-<div id="general-career-advice" class="section level2">
-<h2>General Career Advice</h2>
+<center>
+<div id="applying-for-jobs-internships" class="section level2">
+<h2><strong>Applying for Jobs / Internships</strong></h2>
+<img src="photos/marina-YmQ0-nmWcV0-unsplash.jpg" style="width:75%">
+</center>
+<p><br></p>
+<div id="general-career-advice" class="section level3">
+<h3>General Career Advice</h3>
 <ul>
 <li><a href="https://www.goodreads.com/book/show/24811991-the-professor-is-in">The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job</a> by Karen Kelsky</li>
 </ul>
 </div>
-<div id="campus-resources" class="section level2">
-<h2>Campus Resources</h2>
+<div id="campus-resources" class="section level3">
+<h3>Campus Resources</h3>
 <ul>
 <li><a href="https://icc.ucdavis.edu/">Internship &amp; Career Center (ICC)</a></li>
 <li><a href="https://icc.ucdavis.edu/services/crm">Career Resources Manual</a></li>
 </ul>
 </div>
-<div id="designing-your-cv-resume" class="section level2">
-<h2>Designing your CV / Resume</h2>
+<div id="designing-your-cv-resume" class="section level3">
+<h3>Designing your CV / Resume</h3>
 <ul>
 <li><a href="https://icc.ucdavis.edu/materials/resume">ICC Resume / CV Resources</a></li>
 <li><a href="https://www.sciencemag.org/careers/2020/06/when-applying-nonacademic-jobs-think-creatively-about-your-transferable-skills">“When applying for nonacademic jobs, think creatively about your transferable skills”</a> by Karin Bodewits</li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/cvresume/">MIT Communication Lab CV/Resume Resources</a></li>
 </ul>
 </div>
-<div id="writing-cover-letters" class="section level2">
-<h2>Writing Cover Letters</h2>
+<div id="writing-cover-letters" class="section level3">
+<h3>Writing Cover Letters</h3>
 <ul>
 <li><a href="https://icc.ucdavis.edu/materials/cover-letters">ICC COver Letter Resources</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/cover-letter-for-a-job/">MIT Communication Lab Cover Letter Tips</a></li>
 </ul>
 </div>
-<div id="practicing-interview-skills" class="section level2">
-<h2>Practicing Interview Skills</h2>
+<div id="practicing-interview-skills" class="section level3">
+<h3>Practicing Interview Skills</h3>
 <ul>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/interviewing/">MIT Communication Lab Interview Prep</a></li>
 </ul>
 </div>
-<div id="miscellaneous-professional-skills" class="section level2">
-<h2>Miscellaneous Professional Skills</h2>
+<div id="miscellaneous-professional-skills" class="section level3">
+<h3>Miscellaneous Professional Skills</h3>
 <ul>
 <li>From the MIT Communication Lab
 <ul>
@@ -427,14 +510,14 @@ $(document).ready(function () {
 <li><a href="https://mitcommlab.mit.edu/be/commkit/professional-email/">Crafting Professional Emails</a></li>
 </ul></li>
 </ul>
-<div id="more-information-coming-soon" class="section level3">
-<h3><em>More information coming soon!</em></h3>
-</div>
+<p><em>More information coming soon!</em></p>
 </div>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -467,6 +550,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

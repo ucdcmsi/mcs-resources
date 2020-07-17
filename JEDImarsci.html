@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -250,6 +253,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -257,6 +329,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -303,7 +385,7 @@ $(document).ready(function () {
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-ship  fa-1x"></span>
      
-    Research Opportunities
+    Research @ UCD/BML
      
     <span class="caret"></span>
   </a>
@@ -335,10 +417,13 @@ $(document).ready(function () {
       <a href="GradSchool.html">Applying to Grad School</a>
     </li>
     <li>
+      <a href="BMLseminar.html">BML Seminar Series</a>
+    </li>
+    <li>
       <a href="JEDImarsci.html">JEDI in Marine Science</a>
     </li>
     <li>
-      <a href="peer_mentor.html">Peer Mentorship</a>
+      <a href="peer_mentor.html">Peer Mentors</a>
     </li>
     <li>
       <a href="QuantTools.html">Quantitative Skills</a>
@@ -381,24 +466,22 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<div id="justice-equity-diversity-inclusion-in-the-marine-sciences" class="section level1">
-<h1><strong>Justice, Equity, Diversity &amp; Inclusion in the Marine Sciences</strong></h1>
-<div id="diversity-equity-and-inclusion-at-uc-davis" class="section level2">
-<h2>Diversity, Equity and Inclusion at UC Davis</h2>
+<center>
+<div id="justice-equity-diversity-inclusion-in-the-marine-sciences" class="section level2">
+<h2><strong>Justice, Equity, Diversity &amp; Inclusion in the Marine Sciences</strong></h2>
+<p><img src="photos/matthew-t-rader-1KptKFc1RF0-unsplash.jpg" style="width:75%"></p>
+</center>
+<p><br></p>
+<div id="diversity-equity-and-inclusion-at-uc-davis" class="section level3">
+<h3>Diversity, Equity and Inclusion at UC Davis</h3>
 <ul>
 <li><a href="https://diversity.ucdavis.edu/diversity-resources">Office of Diversity, Equity and Inclusion</a></li>
 <li><a href="https://diversity.ucdavis.edu/diversity-resources">Resources and Retention Centers</a></li>
 <li>CMSI Social Justice in Science Learning Groups: contact <a href="mailto:cmsi@ucdavis.edu" class="email">cmsi@ucdavis.edu</a> for more information</li>
 </ul>
 </div>
-<div id="imposter-syndrome" class="section level2">
-<h2>Imposter Syndrome</h2>
-<ul>
-<li><a href="https://qz.com/work/1286549/imposter-syndrome-lets-toxic-work-culture-off-the-hook/">Imposter syndrome isn’t the problem—toxic workplaces are</a> by Christine Liu</li>
-</ul>
-</div>
-<div id="jedi-in-marine-science" class="section level2">
-<h2>JEDI in Marine Science</h2>
+<div id="jedi-in-marine-science" class="section level3">
+<h3>JEDI in Marine Science</h3>
 <ul>
 <li><p>From A Special Issue of <a href="">Oceanography</a> entitled <a href="https://tos.org/oceanography/issue/volume-29-issue-01">“Graduate Education in the Ocean Sciences”</a> (2016) <em>All articles are open access</em></p>
 <ul>
@@ -406,11 +489,20 @@ $(document).ready(function () {
 <li><a href="https://doi.org/10.5670/oceanog.2016.12">The Ocean Science Social Diversity Challenge</a> by Gilligan &amp; Ebanks</li>
 <li><a href="https://doi.org/10.5670/oceanog.2016.13">MS PHD’S: By and for Minorities</a> by Ricciardi et al.</li>
 </ul></li>
-<li><p><a href="http://www.deepseanews.com/2011/06/minorities-in-ocean-sciences-the-lgbt-pride-weekend-edition/">Minorities in Ocean Sciences: The LGBT Pride Weekend Edition</a></p></li>
+<li><p><a href="http://www.deepseanews.com/2011/06/minorities-in-ocean-sciences-the-lgbt-pride-weekend-edition/">Minorities in Ocean Sciences: The LGBT Pride Weekend Edition</a></p>
+<ul>
+<li><a href="http://www.deepseanews.com/2017/06/pride-actually/">Pride, Actually</a></li>
+</ul></li>
 </ul>
 </div>
-<div id="anti-racism-resources" class="section level2">
-<h2>Anti-Racism Resources</h2>
+<div id="imposter-syndrome" class="section level3">
+<h3>Imposter Syndrome</h3>
+<ul>
+<li><a href="https://qz.com/work/1286549/imposter-syndrome-lets-toxic-work-culture-off-the-hook/">Imposter syndrome isn’t the problem—toxic workplaces are</a> by Christine Liu</li>
+</ul>
+</div>
+<div id="anti-racism-resources" class="section level3">
+<h3>Anti-Racism Resources</h3>
 <ul>
 <li><a href="https://docs.google.com/document/u/1/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/mobilebasic">Scaffolded Anti-Racist Resources</a></li>
 <li><a href="https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcnZds8Y*BosNWbot9-ulTo9FajbiNA&amp;fbclid=IwAR3Qp4sZO-mBv-0z2_ftOlbU8AwjFG8AsJFDbYv4MWepC313v1--31lTatw">Anti-Racism Resources for White People/Parents</a></li>
@@ -425,8 +517,8 @@ $(document).ready(function () {
 <li><a href="https://www.sciencemag.org/careers/2020/06/why-i-ve-struggled-pressure-assimilate-when-teaching">Why I’ve struggled with the pressure to assimilate when teaching</a></li>
 </ul>
 </div>
-<div id="addressing-settler-colonialism" class="section level2">
-<h2>Addressing Settler Colonialism</h2>
+<div id="addressing-settler-colonialism" class="section level3">
+<h3>Addressing Settler Colonialism</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=QP9x1NnCWNY&amp;feature=youtu.be">Decolonization is for Everyone (TED Talk)</a></li>
 <li><a href="http://www.indigenousaction.org/accomplices-not-allies-abolishing-the-ally-industrial-complex/">Accomplices Not Allies: Abolishing the Ally Industrial Complex</a></li>
@@ -437,28 +529,29 @@ $(document).ready(function () {
 <li><a href="https://www.goodreads.com/book/show/20588662-an-indigenous-peoples-history-of-the-united-states">An Indigenous Peoples’ History of the United States by Roxanne Dunbar-Ortiz</a></li>
 </ul>
 </div>
-<div id="lgbtqia-resources" class="section level2">
-<h2>LGBTQIA+ Resources</h2>
+<div id="lgbtqia-resources" class="section level3">
+<h3>LGBTQIA+ Resources</h3>
 <ul>
-<li><a href="https://500queerscientists.com/">500 Queer Scientists</a> *X</li>
+<li><a href="https://500queerscientists.com/">500 Queer Scientists</a></li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/00918369.2015.1078632?journalCode=wjhm20">Queer in STEM: Workplace Experiences Reported in a National Survey of LGBTQA Individuals in Science, Technology, Engineering, and Mathematics Careers</a> by Yoder et al. 2015</li>
 </ul>
 </div>
-<div id="accessibilitydisabilities-in-stem" class="section level2">
-<h2>Accessibility/Disabilities in STEM</h2>
+<div id="accessibilitydisabilities-in-stem" class="section level3">
+<h3>Accessibility/Disabilities in STEM</h3>
 <ul>
 <li><a href="https://www.higheredtoday.org/2018/05/23/stem-climate-students-disabilities/">STEM Climate for Students with Disabilities</a></li>
 <li><a href="https://massivesci.com/articles/disability-science-career-stem-field/">It’s time to stop excluding people with disabilities from science</a></li>
 <li><a href="https://twitter.com/geotransversals/status/1277410466973671424?s=20">How immunocompromised people manage risk (Twitter Thread)</a></li>
 </ul>
 </div>
-<div id="mental-health-in-stem" class="section level2">
-<h2>Mental Health in STEM</h2>
+<div id="mental-health-in-stem" class="section level3">
+<h3>Mental Health in STEM</h3>
 <ul>
 <li><a href="https://thefemalescientist.com/guide/megan-sharrock-1/1989/the-importance-of-mental-health-awareness-in-stem/">The Importance of Mental Health Awareness in STEM!</a></li>
 </ul>
 </div>
-<div id="women-in-science" class="section level2">
-<h2>Women in Science</h2>
+<div id="women-in-science" class="section level3">
+<h3>Women in Science</h3>
 <ul>
 <li><a href="https://500womenscientists.org/resources">500 WOmen Scientists</a></li>
 <li><a href="https://www.aauw.org/get-empowered/">American Association For University Women (AAUW)</a></li>
@@ -469,6 +562,8 @@ $(document).ready(function () {
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -501,6 +596,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

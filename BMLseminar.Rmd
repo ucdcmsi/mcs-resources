@@ -1,0 +1,18 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+
+<center> ## **Weekly BML Seminar Series** 
+
+<img src="photos/PShukla_BML.jpg" style="width:75%">
+<figcaption>*Photo credit: P. Shukla*</figcaption>
+</center>
+<br>
+
+### BML Seminar Links
+* The seminar schedule is available [here](https://marinescience.ucdavis.edu/events).
+* Recordings for previous seminars are available [here](https://marinescience.ucdavis.edu/events/seminar-videos).
+* To sign up for the BML seminar series, contact <cmsi@ucdavis.edu>.

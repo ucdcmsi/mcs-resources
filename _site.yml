@@ -15,7 +15,7 @@ navbar:
             href: Spring2021_BMLseminars.html
           - text: "Previous Courses"
             href: prev_courses.html
-      - text: "Research Opportunities"
+      - text: "Research @ UCD/BML"
         icon: fa-ship  fa-1x
         menu:
           - text: "View Opportunities"
@@ -31,9 +31,11 @@ navbar:
             href: Jobs.html
           - text: "Applying to Grad School"
             href: GradSchool.html
+          - text: "BML Seminar Series"
+            href: BMLseminar.html
           - text: "JEDI in Marine Science"
             href: JEDImarsci.html
-          - text: "Peer Mentorship"
+          - text: "Peer Mentors"
             href: peer_mentor.html
           - text: "Quantitative Skills"
             href: QuantTools.html
@@ -48,19 +50,6 @@ navbar:
       - text: "MCS Major"
         icon: fa-university
         href: https://geology.ucdavis.edu/mcs
-output:
-  html_document:
-    theme: yeti
-    #highlight: pygments
-    #code_folding: hide
-    toc: yes
-    toc_float:
-      collapsed: yes
-    include:
-      in_footer: footer.html
-    css: style.css
-    lib_dir: site_libs
-    self_contained: no
 name: "Resources for Emerging Ocean Scientists"
 
             

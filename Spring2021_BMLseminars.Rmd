@@ -2,18 +2,20 @@
 output: 
   html_document:
     theme: yeti
+    toc: false
 ---
 <br>
 
 
-# **Weekly BML Seminar Series Discussion**
+<center> ## **Weekly BML Seminar Series Discussion**
+</center>
 
-## Mary and Louise Riley Seminar Series Complement
+### Mary and Louise Riley Seminar Series Complement
 
-*More information coming soon!*
+This will consist of a discussion group (limited to 30 students) based on [**BML’s seminar series**](BMLseminar.html). Before each seminar, we will discuss one of the current speakers’ papers, then watch the seminar at CMSI and submit questions as a class.
 
-## Resources for reading scientific papers 
+### Resources for reading scientific papers 
 * [Journal Article Notebook](Res_SciPapers/Liu_SciPaperNbk.pdf), [courtesy of Christine Liu](https://twitter.com/christineliuart/status/819285847316918272?s=20)
 * [How to Use Web of Science](Res_SciPapers/HowToUseWebOfScience.pdf)
 
-
+*More information coming soon!*

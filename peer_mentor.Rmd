@@ -3,20 +3,27 @@ output:
   html_document:
     theme: yeti
 ---
-
 <br>
 
 
-# **Resources for Mentoring**
+<center> ## **Mentoring Resources**
+<img src="photos/jay-ruzesky-h13Y8vyIXNU-unsplash.jpg" style="width:75%">
 
-## From UC Davis Grad Pathways
+</center>
+<br>
+
+### Individual Development Plan
+
+* AAAS [myIDP](http://myidp.sciencecareers.org/) Individual Development Plan (IDP) tool
+  + [Several articles](https://www.sciencemag.org/careers/2013/05/myidp) to guide you through myIDP
+
+*The tool above says its for PhD students, but it is useful no matter what career stage you're at!*
+
+### From UC Davis Grad Pathways
 * [Maximizing Mentoring Relationships (YouTube Video)](https://www.youtube.com/watch?v=PhjIrepywXc)
 
-## From UCSF's [Accelerate Program](accelerate.ucsf.edu)
+### From UCSF's [Accelerate Program](accelerate.ucsf.edu)
 * [Defining Mentorship from the Beginning](https://accelerate.ucsf.edu/training/mdp-seminar1)
 * [Communicating Effectively with Mentees](https://accelerate.ucsf.edu/training/mdp-seminar3)
 * [The One-Minute Mentor](https://accelerate.ucsf.edu/training/mdp-seminar1-one-minute-mentor)
 * [Mentoring Checklist](https://accelerate.ucsf.edu/training/mdp-seminar1-mentoring-checklist)
-
-
-### *More information coming soon!*

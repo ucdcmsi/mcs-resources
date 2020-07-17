@@ -2,22 +2,29 @@
 output: 
   html_document:
     theme: yeti
+    toc: yes
+    toc_float:
+      collapsed: no
 ---
 <br>
 
 
-# **Writing Scientifically**
+<center> ## **Writing Scientifically**
+<img src="photos/isaac-smith-6EnTPvPPL6I-unsplash.jpg" style="width:75%">
+</center>
+<br>
 
-## General Writing Advice
+
+### General Writing Advice
 * [How to construct a *Nature* summary paragraph](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf)
 
-## Writing Grants + Fellowships Application & Research Proposals
+### Writing Grants + Fellowships Application & Research Proposals
 * Fellowship Application Tips from 
   + [Gradaute School Personal Statement](https://mitcommlab.mit.edu/be/commkit/graduate-school-personal-statement/)
   + [NSF GRFP Personal Statement](https://mitcommlab.mit.edu/be/commkit/nsf-personal-statement/)
   + [NSF GRFP Research Proposal](https://mitcommlab.mit.edu/be/commkit/nsf-research-proposal/)
 
-## Writing Manuscripts/Papers
+### Writing Manuscripts/Papers
 * [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) by Mensh & Kording (2017)
 * [Simple rules for concise scientific writing](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165)
 * [Writing a scientific paper, step by painful step](http://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf) by Kevin Lafferty
@@ -28,9 +35,9 @@ output:
   + [Results](https://mitcommlab.mit.edu/be/commkit/journal-article-results/)
   + [Discussion](https://mitcommlab.mit.edu/be/commkit/journal-article-discussion/)
 
-# Writing a Talk / Presentation
+### Writing a Talk / Presentation
 * [MIT Communication Lab Public Speaking Tips](https://mitcommlab.mit.edu/be/commkit/introduction-to-public-speaking/)
 * [MIT Communication Lab Slide Deck Design](https://mitcommlab.mit.edu/be/commkit/slideshow/) 
 
-# Designing a Poster
+### Designing a Poster
 * [MIT Communication Lab Poster Structure](https://mitcommlab.mit.edu/be/commkit/poster/)

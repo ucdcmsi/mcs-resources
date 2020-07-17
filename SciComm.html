@@ -73,7 +73,6 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="style.css" type="text/css" />
 
 
 
@@ -313,6 +312,12 @@ div.tocify {
   border-radius: 0px;
 }
 
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
 
 </style>
 
@@ -380,7 +385,7 @@ div.tocify {
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-ship  fa-1x"></span>
      
-    Research Opportunities
+    Research @ UCD/BML
      
     <span class="caret"></span>
   </a>
@@ -412,10 +417,13 @@ div.tocify {
       <a href="GradSchool.html">Applying to Grad School</a>
     </li>
     <li>
+      <a href="BMLseminar.html">BML Seminar Series</a>
+    </li>
+    <li>
       <a href="JEDImarsci.html">JEDI in Marine Science</a>
     </li>
     <li>
-      <a href="peer_mentor.html">Peer Mentorship</a>
+      <a href="peer_mentor.html">Peer Mentors</a>
     </li>
     <li>
       <a href="QuantTools.html">Quantitative Skills</a>
@@ -458,16 +466,20 @@ div.tocify {
 
 
 <p><br></p>
-<div id="resources-for-science-communication" class="section level1">
-<h1><strong>Resources for Science Communication</strong></h1>
-<div id="general-science-communication-resources" class="section level2">
-<h2>General Science Communication Resources</h2>
+<center>
+<div id="science-communication" class="section level2">
+<h2><strong>Science Communication</strong></h2>
+<img src="photos/ben-white-1zA_mC846yU-unsplash.jpg" style="width:75%">
+</center>
+<p><br> <br></p>
+<div id="general-science-communication-resources" class="section level3">
+<h3>General Science Communication Resources</h3>
 <ul>
 <li><a href="https://www.aaas.org/resources/communication-toolkit">AAAS Communication Toolkit</a></li>
 </ul>
 </div>
-<div id="science-communcation-training" class="section level2">
-<h2>Science Communcation Training</h2>
+<div id="science-communcation-training" class="section level3">
+<h3>Science Communcation Training</h3>
 <ul>
 <li><a href="https://davissciencesays.ucdavis.edu/">Science Says</a> at UC Davis</li>
 <li><a href="https://scifundchallenge.org/scifund-classes/">#SciFund Challenge Classes</a></li>
@@ -477,40 +489,40 @@ div.tocify {
 </ul></li>
 </ul>
 </div>
-<div id="writing-training-opportunities" class="section level2">
-<h2>Writing Training / Opportunities</h2>
+<div id="writing-training-opportunities" class="section level3">
+<h3>Writing Training / Opportunities</h3>
 <ul>
 <li><a href="https://theethogram.com/author/theethogram/">The Ethogram at UC Davis</a></li>
 <li><a href="https://massivesci.com/">Massive Science</a></li>
 <li><a href="https://oceanbites.org/">oceanbites</a></li>
 </ul>
 </div>
-<div id="scientific-filmmaking" class="section level2">
-<h2>Scientific Filmmaking</h2>
+<div id="scientific-filmmaking" class="section level3">
+<h3>Scientific Filmmaking</h3>
 <ul>
 <li><a href="https://www.jacksonwild.org/2020-media-lab.html">Jackson Wild Media Lab</a></li>
 <li>Eric Sanford has also periodically offers a scientific filmmaking course at UC Davis</li>
 </ul>
 </div>
-<div id="science-policy" class="section level2">
-<h2>Science Policy</h2>
+<div id="science-policy" class="section level3">
+<h3>Science Policy</h3>
 <ul>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/public-policy-communication-introduction/">MIT Communication Lab Intro to Policy Communication</a></li>
 <li><a href="https://scipolnetwork.org/page/scipol-guide">National Science Policy Network SciPol Resource Guide</a></li>
 </ul>
 </div>
-<div id="useful-twitter-hashtags" class="section level2">
-<h2>Useful Twitter Hashtags</h2>
-<div id="science-communication" class="section level3">
-<h3><em>Science Communication</em></h3>
+<div id="useful-twitter-hashtags" class="section level3">
+<h3>Useful Twitter Hashtags</h3>
+<div id="science-communication-1" class="section level4">
+<h4><em>Science Communication</em></h4>
 <ul>
 <li><a href="https://twitter.com/search?q=%23scicomm&amp;src=typed_query">#SciComm</a>: Science Communication</li>
 <li><a href="https://twitter.com/search?q=%23sciwri&amp;src=typed_query">#SciWri</a>: Science Writing</li>
 <li><a href="https://twitter.com/search?q=%23scipol&amp;src=typed_query">#SciPol</a>: Science Policy</li>
 </ul>
 </div>
-<div id="about-academia" class="section level3">
-<h3><em>About Academia</em></h3>
+<div id="about-academia" class="section level4">
+<h4><em>About Academia</em></h4>
 <ul>
 <li><a href="https://twitter.com/search?q=%23cctophd&amp;src=typed_query">#CCtoPhD</a>: Community College to PhD</li>
 <li><a href="https://twitter.com/search?q=%23phdchat&amp;src=typed_query">#PhDChat</a></li>
@@ -576,7 +588,7 @@ $(document).ready(function ()  {
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
     };
-    options.showAndHide = true;
+    options.showAndHide = false;
     options.smoothScroll = true;
 
     // tocify

@@ -6,27 +6,31 @@ output:
 <br>
 
 
-# **Coronavirus Disease (COVID-19) Resources & Support**
+<center> ## **Coronavirus Disease (COVID-19) Resources & Support**
+<br>
+<img src="photos/united-nations-covid-19-response-3biD4LTasgY-unsplash.jpg" style="width:50%">
+</center>
+<br>
 
-## Find a Testing Location
+### Find a Testing Location
 * [In California](https://www.arcgis.com/apps/Nearby/index.html?appid=43118dc0d5d348d8ab20a81967a15401)
 * [In the U.S.](https://covid19testcenterlocator.uhc.com/ctcl#/CTC-Search)
 
-## UC Davis
+### UC Davis
 * [COVID-19 FAQ via UC Davis Health](https://health.ucdavis.edu/coronavirus/covid-19-transmission/index.html)
 * [UC Davis COVID-19 Updates](https://iet.ucdavis.edu/covid-19-updates)
 
-## State of California
+### State of California
 * [covid19.ca.gov/](https://covid19.ca.gov/)
 * [Monitoring in California Counties](https://covid19.ca.gov/roadmap-counties/#track-data)
 * [Statewide UPdate](https://update.covid19.ca.gov/)
 * [Data & Tools](https://covid19.ca.gov/data-and-tools/)
 
-## U.S. Centers for Disease Control and Prevention
+### U.S. Centers for Disease Control and Prevention
 * [How to Protect Yourself & Others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [What to Do If You Are Sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 * [Cases in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
 
-## World Health Organization
+### World Health Organization
 * [Coronavirus Disease (COVID-19) Dashboard](https://covid19.who.int/)
 * [COVID-19 Advice for the Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)

@@ -5,8 +5,8 @@ output:
 ---
 <br>
 
-# CMSI Lead Mentor
-## **[Priya Shukla](www.priyashukla.com)**)
+<center> # CMSI Lead Mentor
+## **[Priya Shukla](www.priyashukla.com)**
 <br>
 <br>
 
@@ -19,8 +19,9 @@ Location: Zoom (link forthcoming)
 
 <br>
 
+<img src="photos/PShukla_CMSIphoto.jpg" style="width:75%"> 
+<figcaption>*Photo credit: S. Kowshik*</figcaption>
 
-![](photos/PShukla_CMSIphoto.jpg){width=250px}
 
 <br>
 <br>

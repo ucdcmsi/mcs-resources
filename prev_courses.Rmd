@@ -5,8 +5,7 @@ output:
 ---
 <br>
 
-# **Course Archive**
+<center> ## **Course Archive** 
+</center>
 
-### This will eventually be an archive of previous courses offered through the mentoring program.
-
-### *More information coming soon!*
+This will eventually be an archive of previous courses offered through the mentoring program.

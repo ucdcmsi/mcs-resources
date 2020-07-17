@@ -1,0 +1,43 @@
+---
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+<br>
+
+
+
+## **Fall 2020: Professional Development Seminar** 
+### Collection of Resources {.tabset .tabset-fade}
+
+
+#### Topic 1
+* Coming Soon
+
+#### Topic 2
+* Coming Soon
+
+#### Topic 3
+* Coming Soon
+
+#### Topic 4
+* Coming Soon
+
+#### Topic 5
+* Coming Soon
+
+#### Topic 6
+* Coming Soon
+
+#### Topic 7
+* Coming Soon
+
+#### Topic 8
+* Coming Soon
+
+#### Topic 9
+* Coming Soon
+
+#### Topic 10
+* Coming Soon

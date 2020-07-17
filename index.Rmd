@@ -5,16 +5,13 @@ output:
 ---
 <br>
 
+<center> ## **Resources for Marine & Coastal Science Majors at UC Davis**
 
-# **Resources for Marine & Coastal Science Majors at UC Davis**
+<center><img src="photos/hossam-m-omar-9Cdx0HutWsI-unsplash.jpg" style="width:100%"> 
+
+This website is an aggregation of resources for Marine and Coastal Science Majors at UC Davis, but has content that is relevant to all marine science undergraduate students! These resources are intended to help students find research and professional development opportunities while increasing their understanding of academic and scientific culture.
 
 
-## About this Resource
-This website is an aggregation of resources for Marine and Coastal Science Majors at UC Davis, but has content that is relevant to all marine science undergraduate students!
+##### Have questions? Contact the CMSI Lead Mentor, [Priya Shukla](contact.html).
 
-### Have questions? Contact the new CMSI Lead Mentor, [Priya Shukla](contact.html).
-
-<br>
-
-*More information coming soon!*
-
+*Unless otherwise stated, all photos on this website came from [unsplash](unsplash.com).*
