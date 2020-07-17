@@ -13,6 +13,12 @@ output:
 ## Syllabus
 * PDF coming soon
 
+ <object data="/pdfs/SYLLABUS_PLACEHOLDER" type="application/pdf" width="800px" height="800px">
+    <embed src="/pdfs/SYLLABUS_PLACEHOLDER.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="/pdfs/SYLLABUS_PLACEHOLDER.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## Course Description
 * This course is intended to help sophomore, junior and first-year transfer students in the MCS major build skills that will help them succeed in their undergraduate careers and beyond.
 
