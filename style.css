@@ -7,28 +7,33 @@ a:hover {
 }
 
 h1 {
-  color: #004B85;
-}
+  color: #D8B305 }
 
 
 .navbar-default {
-    background-color: #D8B305 !important;
-    border-color: #D8B305;
+    background-color: #004B85 !important;
+    border-color: #004B85;
 }
 
 
 .navbar-default .navbar-nav > li > a {
-    color: #004B85;
+    color: #FFFFFF;
 }
-
 
 // Also don't forget to change the hover styles as well
 
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #D8B305;
+.navbar-default .navbar-nav > li > a:hover{
+    color: #004B85;
     background-color: #004B85 !important;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+    color: #D8B30;
+    background-color: #D8B305 !important;
 }   
 
+.navbar-nav > li > .dropdown-menu { 
+  background-color: #004B85 !important; }
 
 // And the brand colour
 
