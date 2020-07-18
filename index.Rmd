@@ -1,5 +1,5 @@
 ---
-title: "Resources for Marine & Coastal Science Majors at UC Davis"
+title: "Resources for Emerging Ocean Scientists at UC Davis"
 output: 
   html_document:
     theme: yeti
