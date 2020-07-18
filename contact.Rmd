@@ -3,9 +3,7 @@ title: "CMSI Lead Mentor"
 output: 
   html_document:
     theme: yeti
-    toc: true
-    toc_depth: 4
-    toc_float: true
+    toc: false
 ---
 <br>
 
