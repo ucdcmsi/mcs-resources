@@ -2,12 +2,12 @@ output_dir: "."
 output:
   html_document:
     theme: yeti
-    highlight: pygments
-    toc: true
-    toc_depth: 4
-    toc_float: true
+    #highlight: pygments
+    #toc: true
+    #toc_depth: 4
+    #toc_float: true
     include:
-    #  after_body: footer.html
+      #after_body: footer.html
     css: style.css
     lib_dir: site_libs
     self_contained: no
