@@ -1,9 +1,12 @@
-<footer>
-  <center>
+---
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+
+
+<center>
   <img src="photos/CMSI-FL-TwoLine_600px.png" style="width:50%">
-  <br>
-  <p>Brought to you by the <a href="https://marinescience.ucdavis.edu/">Coastal and Marine Sciences Institute</a> at UC Davis.
-  <br>
-  &copy; 2020</p>
-  </center>
-</footer>
+  Brought to you by the [Coastal & Marine Sciences Institute](https://marinescience.ucdavis.edu/).
+</center>
