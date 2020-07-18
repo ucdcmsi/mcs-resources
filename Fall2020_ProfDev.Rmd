@@ -110,10 +110,10 @@ Harassment or discrimination by or of any meeting participant or of any type wil
 
 *Reporting:*
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact:
-* Priya Shukla, the course facilitator: <pshukla@ucdavis.edu>
-* Anne Todgham, the Insructor affiliated with this course: <todgham@ucdavis.edu>
-* Mandy Hanou, the Undergraduate Advisor: <mlrousseau@ucdavis.edu>
-* Tawny Mata, the CMSI Executive Director: <tmmata@ucdavis.edu>
-* Additionally, you can also reach out to the [UC Davis ombuds office](http://ombuds.ucdavis.edu/).
+* If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact:
+  + Priya Shukla, the course facilitator: <pshukla@ucdavis.edu>
+  + Anne Todgham, the Insructor affiliated with this course: <todgham@ucdavis.edu>
+  + Mandy Hanou, the Undergraduate Advisor: <mlrousseau@ucdavis.edu>
+  + Tawny Mata, the CMSI Executive Director: <tmmata@ucdavis.edu>
+  + Additionally, you can also reach out to the [UC Davis ombuds office](http://ombuds.ucdavis.edu/).
 
