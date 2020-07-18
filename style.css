@@ -7,7 +7,8 @@ a:hover {
 }
 
 h1 {
-  color: #D8B305 }
+  color: #D8B305;
+  font-weight: 500;}
 
 
 .navbar-default {
@@ -40,12 +41,22 @@ h1 {
     background-color: #D8B305 !important;
 }   
 
+.navbar-default .dropdown-menu>li>a:hover, .navbar-default .dropdown-menu>.active>a, .navbar-default .dropdown-menu>.active>a:hover {
+    background-color: #D8B305;
+}
+
+navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #ffffff;
+    background-color: #D8B305;
+
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
     z-index: 2;
     color: #004B85;
     background-color: #D8B305;
     border-color: #004B85;
 }
+
+
 
 // And the brand colour
 
