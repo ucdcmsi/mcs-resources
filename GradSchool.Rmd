@@ -33,5 +33,3 @@ output:
 
 ## Funding Opportunities for Graduate School
 * [Resources for POC in STEAM](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit#gid=1417047090)
-
-### *More information coming soon!*
