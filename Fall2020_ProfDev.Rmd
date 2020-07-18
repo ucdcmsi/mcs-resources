@@ -44,15 +44,6 @@ This acknowledgement was made possible by [native-land.ca](native-land.ca). Cons
 * Week 9
 * Week 10
 
-#### Grading
-
-* The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments.
-*	In order to participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week, missing several classes will put a passing grade in jeopardy. 
-*	Assignments will consist of pre-class reading and brief questionnaire and should be submitted by 12:00pm the day of class.
-* Because a key goal of this course is to share and collect resources, the bar for a passing grade is high: 
-  +	You must attend 7/10 classes.
-  +	All assignments must be turned in.
-
 #### Assignments
 
 Assignments will consist of readings and a brief questionnaire that should be submitted **by 12:00pm the day of class**.
@@ -73,6 +64,16 @@ Through this exercise, I hope you will not only improve your ability to find inf
 * Week 8
 * Week 9
 * Week 10
+
+
+#### Grading
+
+* The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments.
+*	In order to participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week, missing several classes will put a passing grade in jeopardy. 
+*	Assignments will consist of pre-class reading and brief questionnaire and should be submitted by 12:00pm the day of class.
+* Because a key goal of this course is to share and collect resources, the bar for a passing grade is high: 
+  +	You must attend 7/10 classes.
+  +	All assignments must be turned in.
 
 
 #### JEDI in Marine Science
