@@ -17,17 +17,17 @@ output:
 <br>
 
 ### Individual Development Plan
-
 * AAAS [myIDP](http://myidp.sciencecareers.org/) Individual Development Plan (IDP) tool
   + [Several articles](https://www.sciencemag.org/careers/2013/05/myidp) to guide you through myIDP
 
-*The tool above says its for PhD students, but it is useful no matter what career stage you're at!*
+*The myIDP tool above says its for PhD students, but it is useful for any career stage!*
 
-### From UC Davis Grad Pathways
-* [Maximizing Mentoring Relationships (YouTube Video)](https://www.youtube.com/watch?v=PhjIrepywXc)
-
-### From UCSF's [Accelerate Program](https://accelerate.ucsf.edu/)
-* [Defining Mentorship from the Beginning](https://accelerate.ucsf.edu/training/mdp-seminar1)
-* [Communicating Effectively with Mentees](https://accelerate.ucsf.edu/training/mdp-seminar3)
-* [The One-Minute Mentor](https://accelerate.ucsf.edu/training/mdp-seminar1-one-minute-mentor)
-* [Mentoring Checklist](https://accelerate.ucsf.edu/training/mdp-seminar1-mentoring-checklist)
+### Mentor/Mentee Tools
+* [Elements of Effective Practice for Mentoring](https://www.mentoring.org/program-resources/elements-of-effective-practice-for-mentoring/) from The National Mentoring Partnership
+* [Maximizing Mentoring Relationships (YouTube Video)](https://www.youtube.com/watch?v=PhjIrepywXc) from UC Davis [GradPathways](https://grad.ucdavis.edu/professional-development/gradpathways) 
+* From UCSF's [Accelerate Program](https://accelerate.ucsf.edu/)
+  + [Defining Mentorship from the Beginning](https://accelerate.ucsf.edu/training/mdp-seminar1)
+  + [Communicating Effectively with Mentees](https://accelerate.ucsf.edu/training/mdp-seminar3)
+  + [The One-Minute Mentor](https://accelerate.ucsf.edu/training/mdp-seminar1-one-minute-mentor)
+  + [Mentoring Checklist](https://accelerate.ucsf.edu/training/mdp-seminar1-mentoring-checklist)
+* [Mentoring Toolkit](https://www.gla.ac.uk/media/Media_516965_smxx.pdf) from the University of Glascow: A short guide for mentors and mentees to promote effective mentoring
