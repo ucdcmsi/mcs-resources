@@ -4,5 +4,5 @@
   <br>
   <p style = "color:Gray">Brought to you by the [Coastal & Marine Sciences Institute](https://marinescience.ucdavis.edu/).</p>
   <br> 
-  <p style = "color:Gray"*Unless otherwise stated, all photos on this website came from [unsplash](unsplash.com).*</p>
+  <p style = "color:Gray">*Unless otherwise stated, all photos on this website came from [unsplash](unsplash.com).*</p>
 </center>
