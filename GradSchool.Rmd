@@ -9,6 +9,11 @@ output:
 ---
 <br>
 
+<center><img src="photos/marti-bailac-q9n5pDQ7R28-unsplash.jpg" style="width:75%">
+<br>
+<br>
+</center>
+
 ## General Advice
 * [Academic Secret Menu, updated July 15, 2020](Res_Mentoring/ASecretMenu_15July2020.pdf)
 * [Resources for Undegraduate Students](http://www.raulpacheco.org/resources/resources-for-undergraduate-students/) by Dr. Raul Pacheco-Vega
