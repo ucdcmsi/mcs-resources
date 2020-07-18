@@ -1,16 +1,17 @@
+name: "Resources for Emerging Ocean Scientists"
 output_dir: "."
 output:
   html_document:
     theme: yeti
     #highlight: pygments
-    #toc: true
-    #toc_depth: 4
-    #toc_float: true
-    include:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    #include:
       #after_body: footer.html
-    css: style.css
-    lib_dir: site_libs
-    self_contained: no
+    #css: style.css
+    #lib_dir: site_libs
+    #self_contained: no
 navbar:
     title: " "
     left: 
@@ -62,6 +63,5 @@ navbar:
       - text: "MCS Major"
         icon: fa-university
         href: https://geology.ucdavis.edu/mcs
-name: "Resources for Emerging Ocean Scientists"
 
             
