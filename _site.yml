@@ -7,7 +7,7 @@ output:
     toc_depth: 4
     toc_float: true
     include:
-      in_footer: footer.html
+      after_body: footer.html
     css: style.css
     lib_dir: site_libs
     self_contained: no
