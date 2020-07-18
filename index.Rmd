@@ -1,5 +1,6 @@
 ---
-title: "Resources for Emerging Ocean Scientists at UC Davis"
+title: "Resources for Emerging Ocean Scientists"
+date: "Updated: `r format(Sys.Date())`"
 output: 
   html_document:
     theme: yeti
