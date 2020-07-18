@@ -1,4 +1,6 @@
 <center>
+<br>
+<br>
 <hr>
   <img src="photos/CMSI-FL-TwoLine_600px.png" style="width:30%">
   <br>
