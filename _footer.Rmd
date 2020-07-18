@@ -1,6 +1,7 @@
-<footer>
+
 <center>
+<hr>
   <img src="photos/CMSI-FL-TwoLine_600px.png" style="width:50%">
+  <br>
   Brought to you by the [Coastal & Marine Sciences Institute](https://marinescience.ucdavis.edu/).
 </center>
-</footer>

@@ -3,10 +3,9 @@ title: "Resources for Marine & Coastal Science Majors at UC Davis"
 output: 
   html_document:
     theme: yeti
-    toc: true
-    toc_depth: 4
-    toc_float: true
+    toc: false
 ---
+
 <br>
 
 <center><img src="photos/hossam-m-omar-9Cdx0HutWsI-unsplash.jpg" style="width:100%"> 
