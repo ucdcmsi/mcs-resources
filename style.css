@@ -45,10 +45,6 @@ h1 {
     background-color: #D8B305;
 }
 
-navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #ffffff;
-    background-color: #D8B305;
-
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
     z-index: 2;
     color: #004B85;

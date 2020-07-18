@@ -15,6 +15,7 @@ output:
 * [notes_for_students](https://gitlab.com/stanstrup-work/notes_for_students) by Jan Stanstrup
 * [A Field Guide to Grad School](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school) by Jessica McCrory Calarco
 * [Academia from the perspective of a first-generation student (Twitter thread)](https://twitter.com/AnnaMeierPS/status/1276544857977303043?s=20)
+* [A UC Davis alumnus asked about grad school (Twitter Thread)](https://twitter.com/PollardKenzie/status/1284285187782656000?s=20) from July 2018
 
 ## Developing Research Skills (Laboratory / Fieldwork)
 * [Let's Experiment: A Guide for Scientists Working at the Bench (Self-Paced)](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about) via iBiology
