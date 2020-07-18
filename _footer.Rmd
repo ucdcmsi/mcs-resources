@@ -2,7 +2,7 @@
 <hr>
   <img src="photos/CMSI-FL-TwoLine_600px.png" style="width:33%">
   <br>
-  <p style = "color:Gray">Brought to you by the [Coastal & Marine Sciences Institute](https://marinescience.ucdavis.edu/).</p>
+  <p style="color:Gray">Brought to you by the [Coastal & Marine Sciences Institute](https://marinescience.ucdavis.edu/).</p>
   <br> 
-  <p style = "color:Gray">*Unless otherwise stated, all photos on this website came from [unsplash](unsplash.com).*</p>
+  <p style="color:Gray";font-size=12px>*Unless otherwise stated, all photos on this website came from [unsplash](unsplash.com).*</p>
 </center>
