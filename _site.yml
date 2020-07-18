@@ -7,11 +7,11 @@ output:
     toc: true
     toc_depth: 4
     toc_float: true
-    #include:
-      #after_body: footer.html
-    #css: style.css
-    #lib_dir: site_libs
-    #self_contained: no
+    includes:
+      after_body: footer.html
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
 navbar:
     title: " "
     left: 
