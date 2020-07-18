@@ -1,13 +1,15 @@
 ---
+title: "Weekly BML Seminar Series"
 output: 
   html_document:
     theme: yeti
+    toc: false
 ---
 <br>
 
-<center> # **Weekly BML Seminar Series** 
+<center> # 
 
-<img src="photos/PShukla_BML.jpg" style="width:75%">
+<img src="photos/PShukla_BML.jpg" style="width:50%">
 <figcaption>*Photo credit: P. Shukla*</figcaption>
 </center>
 <br>

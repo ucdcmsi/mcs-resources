@@ -1,12 +1,16 @@
 ---
+title: "Mentoring Resources"
 output: 
   html_document:
     theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
 ---
 <br>
 
 
-<center> ## **Mentoring Resources**
+<center>
 <img src="photos/jay-ruzesky-h13Y8vyIXNU-unsplash.jpg" style="width:75%">
 
 </center>
