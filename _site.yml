@@ -28,15 +28,6 @@ navbar:
             href: Spring2021_BMLseminars.html
           - text: "Previous Courses"
             href: prev_courses.html
-      - text: "Research @ UCD/BML"
-        icon: fa-ship  fa-1x
-        menu:
-          - text: "View Opportunities"
-            href: https://docs.google.com/spreadsheets/d/1w60Jja3kncjZw8KY0aUWuNanN9CF-bRqmqYYRb2MObw/edit?usp=sharing
-          - text: "Post Opportunities"
-            href: https://forms.gle/AnAuDkrS9Mv7z6SF7
-          - text: "BML Sign In/Out Form"
-            href: https://docs.google.com/forms/d/e/1FAIpQLScgu4zek-krumcs9neVMpzlBCPFEylnq0TJhZ2CXvbb7MnRgA/viewform 
       - text: "Resources"
         icon: fa-anchor  fa-1x
         menu: 
@@ -58,6 +49,15 @@ navbar:
             href: SciComm.html
           - text: "Science Writing"
             href: sciwri.html
+      - text: "Research @ UCD/BML"
+        icon: fa-ship  fa-1x
+        menu:
+          - text: "View Opportunities"
+            href: https://docs.google.com/spreadsheets/d/1w60Jja3kncjZw8KY0aUWuNanN9CF-bRqmqYYRb2MObw/edit?usp=sharing
+          - text: "Post Opportunities"
+            href: https://forms.gle/AnAuDkrS9Mv7z6SF7
+          - text: "BML Sign In/Out Form"
+            href: https://docs.google.com/forms/d/e/1FAIpQLScgu4zek-krumcs9neVMpzlBCPFEylnq0TJhZ2CXvbb7MnRgA/viewform 
     right:
       - text: "CMSI"
         icon: fa-map
