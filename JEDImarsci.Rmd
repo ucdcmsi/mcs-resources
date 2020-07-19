@@ -32,6 +32,7 @@ output:
 
 ## Imposter Syndrome
 * [Imposter syndrome isn’t the problem—toxic workplaces are](https://qz.com/work/1286549/imposter-syndrome-lets-toxic-work-culture-off-the-hook/) by Christine Liu
+* [Recognizing and Addressing Power Dynamics in Science and Academia] (https://neuronline.sfn.org/professional-development/recognizing-and-addressing-power-dynamics-in-science-and-academia)
 
 ## Anti-Racism Resources
 * [Scaffolded Anti-Racist Resources](https://docs.google.com/document/u/1/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/mobilebasic)
