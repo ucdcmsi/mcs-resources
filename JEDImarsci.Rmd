@@ -10,7 +10,7 @@ output:
 <br>
 
 <center>
-<img src="photos/matthew-t-rader-1KptKFc1RF0-unsplash.jpg" style="width:75%">
+<img src="photos/matthew-t-rader-1KptKFc1RF0-unsplash.jpg" style="width:100%">
 </center>
 <br>
 
@@ -57,6 +57,7 @@ output:
 ## LGBTQIA+ Resources
 * [500 Queer Scientists](https://500queerscientists.com/)
 * [Queer in STEM: Workplace Experiences Reported in a National Survey of LGBTQA Individuals in Science, Technology, Engineering, and Mathematics Careers](https://www.tandfonline.com/doi/abs/10.1080/00918369.2015.1078632?journalCode=wjhm20) by Yoder et al. 2015
+* Why you should use [gender prounouns](https://uwm.edu/lgbtrc/support/gender-pronouns/)
 
 ## Accessibility/Disabilities in STEM
 * [STEM Climate for Students with Disabilities](https://www.higheredtoday.org/2018/05/23/stem-climate-students-disabilities/)

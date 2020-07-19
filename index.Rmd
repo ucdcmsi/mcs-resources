@@ -11,7 +11,10 @@ output:
 
 <center><img src="photos/hossam-m-omar-9Cdx0HutWsI-unsplash.jpg" style="width:100%"> 
 
-This website has been designed with Marine and Coastal Science Majors at UC Davis in mind, but has resources all marine science undergraduate students seeking research and professional development opportunities and opportunities to increase their understanding of academic and scientific culture.
+This website has been designed with Marine and Coastal Science Majors at UC Davis in mind, but has resources all marine science undergraduate students. 
+<br>
+<br>
+It's especially useful for finding research and professional development opportunities as well as methods for increasing your understanding of academic and scientific culture.
 
 <br>
 

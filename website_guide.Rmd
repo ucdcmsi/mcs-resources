@@ -1,0 +1,42 @@
+---
+title: "Resources Used to Build this Website"
+author: "Priya Shukla"
+output: 
+  html_document:
+    theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+<br>
+
+<center>
+<img src="photos/prateek-katyal-FxtIWX8Q0J4-unsplash.jpg" style="width:100%">
+</center>
+<br>
+
+## Where I started
+* [This YouTube tutorial](https://d-rug.github.io/blog/2018/Martha-Wohlfeil-building-a-website) from Martha Zillig recorded at a D-RUG meeting
+* [R markdown syntax](https://bookdown.org/yihui/rmarkdown/html-document.html#table-of-contents) for an HTML document
+* How I created a [footer](https://github.com/rstudio/rmarkdown/issues/1680): see the comment from cderv about rendering the [_footer.html](_footer.html) file as an 'html_fragment'
+* How I started [messing around with CSS](https://stackoverflow.com/questions/22931723/changing-navbar-color-for-bootstrap-yeti-theme): see the comment by richbray89 to see how I changed the navbar color in the [style.css file](style.css)
+
+## Other Helpful Resources from UCD Alum Martha Zillig
+* Martha's [website](https://marthazillig.github.io/)
+* Marthat's website [GitHub repository](https://github.com/MarthaZillig/marthazillig.github.io)
+* Martha's [blog-post](https://marthazillig.github.io/2018-11-27-how-to-build-rmarkdown-website/)
+* This other website that Martha helped design for the [2018 Bay Area Conservation Biology Symposium (BACBS)](https://bacbs-davis-2018.github.io/)
+* The 2018 BACBS [GitHub reposity](https://github.com/bacbs-davis-2018/bacbs-davis-2018.github.io)
+
+## Resources from UCD Alum Ryan Peek
+* Ryan's [website](https://ryanpeek.org/)
+* The website's [GitHub repository](https://github.com/ryanpeek/ryanpeek.github.io)
+
+## R-DAVIS
+* The [R-DAVIS website](https://gge-ucd.github.io/R-DAVIS/index.html)
+* The R-DAVIS [GitHub repository](https://github.com/gge-ucd/R-DAVIS)
+
+## Other Tips
+* [w3schools.com](https://www.w3schools.com/html/) is a useful way tool for coding in HTML
+  + very little 
+* For CSS code, looking at the source code of a page by using the ["inspect element"](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549) feature when you right click on something in the web browser is helpful for figuring out how to customize the website. 

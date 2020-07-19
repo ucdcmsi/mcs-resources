@@ -2,9 +2,10 @@
 <br>
 <br>
 <hr>
-  <img src="photos/CMSI-FL-TwoLine_600px.png" style="width:30%">
-  <br>
-  <p style="color:Gray">Brought to you by the UC Davis **[Coastal & Marine Sciences Institute](https://marinescience.ucdavis.edu/)**.</p>
+<br>
+<a href="https://marinescience.ucdavis.edu/">
+  <img src="photos/CMSI-FL-TwoLine_600px.png" style="width:40%">
+</a>
   <br> 
   <p style="color:Gray;font-size=8px">*Unless otherwise stated, all photos are from [unsplash](unsplash.com).*</p>
 </center>

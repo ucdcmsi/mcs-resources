@@ -7,9 +7,9 @@ output:
 ---
 <br>
 
-<center> # 
+<center> 
 
-<img src="photos/PShukla_BML.jpg" style="width:50%">
+<img src="photos/PShukla_BML.jpg" style="width:100%">
 <figcaption>*Photo credit: P. Shukla*</figcaption>
 </center>
 <br>

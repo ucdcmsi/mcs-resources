@@ -11,7 +11,7 @@ output:
 
 
 <center>
-<img src="photos/jay-ruzesky-h13Y8vyIXNU-unsplash.jpg" style="width:75%">
+<img src="photos/jay-ruzesky-h13Y8vyIXNU-unsplash.jpg" style="width:100%">
 
 </center>
 <br>

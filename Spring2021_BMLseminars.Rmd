@@ -9,6 +9,12 @@ output:
 ---
 <br>
 
+<center>
+<img src="photos/marek-okon-tWWCqIMiUmg-unsplash.jpg" style="width:100%">
+</center>
+<br>
+
+
 ## Mary and Louise Riley Seminar Series complement
 
 This will consist of a discussion group (limited to 30 students) based on [**BML’s seminar series**](BMLseminar.html). Before each seminar, we will discuss one of the current speakers’ papers, then watch the seminar at CMSI and submit questions as a class.

@@ -8,7 +8,7 @@ output:
     toc_float: true
 ---
 <br>
-<img src="photos/ben-white-1zA_mC846yU-unsplash.jpg" style="width:75%">
+<img src="photos/ben-white-1zA_mC846yU-unsplash.jpg" style="width:100%">
 </center>
 <br>
 <br>
