@@ -1,5 +1,5 @@
 ---
-title: "Fall 2020: Professional Development Seminar"
+title: "ANS 198: Professional Development in Marine Science"
 output: 
   html_document:
     theme: yeti
@@ -9,30 +9,50 @@ output:
 ---
 <br>
 
-
 <center>
 <img src="photos/nariman-mesharrafa-ROSPIhZsOaI-unsplash.jpg" style="width:100%">
 <br>
 <br>
 </center>
 
-## Course Description
-This is a professional development seminar for sophomore, junior, and first-year transfer students in the Marine and Coastal Science (MCS) major (class is capped at 30 students) that covers topics spanning how to find and read scientific papers; what academic science/research entails; building a resume and/or CV; writing grant and fellowship applications; applying for jobs, internships, and graduate school; science communication; and science ethics. By the end of this seminar, undergraduate students should have a better understanding of how to navigate the upper division portion of their undergraduate experience as well as exploring career options after completing their degrees.
+## Time
+Thursdays, 2:10 – 3:50pm
 
+## Location 
+Zoom, **link sent via email**
+
+## Credits 
+2 units
+
+## Instructor 
+[Priya Shukla](contact.html)
+
+## Course Description
+A professional development seminar for sophomore, junior, and first-year transfer students in the Marine and Coastal Science (MCS) major that will teach students how (1) science works, (2) to prepare for careers after your Bachelor’s degree, and (3) to be a successful student! This course covers topics spanning how to find and read scientific papers; what academic science/research entails; building a resume and/or CV; writing grant and fellowship applications; applying for jobs, internships, and graduate school; science communication; and science ethics. By the end of this seminar, undergraduate students should have a better understanding of how to (1) navigate the upper division portion of their undergraduate experience as well as (2) explore career options after completing their degrees.
+
+## Key Learning Outcomes
+* Recover research papers of interest and read them with a discerning eye
+* Understand the cogs that underly the scientific process
+* Have a CV/resume on hand that can be continuously modified as you progress in your career
+* How to Submit a grant/fellowship application
+* How to write an email to a prospective faculty advisor or employer
+* Communicate science through media other than scientific papers and presentations
+* Navigate science with an understanding of the best practices and the difference between Advising, Advocacy, and Activism
+* **A collection of multiple resources to support the outcomes listed above!**
+
+## Territorial Acknowledgement
+In the tradition of Native peoples across the Americas, [acknowledge](https://native-land.ca/territory-acknowledgement/) that the UC Davis campus exists on land that the Wintun/Patwin have thrived on since time immemorial. It is here that the Wintun/Patwin built their huts from earthen materials to wait out bad weather and carry out traditional dances in elaborate costumes. And, in places across Yolo and Solano counties, bedrock mortar sites still exist that show where the historical inhabitants ground acorns to remove their tannins. Although these communities were disrupted by the arrival of Spanish explorers who enslaved, abused and killed many Wintun/Patwin, their descendants are survived by the Yocah Dehe Wintun Nation.
+
+As settlers, we must recognize how we benefit from colonialism and how it is has impacted the Native Peoples whose lands we now use. This is especially important in the marine sciences, where early exploration is at the root of much of our discipline, but often excludes the presence, culture and knowledge of Indigenous communities that coexisted and understood those resources and ecosystems before our intellectual forefathers did. Thus, it is incumbent upon us to dismantle components of settler-colonialism to ensure a more just and equitable future for not only the Wintun/Patwin, but all Indigenous Peoples.
+
+This acknowledgement was made possible by [native-land.ca](native-land.ca) and [yochadehe.org](yochadehe.org). Consider using these resources to learn more about the Native Peoples' whose lands you currently occupy.
+
+## Syllabus {.tabset .tabset-fade}
 Download the Fall 2020 syllabus [here](pdfs/SYLLABUS_PLACEHOLDER.pdf).
 
 View the resources collected by students in the course [here](Fall2020_ProfDev_ResDoc.html). 
-<br>
-<br>
 
-## Territorial Acknowledgement
-We [acknowledge](https://native-land.ca/territory-acknowledgement/) that UC Davis campus exists on land that the Patwin/Suisune People have thrived on since time immemorial. As settlers, we must recognize how we benefit from colonialism and how it is has impacted the Native Peoples whose lands we now use. It is incumbent upon us to dismantle components of colonialism to ensure a more just and equitable future for the Patwin/Suisune People.
 
-This acknowledgement was made possible by [native-land.ca](native-land.ca). Consider using this resource to determine which Native Peoples' lands you currently occupy.
-
-<br>
-
-## Syllabus {.tabset .tabset-fade}
 
 ### Course Schedule
 #### Coming soon!
@@ -49,46 +69,51 @@ This acknowledgement was made possible by [native-land.ca](native-land.ca). Cons
 
 ### Assignments
 
-Assignments will consist of readings and a brief questionnaire that should be submitted **by 12:00pm the day of class**.
+#### Links Coming soon!
+* Assignment 1 - due October 8
+* Assignment 2 - due October 15
+* Assignment 3 - due October 22
+* Assignment 4 - due October 29
+* Assignment 5 - due November 5
+* Assignment 6 - due November 12
+* Assignment 7 - due November 19
+* Assignment 8 - due December 3
+* Assignment 9 - due December 10
 
-A quarter-long goal is to accumulate resources as a class that you can leave with and continue to reference as you continue throughout your careers. I will, of course, provide some of these, but I expect you to also look for resources related to the next week’s topic (this can be a book, a peer-reviewed article, a blog post, an Instagram post, a Facebook Group, a Twitter thread, an infographic, advice a professor gave you, something you learned from a lunch with a seminar speaker, etc.). 
+<br>
 
-Through this exercise, I hope you will not only improve your ability to find information you need, but to also see your classmates as resources. Science is competitive, but the people who have helped me through it most are those doing it alongside me! The link for this document that we will flesh out over the course of the quarter is located on the course website and is available [here](Fall2020_ProfDev_ResDoc.html).
+#### Assignment Guidelines
+Assignments will consist of a brief questionnaire after each class that will sometimes require doing a task related to that class’ topic (e.g., reading, exercise, research). These should be submitted  **by 12:00pm the day of class**.
 
+Additionally, a quarter-long goal is to accumulate resources as a class that you can leave with and continue to reference as you continue throughout your careers. I will, of course, provide some of these, but **I expect you to also look for resources related to the previous week’s topic (this can be a book, a peer-reviewed article, a blog post, an Instagram post, a Facebook Group, a Twitter thread, an infographic, advice a professor gave you, something you learned from a lunch with a seminar speaker, etc.)**.
 
-#### Coming soon!
-* Week 1
-* Week 2
-* Week 3
-* Week 4
-* Week 5
-* Week 6
-* Week 7
-* Week 8
-* Week 9
-* Week 10
+Ultimately, there is no single class you can take that will teach you everything you need to know, so learning how to search for and share the information you need is a good skill to hone. Through this exercise, I hope you will not only improve your ability to find information you need, but to also see your classmates as resources. Science is competitive, but the people who have helped me through it most are those working alongside me! The link for this document that we will flesh out over the course of the quarter is located on the course website 
+
+and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 
 ### Grading
 
-* The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments.
-*	In order to participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week, missing several classes will put a passing grade in jeopardy. 
-*	Assignments will consist of pre-class reading and brief questionnaire and should be submitted by 12:00pm the day of class.
+* The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments
+  +	To participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week and **will be doing the bulk of our work in class**, missing several classes will put a passing grade in jeopardy.  
+  +	Assignments will consist of a brief questionnaire after each class that will sometimes require doing a task related to that class’ topic (e.g., reading, exercise, research). These should be submitted  **by 12:00pm the day of class**.
+
 * Because a key goal of this course is to share and collect resources, the bar for a passing grade is high: 
   +	You must attend 7/10 classes.
   +	All assignments must be turned in.
 
+* *If you have obligations that will prevent you from attending 7/10 classes, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!*
 
 ### JEDI in Marine Science
-You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because issue pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named “JEDI Mind Tricks”). JEDI resources are also available [here](JEDImarsci.html).
+You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because JEDI pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named *"JEDI Mind Tricks”*). JEDI resources are also available [here](JEDImarsci.html).
 
 
 ### Code of Conduct
 *This Code of Conduct is based on one used by the [Western Society of Naturalists](https://www.wsn-online.org/code-of-conduct/).*
 
-This course is intended to broaden our communal understanding of different aspects of academia and marine science. We are all coming into it with different lived experiences and levels of understanding about each topic. This courses is intended to foster the exchange of ideas, provide participants with an opportunity to share their experiences, to establish pathways for addiongal professional, and develop resources that will help our cohort grow as scientists. Thus, we are committed to creating an environment in which all attendees can participate without harassment, discrimination, or violence of any type.
+This course is intended to broaden our communal understanding of different aspects of academia and marine science. We are all coming into it with different lived experiences and levels of understanding about each topic. This course is intended to foster the exchange of ideas, provide participants with an opportunity to share their experiences, to establish pathways for professional development, and accumulate resources that will help our cohort grow as scientists. Thus, we are committed to creating an environment in which all attendees can participate without harassment, discrimination, or violence of any type.
 
-**All students must be treated with respect, regardless of race, gender, sexual orientation, gender identity/expression, ethnicity, ability, religion, language, professional status, institution or age. All meeting participants including, but not limited to, members, volunteers, attendees, vendors, exhibitors, contractors, and guests are expected to abide by this Code of Conduct.**
+**All students must be treated with respect, regardless of race, gender, sexual orientation, gender identity/expression, ethnicity, ability, religion, language, professional status, institution, or age. All participants, including guests, are expected to abide by this Code of Conduct.**
 
 This Code of Conduct applies to all activities related to this class (in-person / virtual meetings, email exchanges, and chatroom discussions).
 
@@ -117,7 +142,8 @@ Harassment or discrimination by or of any meeting participant or of any type wil
 * If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact:
   + Priya Shukla, the course facilitator: <pshukla@ucdavis.edu>
   + Anne Todgham, the Insructor affiliated with this course: <todgham@ucdavis.edu>
-  + Mandy Hanou, the Undergraduate Advisor: <mlrousseau@ucdavis.edu>
+  + Mandy Rousseau, the Undergraduate Advisor: <mlrousseau@ucdavis.edu>
   + Tawny Mata, the CMSI Executive Director: <tmmata@ucdavis.edu>
-  + Additionally, you can also reach out to the [UC Davis ombuds office](http://ombuds.ucdavis.edu/).
+  + The [UC Davis ombuds office](http://ombuds.ucdavis.edu/).
+  + UC Davis Harassment & Discrimination Assistance and Prevention Program (HDAPP): **CONFIDENTIALLY** report harassment or discrimination, including sexual harassment, sexual violence, hate and bias here: [reporthateandbias.ucdavis.edu](reporthateandbias.ucdavis.edu)
 
