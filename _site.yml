@@ -39,6 +39,8 @@ navbar:
             href: GradSchool.html
           - text: "BML Seminar Series"
             href: BMLseminar.html
+          - text: "Funded Undergrad Opportunities"
+            href: UGfunding.html
           - text: "JEDI in Marine Science"
             href: JEDImarsci.html
           - text: "Peer Mentors"
@@ -53,9 +55,9 @@ navbar:
         icon: fa-ship  fa-1x
         menu:
           - text: "View Opportunities"
-            href: https://docs.google.com/spreadsheets/d/1w60Jja3kncjZw8KY0aUWuNanN9CF-bRqmqYYRb2MObw/edit?usp=sharing
+            href: https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1321035399
           - text: "Post Opportunities"
-            href: https://forms.gle/AnAuDkrS9Mv7z6SF7
+            href: https://docs.google.com/forms/d/e/1FAIpQLSeSDX67TD72GfpFdVPdhEvw5M4UJ5S4AHtU9csEmUK-v0iRnQ/viewform
           - text: "BML Sign In/Out Form"
             href: https://docs.google.com/forms/d/e/1FAIpQLScgu4zek-krumcs9neVMpzlBCPFEylnq0TJhZ2CXvbb7MnRgA/viewform 
     right:

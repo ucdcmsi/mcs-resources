@@ -9,7 +9,7 @@
   <br> 
   <p style="color:Gray;font-size=8px">*Unless otherwise stated, all photos are from [unsplash](unsplash.com).*</p>
   <br>
-    <p style="color:Gray;font-size=8px">[Liability and Endorsement Disclaimer ](https://marinescience.ucdavis.edu/liability-and-endorsement-disclaimer)</p>
+    <p style="color:Gray;font-size=6px">*[Liability and Endorsement Disclaimer ](https://marinescience.ucdavis.edu/liability-and-endorsement-disclaimer)*</p>
   
  
 </center>

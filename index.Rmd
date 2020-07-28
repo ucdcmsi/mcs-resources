@@ -8,17 +8,23 @@ output:
 ---
 
 <br>
-
+<br>
+<br>
 <center><img src="photos/hossam-m-omar-9Cdx0HutWsI-unsplash.jpg" style="width:100%"> 
 
+This is a resource to help you navigate experiences beyond coursework -- research, finding funding / internships / jobs, and learning about the culture of science/academia.
+
+<br>
+
+If you have questions about declaring your emphasis, registering for courses, studying abroad, and joining clubs, you should check out the [MCSci Orientation](https://geology.ucdavis.edu/students/undergrad/mcsci/orientation). (You'll also find advise on undergraduate research and scholarship opportunities!
+
+<br>
+
 This website has been designed with Marine and Coastal Science Majors at UC Davis in mind, but has resources all marine science undergraduate students. 
-<br>
-<br>
-It's especially useful for finding research and professional development opportunities as well as methods for increasing your understanding of academic and scientific culture.
 
 <br>
 
-##### Have questions? Contact the CMSI Lead Mentor, **[Priya Shukla](contact.html)**.
+##### *Have questions? Contact the CMSI Lead Mentor, **[Priya Shukla](contact.html)**.*
 
 
 

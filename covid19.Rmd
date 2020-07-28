@@ -20,7 +20,7 @@ output:
 * [In the U.S.](https://covid19testcenterlocator.uhc.com/ctcl#/CTC-Search)
 
 ### UC Davis
-* [COVID-19 FAQ via UC Davis Health](https://health.ucdavis.edu/coronavirus/covid-19-transmission/index.html)
+* [UC Davis COVID-19 Campus Info](https://www.ucdavis.edu/coronavirus)
 * [UC Davis COVID-19 Updates](https://iet.ucdavis.edu/covid-19-updates)
 
 ### State of California
