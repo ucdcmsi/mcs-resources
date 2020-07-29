@@ -41,3 +41,11 @@ output:
 
 ## Funding Opportunities for Graduate School
 * [Resources for POC in STEAM](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit#gid=1417047090)
+* [National Science Foundation Graduate Research Fellowship Proposal (NSF GRFP)](http://www.nsfgrfp.org/)
+* [Department of Defense National Defense Science and Engineering Graduate Fellowship Program (DoD NDSEG)](https://ndseg.sysplus.com/)
+* [NOAA Dr. Nancy Foster Scholarship Program](https://fosterscholars.noaa.gov/)
+* [NASA Graduate Student Research Fellowships](https://www.nasa.gov/stem/fellowships-scholarships/index.html)
+* [Ford Family Foundation Scholarship](https://www.tfff.org/what-we-do/successful-citizens/postsecondary-success/scholarship-programs)
+* [P. D. Soros Fellowship For New Americans](https://www.pdsoros.org/)
+* [National Geographic Early Career Grant](https://www.nationalgeographic.org/funding-opportunities/grants/what-we-fund/#EarlyCareer)
+* [Women Divers Hall of Fame] (http://www.wdhof.org/wdhof-scholarshipDesc.aspx)

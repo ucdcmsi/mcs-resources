@@ -3,13 +3,14 @@ title: "Course Archive"
 output: 
   html_document:
     theme: yeti
-    toc: true
+    toc: false
     toc_depth: 4
     toc_float: true
 ---
 <br>
 <center>
 <img src="photos/alejandro-pinero-amerio-L1v1HgyDKmM-unsplash.jpg" style="width:100%">
+<br>
 <br>
 
 This will eventually be an archive of previous courses offered through the mentoring program.

@@ -3,7 +3,7 @@ title: "Funded Undergrad Opportunities"
 output: 
   html_document:
     theme: yeti
-    toc: true
+    toc: false
     toc_depth: 4
     toc_float: true
 ---
@@ -23,3 +23,8 @@ output:
 * [National Science Foundation REUs (Research Experiences for Undergraduates)](https://www.nsf.gov/crssprgm/reu/index.jsp)
 * [NSF Geo-Futures Program at CSU Monterey Bay](https://csumb.edu/cme/undergraduate-students)
 * [Scholarships in Geology and Marine and Coastal Science (GeMS) at UC Davis](https://geology.ucdavis.edu/gems)
+
+<br>
+<br>
+
+*If you're seeking funding for graduate school, you can find those [here](GradSchool.html)!*

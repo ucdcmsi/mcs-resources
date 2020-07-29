@@ -26,8 +26,10 @@ navbar:
             href: Winter2021_Careers.html
           - text: "Spring 2021: BML Seminar Series"
             href: Spring2021_BMLseminars.html
-          - text: "Previous Courses"
+          - text: "Previous Mentorship Courses"
             href: prev_courses.html
+          - text: "Courses for MCSci Majors"
+            href: https://geology.ucdavis.edu/students/undergrad/mcsci/ideal
       - text: "Resources"
         icon: fa-anchor  fa-1x
         menu: 
@@ -51,6 +53,8 @@ navbar:
             href: SciComm.html
           - text: "Science Writing"
             href: sciwri.html
+          - text: "Quick Contacts"
+            href: QuickContacts.html
       - text: "Research"
         icon: fa-ship  fa-1x
         menu:

@@ -3,7 +3,7 @@ title: "Marine Science Conferences"
 output: 
   html_document:
     theme: yeti
-    toc: true
+    toc: false
     toc_depth: 4
     toc_float: true
 ---
