@@ -51,15 +51,19 @@ navbar:
             href: SciComm.html
           - text: "Science Writing"
             href: sciwri.html
-      - text: "Research @ UCD/BML"
+      - text: "Research"
         icon: fa-ship  fa-1x
         menu:
-          - text: "View Opportunities"
+          - text: "MCSci Research Resources on Campus"
+            href: https://geology.ucdavis.edu/students/undergrad/mcsci/research 
+          - text: "View Opportunities @ UCD/BML"
             href: https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1321035399
-          - text: "Post Opportunities"
+          - text: "Post Opportunities @ UCD/BML"
             href: https://forms.gle/7eUJezNW5oZBDhWu5
           - text: "BML Sign In/Out Form"
             href: https://docs.google.com/forms/d/e/1FAIpQLScgu4zek-krumcs9neVMpzlBCPFEylnq0TJhZ2CXvbb7MnRgA/viewform 
+          - text: "Conferences"
+            href: conferences.html
     right:
       - text: "CMSI"
         icon: fa-map
