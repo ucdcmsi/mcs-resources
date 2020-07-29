@@ -48,4 +48,4 @@ output:
 * [Ford Family Foundation Scholarship](https://www.tfff.org/what-we-do/successful-citizens/postsecondary-success/scholarship-programs)
 * [P. D. Soros Fellowship For New Americans](https://www.pdsoros.org/)
 * [National Geographic Early Career Grant](https://www.nationalgeographic.org/funding-opportunities/grants/what-we-fund/#EarlyCareer)
-* [Women Divers Hall of Fame] (http://www.wdhof.org/wdhof-scholarshipDesc.aspx)
+* [Women Divers Hall of Fame](http://www.wdhof.org/wdhof-scholarshipDesc.aspx)
