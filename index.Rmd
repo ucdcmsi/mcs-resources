@@ -12,7 +12,7 @@ output:
 <br>
 <center><img src="photos/hossam-m-omar-9Cdx0HutWsI-unsplash.jpg" style="width:100%"> 
 
-This is a resource to help you navigate experiences beyond coursework, including research, funding, internships and jobs, as well as learning about the culture of science/academia.
+This resource is intended to help you navigate experiences beyond coursework, including research, funding, internships and jobs, as well as learning about the culture of science/academia.
 
 <br>
 
