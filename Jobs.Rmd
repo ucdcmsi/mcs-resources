@@ -34,7 +34,7 @@ output:
 ## Practicing Interview Skills
 * [MIT Communication Lab Interview Prep](https://mitcommlab.mit.edu/be/commkit/interviewing/)
 
-## Miscellaneous Professional Skills
+## Other Professional Skills
 * From the MIT Communication Lab
   + [Elevator Pitch](https://mitcommlab.mit.edu/be/commkit/elevator-pitch/)
   + [Professional Bio](https://mitcommlab.mit.edu/be/commkit/professional-bio/)
