@@ -1,13 +1,13 @@
 // HexCodes:
 // -- BLUE: #022851
-// -- GOLD: #FFBF00, a:hover GOLD: #D8B305
+// -- GOLD: #FFBF00
 
 a {
   color: #00C4B3;
 }
 
 a:hover {
-  color: #D8B305;
+  color: #FFBF00;
 }
 
 h1 {
