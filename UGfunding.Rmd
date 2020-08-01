@@ -1,5 +1,5 @@
 ---
-title: "Funded Undergrad Opportunities"
+title: "Undergrad Funding Opportunities"
 output: 
   html_document:
     theme: yeti
@@ -7,6 +7,17 @@ output:
     toc_depth: 4
     toc_float: true
 ---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
 <br>
 
 
@@ -27,4 +38,4 @@ output:
 <br>
 <br>
 
-*If you're seeking funding for graduate school, you can find those [here](GradSchool.html)!*
+*If you're seeking funding for graduate school, you can find some options [here](GradSchool.html#Funding_Opportunities_for_Graduate_School)!*

@@ -41,12 +41,14 @@ navbar:
             href: GradSchool.html
           - text: "BML Seminar Series"
             href: BMLseminar.html
-          - text: "Funded Undergrad Opportunities"
+          - text: "Undergrad Funding Opportunities"
             href: UGfunding.html
           - text: "JEDI in Marine Science"
             href: JEDImarsci.html
           - text: "Peer Mentors"
             href: peer_mentor.html
+          - text: "Useful Listservs"
+            href: Listservs.html
           - text: "Quantitative Skills"
             href: QuantTools.html
           - text: "Science Communication"

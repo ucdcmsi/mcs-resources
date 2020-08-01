@@ -1,0 +1,47 @@
+---
+title: "Useful Listservs to Join"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
+<center>
+<br>
+
+<img src="photos/noaa-po_CDivElTI-unsplash.jpg" style="width:100%"> 
+<br>
+<br>
+</center>
+
+Below is a list of useful listservs to consider joining -- note that it is unwise to join *all* of these listservs unless you want to begin receiving dozens of more emails every week. Only join those that seem relevant to your interests.
+
+## Campus Listservs
+* CMSI-fyi: to receive updates on happenings related to the Coastal & Marine Science Institute 
+  + contact <cmsi@ucdavis.edu> if you want to join
+* CMSI-careers: to receive opportunities in marine & coastal science in/outside of UC Davis
+  + contact <cmsi@ucdavis.edu> if you want to join
+* [Undergraduate Research Center](https://urc.ucdavis.edu/)
+  + instructions to join their listserv are [here](https://urc.ucdavis.edu/join-our-listserv)
+* [Internship & Career Center](https://icc.ucdavis.edu/)
+  + instructions to join their listserv are [here](https://icc.sf.ucdavis.edu/services/email-mailing-lists-management)
+
+## Other Listservs
+* [Coral-List](https://coral.aoml.noaa.gov/mailman/listinfo/coral-list/): opportunities and updates in coral reef science
+  + Subscribe at the bottom of [this page](https://coral.aoml.noaa.gov/mailman/listinfo/coral-list/)
+* [Seven Seas Media](https://sevenseasmedia.org/): marine science in the United States and job opportuniteis across the country
+  + sign up [here](https://visitor.r20.constantcontact.com/manage/optin?v=001DTeZUiB7y8ACUe8ErFH1C0Q5n7jmXbyFzLX2Q1Qv6boiMxIVB9seTaAsqyseZN-MgC-y3ODA05elemhqMDBJRYeF-T5_YiTmESBNtnQmB00=&id=preview)
+* Es_jobs_net: opportunities in environmental science
+  + Subscribe [here](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net)
+* [University-National Oceanographic Laboratory System](https://www.unols.org/): opportunities to join oceanographic cruises
+  + Sign up for the mailing list [here](https://www.unols.org/form/contact-us-form)
