@@ -35,28 +35,28 @@ navbar:
         menu: 
           - text: "COVID-19"
             href: covid19.html
+          - text: "Quick Contacts"
+            href: QuickContacts.html
           - text: "Applying to Internships/Jobs"
             href: Jobs.html
           - text: "Applying to Grad School"
             href: GradSchool.html
           - text: "BML Seminar Series"
             href: BMLseminar.html
-          - text: "Undergrad Funding Opportunities"
-            href: UGfunding.html
           - text: "JEDI in Marine Science"
             href: JEDImarsci.html
           - text: "Peer Mentors"
             href: peer_mentor.html
-          - text: "Useful Listservs"
-            href: Listservs.html
           - text: "Quantitative Skills"
             href: QuantTools.html
           - text: "Science Communication"
             href: SciComm.html
           - text: "Science Writing"
             href: sciwri.html
-          - text: "Quick Contacts"
-            href: QuickContacts.html
+          - text: "Undergrad Funding Opportunities"
+            href: UGfunding.html
+          - text: "Useful Listservs"
+            href: Listservs.html
       - text: "Research"
         icon: fa-ship  fa-1x
         menu:
