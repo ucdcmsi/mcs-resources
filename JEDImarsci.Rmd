@@ -30,16 +30,15 @@ output:
 * [Resources and Retention Centers](https://diversity.ucdavis.edu/diversity-resources)
 * CMSI Social Justice in Science Learning Groups: contact <cmsi@ucdavis.edu> for more information
 
-## JEDI in Marine Science
-* From A Special Issue of [Oceanography]() entitled ["Graduate Education in the Ocean Sciences"](https://tos.org/oceanography/issue/volume-29-issue-01) (2016)
-*All articles are open access*
-
+## JEDI in Marine Science / STEM more broadly
+* From A Special Issue of Oceanography entitled ["Graduate Education in the Ocean Sciences"](https://tos.org/oceanography/issue/volume-29-issue-01) (2016) *All articles are open access*
   + [Strategies for Increasing Diversity in the Ocean Science Workforce Through Mentoring](https://doi.org/10.5670/oceanog.2016.11) by Johnson et al.
   + [The Ocean Science Social Diversity Challenge](https://doi.org/10.5670/oceanog.2016.12) by Gilligan & Ebanks
   + [MS PHD’S: By and for Minorities](https://doi.org/10.5670/oceanog.2016.13) by Ricciardi et al.
-
 * [Minorities in Ocean Sciences: The LGBT Pride Weekend Edition](http://www.deepseanews.com/2011/06/minorities-in-ocean-sciences-the-lgbt-pride-weekend-edition/)
   + [Pride, Actually](http://www.deepseanews.com/2017/06/pride-actually/)
+* [Reclaiming STEM](https://sisterstem.org/2019/06/17/reclaiming-stem/)
+* [How to Actually Promote Diversity in STEM](https://www.theatlantic.com/ideas/archive/2019/11/how-umbc-got-minority-students-stick-stem/602635/)
 
 ## Imposter Syndrome
 * [Imposter syndrome isn’t the problem—toxic workplaces are](https://qz.com/work/1286549/imposter-syndrome-lets-toxic-work-culture-off-the-hook/) by Christine Liu
@@ -67,7 +66,10 @@ output:
 
 ## LGBTQIA+ Resources
 * [500 Queer Scientists](https://500queerscientists.com/)
+* [LGBTQ + STEM](Improving LGBTQ+ visilibility in STEM)
 * [Queer in STEM: Workplace Experiences Reported in a National Survey of LGBTQA Individuals in Science, Technology, Engineering, and Mathematics Careers](https://www.tandfonline.com/doi/abs/10.1080/00918369.2015.1078632?journalCode=wjhm20) by Yoder et al. 2015
+* [National Organization of Gay and Lesbian Scientists and Technical Professionals Inc.](https://www.noglstp.org/)
+* [Finding Asexuality in the Archives](https://slate.com/human-interest/2020/03/asexuality-history-internet-identity-queer-archive.amp?__twitter_impression=true)
 * Why you should use [gender prounouns](https://uwm.edu/lgbtrc/support/gender-pronouns/)
 
 ## Accessibility/Disabilities in STEM

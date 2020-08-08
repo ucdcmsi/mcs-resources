@@ -27,12 +27,14 @@ output:
 <br>
 
 ### Individual Development Plan
-* AAAS [myIDP](http://myidp.sciencecareers.org/) Individual Development Plan (IDP) tool
+* For Mentees: AAAS [myIDP](http://myidp.sciencecareers.org/) Individual Development Plan (IDP) tool
   + [Several articles](https://www.sciencemag.org/careers/2013/05/myidp) to guide you through myIDP
+* For Mentors: [The Mentor Mirror](https://renettatull.wordpress.com/2015/11/06/the-mentor-mirror-a-reverse-idp-for-mentors-srebdocschomotempowered-thinkbigdiversity/): A ‘Reverse’ IDP For Mentors
+  + [The Case for the Mentor Mirror](https://medium.com/@Renetta_Tull/i-will-mentor-nobel-prize-winners-academy-fellows-presidents-and-leaders-5a54a3e6fa5b) by UCD Associate Provost of DEI, Dr. Renetta Tull
 
 *The myIDP tool above says its for PhD students, but it is useful for any career stage!*
 
-### Mentor/Mentee Tools
+### Other Mentor/Mentee Tools
 * [Elements of Effective Practice for Mentoring](https://www.mentoring.org/program-resources/elements-of-effective-practice-for-mentoring/) from The National Mentoring Partnership
 * [Maximizing Mentoring Relationships (YouTube Video)](https://www.youtube.com/watch?v=PhjIrepywXc) from UC Davis [GradPathways](https://grad.ucdavis.edu/professional-development/gradpathways) 
 * From UCSF's [Accelerate Program](https://accelerate.ucsf.edu/)

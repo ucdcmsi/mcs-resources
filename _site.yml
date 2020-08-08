@@ -55,7 +55,7 @@ navbar:
             href: sciwri.html
           - text: "Undergrad Funding Opportunities"
             href: UGfunding.html
-          - text: "Useful Listservs"
+          - text: "Useful Mailing Lists"
             href: Listservs.html
       - text: "Research"
         icon: fa-ship  fa-1x

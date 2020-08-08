@@ -34,6 +34,7 @@ output:
 * [Academia from the perspective of a first-generation student (Twitter thread)](https://twitter.com/AnnaMeierPS/status/1276544857977303043?s=20)
 * [A UC Davis alumnus asked about grad school (Twitter Thread)](https://twitter.com/PollardKenzie/status/1284285187782656000?s=20) from July 2018
 * [Evolution and Ecology Graduate School Preview](https://eegradpreview.weebly.com/)
+* ["A guide for applying to graduate school in Biology"](Res_Mentoring/Application_Guide.pdf)
 
 ## Developing Research Skills (Laboratory / Fieldwork)
 * [Let's Experiment: A Guide for Scientists Working at the Bench (Self-Paced)](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about) via iBiology
@@ -53,10 +54,13 @@ output:
 ## Funding Opportunities for Graduate School
 * [Resources for POC in STEAM](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit#gid=1417047090)
 * [National Science Foundation Graduate Research Fellowship Proposal (NSF GRFP)](http://www.nsfgrfp.org/)
+  + [Advice](Res_Mentoring/GRFP-panel_100418-Brudvig-notes.pdf) from a GRFP writing workshop
 * [Department of Defense National Defense Science and Engineering Graduate Fellowship Program (DoD NDSEG)](https://ndseg.sysplus.com/)
 * [NOAA Dr. Nancy Foster Scholarship Program](https://fosterscholars.noaa.gov/)
 * [NASA Graduate Student Research Fellowships](https://www.nasa.gov/stem/fellowships-scholarships/index.html)
 * [Ford Family Foundation Scholarship](https://www.tfff.org/what-we-do/successful-citizens/postsecondary-success/scholarship-programs)
 * [P. D. Soros Fellowship For New Americans](https://www.pdsoros.org/)
+* [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) for professional development of trans, intersex, and non-binary graduate students and post-doctoral fellows in STEM
 * [National Geographic Early Career Grant](https://www.nationalgeographic.org/funding-opportunities/grants/what-we-fund/#EarlyCareer)
 * [Women Divers Hall of Fame](http://www.wdhof.org/wdhof-scholarshipDesc.aspx)
+* Other Funding Opportunities Are Listed [Here](excel/MarSci_GrantsFellowships.xlsx) (Updated July 2020)

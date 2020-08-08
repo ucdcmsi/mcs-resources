@@ -27,6 +27,8 @@ output:
 ## General Career Advice
 * [The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job](https://www.goodreads.com/book/show/24811991-the-professor-is-in) by Karen Kelsky
 * [MCSci Internships & Careers Page](https://geology.ucdavis.edu/students/undergrad/mcsci/internships)
+* [Transferrable Skills from Academia to the Job Market](https://twitter.com/AbigailHudak/status/1288656108257546240?s=20): A Twitter Thread
+
 
 ## Campus Resources
 * [Internship & Career Center (ICC)](https://icc.ucdavis.edu/)
@@ -36,6 +38,7 @@ output:
 * [ICC Resume / CV Resources](https://icc.ucdavis.edu/materials/resume)
 * ["When applying for nonacademic jobs, think creatively about your transferable skills"](https://www.sciencemag.org/careers/2020/06/when-applying-nonacademic-jobs-think-creatively-about-your-transferable-skills) by Karin Bodewits
 * [MIT Communication Lab CV/Resume Resources](https://mitcommlab.mit.edu/be/commkit/cvresume/)
+* [Creddle.io](http://creddle.io/) has FREE CV/Resume Templates
 
 ## Writing Cover Letters
 * [ICC COver Letter Resources](https://icc.ucdavis.edu/materials/cover-letters)
