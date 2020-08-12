@@ -34,7 +34,7 @@ output:
 * [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/index.html) course offered through the Graduate Group in Ecology
 * Weekly [#TidyTuesday Challenges](https://github.com/rfordatascience/tidytuesday)
 * Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz/index.html)
-* *Fun fact: this website was made in R Markdown[(see here)](website_guide.html), so R is a useful for more than just data analysis!*
+* *Fun fact: this website was made in R Markdown [(see here)](website_guide.html), so R is a useful for more than just data analysis!*
 
 ### Programming in Python
 * [Python Programming for Beginners](https://outschool.com/classes/python-programming-for-beginners-harry-potter-sorting-hat-edition-rlPpH2mv?sectionUid=7a556d9f-7718-4bf4-a142-cd61c88550fb&fbclid=IwAR3_e5WJqoUqRD5TKIwuLmUaZGQdv8oHOjFmQ5xmLW9TMPfeyb2yI3oXNrs#abk7wme1xh) using Harry Potter Examples!
