@@ -35,6 +35,7 @@ output:
 * [A UC Davis alumnus asked about grad school (Twitter Thread)](https://twitter.com/PollardKenzie/status/1284285187782656000?s=20) from July 2018
 * [Evolution and Ecology Graduate School Preview](https://eegradpreview.weebly.com/)
 * ["A guide for applying to graduate school in Biology"](Res_Mentoring/Application_Guide.pdf)
+* [Cientifico Latino Graduate Student Mentorship Initiative (GSMI)](https://www.cientificolatino.com/gsmi)
 
 ## Developing Research Skills (Laboratory / Fieldwork)
 * [Let's Experiment: A Guide for Scientists Working at the Bench (Self-Paced)](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about) via iBiology
