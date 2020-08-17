@@ -47,13 +47,15 @@ output:
 
 ## Advice for the Application Process
 * [Twitter Thread](https://twitter.com/MyOwnVelouria/status/1162097893462822913?s=20) from August 2019
+* [Inclusive Graduate Education Network](http://www.igenetwork.org/)
 
 ## GRE Advice
 * [Twitter Thread](https://twitter.com/OsmosisReads/status/1283183858847043586?s=20) from July 2020
 
 ## Funding Opportunities for Graduate School
 * [Resources for POC in STEAM](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit#gid=1417047090)
-* [Departments that have a fully-funded Masters program that includes Ecology, Evolution, or Organsimal Biology](https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0)
+* [Departments that have a fully-funded Masters programs](https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0) that include Ecology, Evolution, or Organsimal Biology
+* [AGU Bridge Program](https://www.agu.org/bridge-program)
 * [National Science Foundation Graduate Research Fellowship Proposal (NSF GRFP)](http://www.nsfgrfp.org/)
   + [Advice](Res_Mentoring/GRFP-panel_100418-Brudvig-notes.pdf) from a GRFP writing workshop
 * [Department of Defense National Defense Science and Engineering Graduate Fellowship Program (DoD NDSEG)](https://ndseg.sysplus.com/)
