@@ -26,6 +26,10 @@ output:
 </center>
 <br>
 
+### Sign-in sheets
+* Main Campus [Symptom Survey](https://campusready.ucdavis.edu/daily-symptom-survey)
+* Bodega Marine Laboratory [Daily Access Log](https://docs.google.com/forms/d/e/1FAIpQLScgu4zek-krumcs9neVMpzlBCPFEylnq0TJhZ2CXvbb7MnRgA/viewform)
+
 ### Find a Testing Location
 * [In California](https://www.arcgis.com/apps/Nearby/index.html?appid=43118dc0d5d348d8ab20a81967a15401)
 * [In the U.S.](https://covid19testcenterlocator.uhc.com/ctcl#/CTC-Search)
