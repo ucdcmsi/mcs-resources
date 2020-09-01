@@ -37,6 +37,7 @@ output:
 ### UC Davis
 * [UC Davis COVID-19 Campus Info](https://www.ucdavis.edu/coronavirus)
 * [UC Davis COVID-19 Updates](https://iet.ucdavis.edu/covid-19-updates)
+* [Bodega Marine Lab & Reserve COVID-19 Safety Plan and Operating Procedures](https://marinescience.ucdavis.edu/bml/covid-19-safety-plan)
 
 ### State of California
 * [covid19.ca.gov/](https://covid19.ca.gov/)

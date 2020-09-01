@@ -66,8 +66,8 @@ navbar:
             href: https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1321035399
           - text: "Post Opportunities @ UCD/BML"
             href: https://forms.gle/7eUJezNW5oZBDhWu5
-          - text: "BML Sign In/Out Form"
-            href: https://docs.google.com/forms/d/e/1FAIpQLScgu4zek-krumcs9neVMpzlBCPFEylnq0TJhZ2CXvbb7MnRgA/viewform 
+          - text: "BML/BMR COVID-19 Safety Plan"
+            href: https://marinescience.ucdavis.edu/bml/covid-19-safety-plan 
           - text: "Conferences"
             href: conferences.html
     right:
