@@ -35,6 +35,7 @@ output:
 *The myIDP tool above says its for PhD students, but it is useful for any career stage!*
 
 ### Other Mentor/Mentee Tools
+* Podcast - NPR Life Kit:[The Right Mentor Can Change Your Career. Here's How to Find One](https://www.npr.org/transcripts/907048549)
 * [Elements of Effective Practice for Mentoring](https://www.mentoring.org/program-resources/elements-of-effective-practice-for-mentoring/) from The National Mentoring Partnership
 * [Maximizing Mentoring Relationships (YouTube Video)](https://www.youtube.com/watch?v=PhjIrepywXc) from UC Davis [GradPathways](https://grad.ucdavis.edu/professional-development/gradpathways) 
 * From UCSF's [Accelerate Program](https://accelerate.ucsf.edu/)
@@ -42,4 +43,4 @@ output:
   + [Communicating Effectively with Mentees](https://accelerate.ucsf.edu/training/mdp-seminar3)
   + [The One-Minute Mentor](https://accelerate.ucsf.edu/training/mdp-seminar1-one-minute-mentor)
   + [Mentoring Checklist](https://accelerate.ucsf.edu/training/mdp-seminar1-mentoring-checklist)
-* [Mentoring Toolkit](https://www.gla.ac.uk/media/Media_516965_smxx.pdf) from the University of Glascow: A short guide for mentors and mentees to promote effective mentoring
+* [Mentoring Toolkit](https://www.gla.ac.uk/media/Media_516965_smxx.pdf) from the University of Glasgow: A short guide for mentors and mentees to promote effective mentoring
