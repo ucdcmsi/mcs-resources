@@ -22,7 +22,7 @@ output:
 
 
 
-### Resources {.tabset .tabset-fade}
+### Resources
 
 #### Navigating Lab Environments
 * Coming Soon
