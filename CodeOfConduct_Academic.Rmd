@@ -1,5 +1,5 @@
 ---
-title: "UC Davis Code of Academic Conduct"
+title: "Code of Academic Conduct"
 output: 
   html_document:
     theme: yeti
@@ -21,6 +21,12 @@ output:
 <br>
 
 You should familiarize yourself with the UC Davis standards of academic conduct, available [here](https://supportjudicialaffairs.sf.ucdavis.edu/code-academic-conduct).
+<br>
+<br>
+
+##### *Ensuring Equitable Access to Learning*
+
+UC Davis is committed to educational equity in the academic setting, and in serving a diverse student body. I encourage all students who are interested in learning more about the Student Disability Center (SDC) to contact them directly at sdc.ucdavis.edu or 530-752-3184. If you are a student who currently receives academic accommodation(s), please submit your SDC Letter of Accommodation to me as soon as possible, ideally within the first two weeks of this course. 
 
 ##### *Cheating*
 In this class, we will be doing a combination of group and individual assignments. The very ethos of this class is to build a collaborative network amongst the students, but also to support your individual development as scientists. Thus, I ask that you work together and lift each other up, but please not cheat or plagiarize (more information on plagiarism below) in this class.  If any part of your feels compelled to cheat to achieve the ‘Pass’ grade that this course requires, please come talk to me so we can develop a strategy for ensuring tat you succeed in this course.

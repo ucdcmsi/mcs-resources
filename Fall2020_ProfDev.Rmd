@@ -89,13 +89,6 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 ## JEDI in Marine Science
 * You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because JEDI pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named *"JEDI Mind Tricks”*). JEDI resources are also available [here](JEDImarsci.html).
 
-### *Ensuring Equitable Access to Learning*
-
-* UC Davis is committed to educational equity in the academic setting, and in serving a diverse student body. I encourage all students who are interested in learning more about the Student Disability Center (SDC) to contact them directly at sdc.ucdavis.edu or 530-752-3184. 
-  + If you are a student who currently receives academic accommodation(s), please submit your SDC Letter of Accommodation to me as soon as possible, ideally within the first two weeks of this course. 
-
-
-
 *The instructor reserves the right to change details of the above course plans to ensure the best possible learning environment.*
 
 ## Lectures & Assignments  {.tabset .tabset-fade}

@@ -22,35 +22,31 @@ output:
 
 
 
-## Resources coming soon! :)  {.tabset .tabset-fade}
-<br>
+### Resources {.tabset .tabset-fade}
 
-#### Topic 1
+#### Navigating Lab Environments
 * Coming Soon
 
-#### Topic 2
+#### Science Writing
 * Coming Soon
 
-#### Topic 3
+#### Finding & Reading Papers
 * Coming Soon
 
-#### Topic 4
+#### Jobs / Internships
 * Coming Soon
 
-#### Topic 5
+#### Grants / Fellowships
 * Coming Soon
 
-#### Topic 6
+#### Grad School
 * Coming Soon
 
-#### Topic 7
+#### SciComm
 * Coming Soon
 
-#### Topic 8
+#### Science Ethics & Activism
 * Coming Soon
 
-#### Topic 9
-* Coming Soon
-
-#### Topic 10
+#### Wild Card Class! :) 
 * Coming Soon
