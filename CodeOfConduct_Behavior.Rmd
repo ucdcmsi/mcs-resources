@@ -1,0 +1,61 @@
+---
+title: "Code of Conduct for Class Interactions"
+output: 
+  html_document:
+    theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
+<br>
+
+*This Code of Conduct is based on one used by the [Western Society of Naturalists](https://www.wsn-online.org/code-of-conduct/).*
+
+This course is intended to broaden our communal understanding of different aspects of academia and marine science. We are all coming into it with different lived experiences and levels of understanding about each topic. This course is intended to foster the exchange of ideas, provide participants with an opportunity to share their experiences, to establish pathways for professional development, and accumulate resources that will help our cohort grow as scientists. Thus, we are committed to creating an environment in which all attendees can participate without harassment, discrimination, or violence of any type.
+
+**All students must be treated with respect, regardless of race, gender, sexual orientation, gender identity/expression, ethnicity, ability, religion, language, professional status, institution, or age. All participants, including guests, are expected to abide by this Code of Conduct.**
+
+This Code of Conduct applies to all activities related to this class (in-person / virtual meetings, email exchanges, and chatroom discussions).
+
+*Expected behavior includes (but is not limited to):*
+
+* Treating all participants and meeting facilities with respect and consideration.
+* Communicating openly with respect for others, critiquing ideas rather than individuals.
+* Avoiding personal attacks directed toward others.
+* Complying with [UC Davis' Principles of Community](https://diversity.ucdavis.edu/principles-community).
+* Abiding by principles of academic integrity and ethical professional conduct.
+
+Harassment or discrimination by or of any meeting participant or of any type will not be tolerated.
+
+*Unacceptable behavior includes (but is not limited to):*
+
+* Behavior that implies or indicates that someone does not belong in this class based on any personal characteristic or identity.
+* Any unwanted attention, sexual advances, and comments about appearance.
+* Verbal harassment, including comments, epithets, slurs, threats, and negative stereotyping that are offensive, hostile, disrespectful, or unwelcome.
+* Non-verbal harassment, including actions or distribution, display, or discussion of any written or graphic material toward an individual or group that ridicules, denigrates, insults, belittles, or shows hostility, aversion, or disrespect.
+* Bullying, intimidation, stalking, shaming, and assault.
+* Retaliation for reporting harassment.
+* Reporting an incident in bad faith.
+
+*Reporting:*
+
+* If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact:
+  + Priya Shukla, the course facilitator: <pshukla@ucdavis.edu>
+  + Anne Todgham, the Insructor affiliated with this course: <todgham@ucdavis.edu>
+  + Mandy Rousseau, the Undergraduate Advisor: <mlrousseau@ucdavis.edu>
+  + Tawny Mata, the CMSI Executive Director: <tmmata@ucdavis.edu>
+  + The [UC Davis ombuds office](http://ombuds.ucdavis.edu/).
+  + UC Davis Harassment & Discrimination Assistance and Prevention Program (HDAPP): **CONFIDENTIALLY** report harassment or discrimination, including sexual harassment, sexual violence, hate and bias here: [reporthateandbias.ucdavis.edu](reporthateandbias.ucdavis.edu)
+
+
