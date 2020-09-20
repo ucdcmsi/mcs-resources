@@ -32,7 +32,7 @@ output:
 ## Syllabus
 * Download the Fall 2020 syllabus [here](pdfs/ANS198_ProfDevSyllabus_FQ20_FINAL.pdf).
 * View the resources collected by students in the course [here](Fall2020_ProfDev_ResDoc.html).
-* You may also want to familIarize yourself with:
+* You will also want to familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
   + [Code of Academic Conduct](CodeOfConduct_Academic.html)
   + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
@@ -99,43 +99,53 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ## Lectures & Assignments  {.tabset .tabset-fade}
 
-### Week 1: Introduction; Syllabus Overview; Class Activity
+### Week 1
+#### Introduction; Syllabus Overview; Class Activity
   + Lecture - Welcome to ANS 198, Fall 2020!
   + Assignment 1 - due October 8
 
-### Week 2: Academic Science + Lab Culture
+### Week 2
+#### Academic Science + Lab Culture
   + Lecture -
   + Assignment 2 - due October 15
 
-### Week 3: Writing in Science
+### Week 3
+#### Writing in Science
   + Lecture - 
   + Assignment 3 - due October 22
 
-### Week 4: Finding & Reading Scientific Papers
+### Week 4
+#### Finding & Reading Scientific Papers
   + Lecture - 
   + Assignment 4 - due October 29
 
-### Week 5: Applying to Jobs / Internships
+### Week 5
+#### Applying to Jobs / Internships
   + Lecture - 
   + Assignment 5 - due November 5
 
-### Week 6: Applying for Grants / Fellowships
+### Week 6
+#### Applying for Grants / Fellowships
   + Lecture -
   + Assignment 6 - due November 12
 
-### Week 7: Applying to Graduate School
+### Week 7
+#### Applying to Graduate School
   + Lecture - 
   + Assignment 7 - due November 19
 
-### Week 8: Science Communication
+### Week 8
+#### Science Communication
   + Lecture -
   + Assignment 8 - due December 3
 
-### Week 9: Science Ethics, Advocacy & Activism
+### Week 9
+#### Science Ethics, Advocacy & Activism
   + Lecture - 
   + Assignment 9 - due December 10
 
-### Week 10: Wild Card Class - Students' Choice!
+### Week 10
+#### Wild Card Class - Students' Choice!
   + Lecture -
 
 
