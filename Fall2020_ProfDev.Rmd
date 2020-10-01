@@ -34,6 +34,7 @@ output:
 * View the resources collected by students in the course [here](Fall2020_ProfDev_ResDoc.html).
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
+  + [Student Resources & Services](StudentResources_Services.html)
   + [Code of Academic Conduct](CodeOfConduct_Academic.html)
   + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
 
@@ -96,7 +97,9 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 ### Week 1
 #### Introduction; Syllabus Overview; Class Activity
   + Lecture - Welcome to ANS 198, Fall 2020!
-  + Assignment 1 - due October 8
+  + [Google Jamboard](https://jamboard.google.com/d/1cQuBb3pZzlFAJH0-DS4PnJv1ZpPDX51mve27WPf_GGs/viewer?f=0) - Lecture 1
+  + [Scavenger Hunt](pdfs/LastName_FirstName_ANS198_ScavengerHunt.doc)
+  + [Assignment 1](https://airtable.com/shreVaRqdPNJmZgw4) - due October 8
 
 ### Week 2
 #### Academic Science + Lab Culture

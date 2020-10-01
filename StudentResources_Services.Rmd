@@ -1,0 +1,33 @@
+---
+title: "Student Resources & Services"
+output: 
+  html_document:
+    theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
+<br>
+
+A full list of student resources is available [here](https://www.ucdavis.edu/students/resources/).
+<br>
+<br>
+
+##### *Student Services & Resources*
+
+Even barring world events and personal drama, university can be a stressful time! 
+
+* If you are feeling especially stressed or just need to talk to someone, you should take advantage of the [free counseling services](https://shcs.ucdavis.edu/counseling-services) offered on campus. 
+* If you’re having a hard time studying efficiently and adjusting to university academic expectations, you should visit the [Student Academic Success Center](https://opportunity.ucdavis.edu/services/scls). 
+* University is expensive and it can be difficult to make ends meet, but you should not need to sacrifice nutrition especially since you need energy to be able to study well. If you are still living in Davis and you are having a hard time finding a healthy meal or getting basic necessities, please visit the [UC Davis Pantry](https://thepantry.ucdavis.edu).
+
