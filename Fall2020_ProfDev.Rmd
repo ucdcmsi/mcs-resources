@@ -96,7 +96,8 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 1
 #### Introduction; Syllabus Overview; Class Activity
-  + Lecture - Welcome to ANS 198, Fall 2020!
+  + Lecture - Welcome to ANS 198, Fall 2020! ([pdf](pdfs/ANS198_FQ20_Lec1_Intro.pdf) | [recording](https://ucdavis.zoom.us/rec/share/PFbL-Nl6SoX9_xkbO6lOxDuvAgYPgqiIGbYfzVG5gLuTE-wi157h6bTOd9E3ydcc.Gb5WUOVYG0UVW2g_))
+  
   + [Google Jamboard](https://jamboard.google.com/d/1cQuBb3pZzlFAJH0-DS4PnJv1ZpPDX51mve27WPf_GGs/viewer?f=0) - Lecture 1
   + [Scavenger Hunt](pdfs/LastName_FirstName_ANS198_ScavengerHunt.doc)
   + [Assignment 1](https://airtable.com/shreVaRqdPNJmZgw4) - due October 8
