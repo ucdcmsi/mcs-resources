@@ -58,7 +58,7 @@ navbar:
           - text: "Useful Mailing Lists"
             href: Listservs.html
       - text: "Research"
-        icon: fa-ship  fa-1x
+        icon: fa-narwhal  fa-1x
         menu:
           - text: "MCSci Research Resources on Campus"
             href: https://geology.ucdavis.edu/students/undergrad/mcsci/research 
@@ -72,10 +72,10 @@ navbar:
             href: conferences.html
     right:
       - text: "CMSI"
-        icon: fa-map
+        icon: fa-water
         href: https://marinescience.ucdavis.edu/
       - text: "MCS Major"
-        icon: fa-university
+        icon: fa-dharmachakra
         href: https://geology.ucdavis.edu/mcs
 
             
