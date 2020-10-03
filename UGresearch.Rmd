@@ -53,7 +53,6 @@ output:
 
 You will notice that some of the positions in the database will be able to pay you, but many of the opportunities you come across will also be volunteer positions that may compensate you with academic units and/or transcript notation. So here are few things you can expect ... 
 
-<br>
 
 * Short-term volunteer positions (1-2 days, weeks) may not necessarily come with any compensation. However, they are a great way to figure out if you like a specific field or discipline, want to commit to a project for longer than just 1-2 meetings, and make a connection with someone who could **be a reference** for a future position.
   + These positions can also be great ways to accumulate experience around a busy class or work schedule! 
@@ -75,11 +74,9 @@ Here is some language you are welcome to use and modify to approach your mentor 
 *Dear [MENTOR],*
 
 
-*It has been such a pleasure working with the [RESEARCH GROUP] for the past [TIME YOU'VE BEEN WITH THEM] working on [PERSON]'s [PROJECT]. I've learned so much about [TOPIC], especially [SOMETHING YOU PARTICULARLY ENJOYED]. I'm interested in continuing to work with the [RESEARCH GROUP], but cannot commit to this amount of time while also picking up a part-time job.* 
+*It has been such a pleasure working with the [RESEARCH GROUP] for the past [TIME YOU'VE BEEN WITH THEM] working on [PERSON]'s [PROJECT]. I've learned so much about [TOPIC], especially [SOMETHING YOU PARTICULARLY ENJOYED]. I'm interested in continuing to work with the [RESEARCH GROUP], but cannot continue to work [THESE MANY HOURS] while also [OTHER COMMITMENT (e.g., taking the classes I need to, hold my part-time job, pick up my kids after school, etc.].*
 
-
-
-*So, I was wondering if we could work together to find ways to fund a position for me in the [LAB/CENTER]. For example, the UC Davis Undergraduate Research Center offers certain programs (see here: [https://urc.ucdavis.edu/programs](https://urc.ucdavis.edu/programs)) and I've heard that some departments also offer undergraduate students work-study positions. These are just a couple of ideas, and I'd be interested in discussing this further with you.*
+*So, I was wondering if we could work together to find ways to [earn academic units] / [fund] for my work in the [LAB/CENTER]. For example, the UC Davis Undergraduate Research Center offers certain programs (see here: [https://urc.ucdavis.edu/programs](https://urc.ucdavis.edu/programs)) and I've heard that some departments also offer undergraduate students work-study positions. These are just a couple of ideas, and I'm really interested in hearing your thoughts on this.*
 
 
 
