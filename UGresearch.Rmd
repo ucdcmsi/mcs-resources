@@ -1,0 +1,97 @@
+---
+title: "Undergraduate Research Experiences"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+    toc_depth: 4
+    toc_float: true
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
+<br>
+
+<center>
+<img src="photos/chuttersnap-UmncJq4KPcA-unsplash.jpg" style="width:100%">
+<br>
+<br>
+
+
+<button style="background-color:#d3af37;" type="button">
+**[View UCD Research Opportunities](https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1321035399)**
+</button>
+<button style="background-color:#d3af37;" type="button">
+**[Post UCD Research Opportunities](https://forms.gle/7eUJezNW5oZBDhWu5)**
+</button>
+</center>
+
+<br>
+<br>
+
+## About the research opportunities database
+* There is a lot of great information in the [READ ME tab](https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1423802416) of the database about **expectations** for research opportunities, **skills** you gain from participating in research experiences (even if research doesn't end up being your dream job!), and **how to apply** for such positions. 
+* For further perspective, check out this blog post by 2020-21 CMSI Lead Mentor, [Priya Shukla](Priya.html), entitled ["Demystifying Undergraduate Research Experiences"](https://marinescience.ucdavis.edu/blog/demystifying-undergraduate-research-experiences).
+
+## General advice about undergraduate research experiences
+
+* [Getting Started FAQs, Undergarduate Research Center](https://urc.ucdavis.edu/getting-started-faqs), UC Davis
+* [A student’s guide to undergraduate research](https://www.nature.com/articles/d41586-019-00871-x), Nature
+* [Getting involved in research as an undergraduate: nuts and bolts](https://www.apa.org/ed/precollege/psn/2014/01/research-undergraduate), American Psychological Association
+
+## Compensation for research
+
+You will notice that some of the positions in the database will be able to pay you, but many of the opportunities you come across will also be volunteer positions that may compensate you with academic units and/or transcript notation. So here are few things you can expect ... 
+
+<br>
+
+* Short-term volunteer positions (1-2 days, weeks) may not necessarily come with any compensation. However, they are a great way to figure out if you like a specific field or discipline, want to commit to a project for longer than just 1-2 meetings, and make a connection with someone who could **be a reference** for a future position.
+  + These positions can also be great ways to accumulate experience around a busy class or work schedule! 
+* For, longer-term volunteer positions (1+ months), you should definitely make sure you're at least getting research or internship units and/or transcript notation.
+  + In some cases, enrolling in a "198" Research/Internship units can serve as a class and help meet the requirements of being a "full-time" student
+* For paid positions, you will receive monetary compensation. And sometimes, you *may* also receive units, but this will vary on a case-by-case basis.
+
+
+### Approaching a mentor about compensation
+
+
+So, let's say you're super jazzed about a position, but you're nervous about talking to you research mentor about how they're compensating you. Or, maybe you've been in a volunteer position for awhile, but you'd like to see if you can stay on and make money. Regardless of your reasoning, it's perfectly acceptable - and encouraged - to make sure you and your mentor are on the same page!
+
+
+Here is some language you are welcome to use and modify to approach your mentor (this assumes you are communicating via e-mail):
+
+
+*Dear [MENTOR],*
+
+
+*It has been such a pleasure working with the [RESEARCH GROUP] for the past [TIME YOU'VE BEEN WITH THEM] working on [PERSON]'s [PROJECT]. I've learned so much about [TOPIC], especially [SOMETHING YOU PARTICULARLY ENJOYED]. I'm interested in continuing to work with the [RESEARCH GROUP], but cannot commit to this amount of time while also picking up a part-time job.* 
+
+
+
+*So, I was wondering if we could work together to find ways to fund a position for me in the [LAB/CENTER]. For example, the UC Davis Undergraduate Research Center offers certain programs (see here:[https://urc.ucdavis.edu/programs](https://urc.ucdavis.edu/programs)) and I've heard that some departments also offer undergraduate students work-study positions. These are just a couple of ideas, and I'd be interested in discussing this further with you.*
+
+
+
+*Thank you for considering this request.*
+
+
+
+*Best wishes,*
+
+
+*[YOUR NAME]*
+
+### Check out these funded research opportunities!
+* [Sponsored Undergraduate Research Programs Information Matrix](https://urc.ucdavis.edu/sites/g/files/dgvnsk3561/files/inline-files/2019-2020%20Sponsored_Programs_Matrix_Handout%20%20V2_0.pdf)
+* [NOAA Hollings Undergraduate Scholarship](https://www.noaa.gov/office-education/hollings-scholarship)
+* [National Science Foundation REUs (Research Experiences for Undergraduates)](https://www.nsf.gov/crssprgm/reu/index.jsp)
+* [NSF Geo-Futures Program at CSU Monterey Bay](https://csumb.edu/cme/undergraduate-students)
+

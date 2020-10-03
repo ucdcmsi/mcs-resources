@@ -29,6 +29,7 @@ output:
 
 
 ### Check out these funding opportunities!
+* [Sponsored Undergraduate Research Programs Information Matrix](https://urc.ucdavis.edu/sites/g/files/dgvnsk3561/files/inline-files/2019-2020%20Sponsored_Programs_Matrix_Handout%20%20V2_0.pdf)
 * [Scholarships & Awards on campus](https://geology.ucdavis.edu/students/undergrad/mcsci/honors)
 * [NOAA Hollings Undergraduate Scholarship](https://www.noaa.gov/office-education/hollings-scholarship)
 * [National Science Foundation REUs (Research Experiences for Undergraduates)](https://www.nsf.gov/crssprgm/reu/index.jsp)

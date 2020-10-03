@@ -60,12 +60,10 @@ navbar:
       - text: "Research"
         icon: fa-narwhal  fa-1x
         menu:
+          - text: "Research Experiences for Undergraduates"
+            href: UGresearch.html
           - text: "MCSci Research Resources on Campus"
             href: https://geology.ucdavis.edu/students/undergrad/mcsci/research 
-          - text: "View Opportunities @ UCD/BML"
-            href: https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1321035399
-          - text: "Post Opportunities @ UCD/BML"
-            href: https://forms.gle/7eUJezNW5oZBDhWu5
           - text: "BML/BMR COVID-19 Safety Plan"
             href: https://marinescience.ucdavis.edu/bml/covid-19-safety-plan 
           - text: "Conferences"
