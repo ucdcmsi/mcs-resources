@@ -41,10 +41,10 @@ output:
 
 ## About the research opportunities database
 * There is a lot of great information in the [READ ME tab](https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1423802416) of the database about **expectations** for research opportunities, **skills** you gain from participating in research experiences (even if research doesn't end up being your dream job!), and **how to apply** for such positions. 
-* For further perspective, check out this blog post by 2020-21 CMSI Lead Mentor, [Priya Shukla](Priya.html), entitled ["Demystifying Undergraduate Research Experiences"](https://marinescience.ucdavis.edu/blog/demystifying-undergraduate-research-experiences).
 
 ## General advice about undergraduate research experiences
 
+* ["Demystifying Undergraduate Research Experiences"](https://marinescience.ucdavis.edu/blog/demystifying-undergraduate-research-experiences) blog post by 2020-21 CMSI Lead Mentor, [Priya Shukla](Priya.html)
 * [Getting Started FAQs, Undergarduate Research Center](https://urc.ucdavis.edu/getting-started-faqs), UC Davis
 * [A student’s guide to undergraduate research](https://www.nature.com/articles/d41586-019-00871-x), Nature
 * [Getting involved in research as an undergraduate: nuts and bolts](https://www.apa.org/ed/precollege/psn/2014/01/research-undergraduate), American Psychological Association
