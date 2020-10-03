@@ -60,7 +60,7 @@ navbar:
       - text: "Research"
         icon: fa-narwhal  fa-1x
         menu:
-          - text: "Research Experiences for Undergraduates"
+          - text: "Undergraduate Research Experiences"
             href: UGresearch.html
           - text: "MCSci Research Resources on Campus"
             href: https://geology.ucdavis.edu/students/undergrad/mcsci/research 
