@@ -68,6 +68,7 @@ So, let's say you're super jazzed about a position, but you're nervous about tal
 
 Here is some language you are welcome to use and modify to approach your mentor (this assumes you are communicating via e-mail):
 
+<hr>
 
 *Dear [MENTOR],*
 
@@ -88,6 +89,8 @@ Here is some language you are welcome to use and modify to approach your mentor 
 
 
 *[YOUR NAME]*
+
+<hr>
 
 ### Check out these funded research opportunities!
 * [Sponsored Undergraduate Research Programs Information Matrix](https://urc.ucdavis.edu/sites/g/files/dgvnsk3561/files/inline-files/2019-2020%20Sponsored_Programs_Matrix_Handout%20%20V2_0.pdf)
