@@ -22,9 +22,10 @@ output:
 
 <center>
 <img src="photos/chuttersnap-UmncJq4KPcA-unsplash.jpg" style="width:100%">
-<br>
-<br>
 
+<br>
+<br>
+<hr>
 
 <button style="background-color:#d3af37;" type="button">
 **[View UCD Research Opportunities](https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1321035399)**
@@ -34,6 +35,7 @@ output:
 </button>
 </center>
 
+<hr>
 <br>
 <br>
 
