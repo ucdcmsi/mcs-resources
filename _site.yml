@@ -58,7 +58,7 @@ navbar:
           - text: "Useful Mailing Lists"
             href: Listservs.html
       - text: "Research"
-        icon: fa-disease  fa-1x
+        icon: fa-flask  fa-1x
         menu:
           - text: "Undergraduate Research Experiences"
             href: UGresearch.html
