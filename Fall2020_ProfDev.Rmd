@@ -103,13 +103,15 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 2
 #### Academic Science + Lab Culture
-  + Lecture - Academic Science & Lab Culture
+  + Lecture [**[pdf](pdfs/ANS198_FQ20_Lec2_AcademicSci+LabCulture.pdf)** | **[recording](https://ucdavis.zoom.us/rec/share/FwjyHpkabeO14Jsn-AuUGC1Hp1WiqGEA_9XztycTWEp_qrSS83FfjFdJlzWDKGLC.3taNU_xE-zXqM7Uw)**] - Academic Science & Lab Culture
   + **[Google Jamboard]( https://jamboard.google.com/d/1b719lhST642KeNzR0AcRism51yq9os7gdVaLAkuYUCc/edit?usp=sharing)** - Lecture 2
   + **[Assignment 2](https://airtable.com/shrM0ZQk7jM8MZnmD)** - due October 15
 
 ### Week 3
 #### Writing in Science
-  + Lecture - 
+  + Lecture - Science Writing
+  + Slides - Technical Science Writing
+  + Slides - Popular Science Writing
   + Assignment 3 - due October 22
 
 ### Week 4
