@@ -30,7 +30,7 @@ output:
 </center>
 
 ## Syllabus
-* Download the Fall 2020 syllabus [here](FQ20 /ANS198_ProfDevSyllabus_FQ20_FINAL2.pdf).
+* Download the Fall 2020 syllabus [here](FQ20/ANS198_ProfDevSyllabus_FQ20_FINAL2.pdf).
 * View the resources collected by students in the course [here](Fall2020_ProfDev_ResDoc.html).
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
