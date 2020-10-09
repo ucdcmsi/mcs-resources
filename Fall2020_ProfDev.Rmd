@@ -116,7 +116,10 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 4
 #### Finding & Reading Scientific Papers
-  + Lecture - 
+  + Lecture - Finding Scientific Papers
+  + **[How To Read A Scientific Paper Quickly & Efficiently](pdfs/FQ20/Dennis_ReadSciPapersQuickly.pdf)**
+  + **[Journal Article Notebook](pdfs/FQ20/Liu_JournalArticleNotebook.pdf)**
+  + **Sanford 1999: ["Regulation of Keystone Predation by Small Changes in Ocean Temperature"](pdfs/FQ20/Sanford1999_KeystonePredationTemp.pdf)**
   + Assignment 4 - due October 29
 
 ### Week 5
