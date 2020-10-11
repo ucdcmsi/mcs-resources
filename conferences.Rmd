@@ -3,7 +3,7 @@ title: "Marine Science Conferences"
 output: 
   html_document:
     theme: yeti
-    toc: false
+    toc: true
     toc_depth: 4
     toc_float: true
 ---
@@ -27,8 +27,17 @@ output:
 <br>
 </center>
 
+## General Advice For Attending Conferences
+* [Navigating your first academic conference](https://www.apa.org/science/about/psa/2016/10/academic-conference)
+* [Advice for Attending a Science Conference for the First Time](https://spie.org/news/advice-for-attending-a-conference?SSO=1)
+* [How to get the most out of attending conferences](https://www.sciencemag.org/careers/2017/05/how-get-most-out-attending-conferences)
+* [Interviewing a first-time conference attendee](https://earlycareervoice.professional.heart.org/interviewing-a-first-time-conference-attendee/)
+* [Navigating virtual conferences as a junior researcher](https://www.nature.com/articles/s41467-020-18656-6#citeas)
 
-### Conferences for Marine Scientists
+## Advice For Presenting At Conferences
+* [Doing Science: Writing conference abstracts](https://breathe.ersjournals.com/content/10/3/265)
+
+## Conferences for Marine Scientists
 * [UC Davis Undergraduate Research, Scholarship and Creative Activities Conference](https://urc.ucdavis.edu/conference), 
 * [WSN](http://www.wsn-online.org/), the Western Society of Naturalists
 * [BEM or "Benthics"](https://www.bemsociety.org/), the Benthic Ecology Meeting

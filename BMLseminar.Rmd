@@ -3,7 +3,7 @@ title: "Weekly BML Seminar Series"
 output: 
   html_document:
     theme: yeti
-    toc: false
+    toc: true
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -29,3 +29,7 @@ output:
 * The seminar schedule is available [here](https://marinescience.ucdavis.edu/events).
 * Recordings for previous seminars are available [here](https://marinescience.ucdavis.edu/events/seminar-videos).
 * To sign up for the BML seminar series, contact <cmsi@ucdavis.edu>.
+
+## Other Ocean Science Seminars (Online)
+* [List of online ocean webinars](https://docs.google.com/spreadsheets/d/1XqfmKu-bcsMTRi--eSLZfCt7oI8vLJ6RylxDPmoI9fQ/edit#gid=1187216612)
+* [OneNOAA Science Seminars](https://www.nodc.noaa.gov/seminars/)
