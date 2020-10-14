@@ -118,10 +118,10 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 #### Finding & Reading Scientific Papers
   + Lecture - Finding Scientific Papers
   + **[How To Read A Scientific Paper Quickly & Efficiently](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Dennis_ReadSciPapersQuickly.pdf)**
-  + **[Journal Article Notebook](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Liu_JournalArticleNotebook.pdf)**
+    + **[Infographic: How To Read Scientific Papers](FQ20/SciPaperInfographic.jpg)**
   + **Sanford 1999: ["Regulation of Keystone Predation by Small Changes in Ocean Temperature"](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Sanford1999_KeystonePredationTemp.pdf)**
-  + **[Infographic: How To Read Scientific Papers](FQ20/SciPaperInfographic.jpg)**
   + **[How To Write A 'Nature' Abstract](FQ20/ANS198_FQ20_Lec4_SciPaperReading/HowToWriteANatureAbstract.pdf)**
+    + **[Journal Article Notebook](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Liu_JournalArticleNotebook.pdf)**
   + Assignment 4 - due October 29
 
 ### Week 5
