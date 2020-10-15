@@ -109,18 +109,19 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 3
 #### Writing in Science
-  + Lecture - Science Writing
-  + Slides - Technical Science Writing
-  + Slides - Popular Science Writing
-  + Assignment 3 - due October 22
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] - Science Writing
+  + Slides - Technical Science Writing [[pdf]()]
+  + Slides - Popular Science Writing [**[pdf coming soon](FQ20/ANS198_Lec3_Zulian_PopSciWriting.pdf)**]
+    + Activity: (**[Swezey et al. 2020](FQ20/ANS198_Lec3_Swezey_2020_Abalone_PNAS.pdf)** | **[Grodsky & Hernandez 2020](FQ20/ANS198_Lec3_Grodsky_et_al-2020-Nature_Sustainability.pdf)**)
+  + **[Assignment 3](https://airtable.com/shrkMcMfyWyv0MYnJ)** - due October 22
 
 ### Week 4
 #### Finding & Reading Scientific Papers
-  + Lecture - Finding Scientific Papers
-  + **[How To Read A Scientific Paper Quickly & Efficiently](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Dennis_ReadSciPapersQuickly.pdf)**
+  + Lecture - Finding & Reading Scientific Papers
+    + **[How To Read A Scientific Paper Quickly & Efficiently](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Dennis_ReadSciPapersQuickly.pdf)**
     + **[Infographic: How To Read Scientific Papers](FQ20/SciPaperInfographic.jpg)**
-  + **Sanford 1999: ["Regulation of Keystone Predation by Small Changes in Ocean Temperature"](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Sanford1999_KeystonePredationTemp.pdf)**
-  + **[How To Write A 'Nature' Abstract](FQ20/ANS198_FQ20_Lec4_SciPaperReading/HowToWriteANatureAbstract.pdf)**
+    + **Sanford 1999: ["Regulation of Keystone Predation by Small Changes in Ocean Temperature"](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Sanford1999_KeystonePredationTemp.pdf)**
+    + **[How To Write A 'Nature' Abstract](FQ20/ANS198_FQ20_Lec4_SciPaperReading/HowToWriteANatureAbstract.pdf)**
     + **[Journal Article Notebook](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Liu_JournalArticleNotebook.pdf)**
   + Assignment 4 - due October 29
 
