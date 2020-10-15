@@ -69,14 +69,14 @@ navbar:
           - text: "Conferences"
             href: conferences.html
     right:
-      - text: "Marine Science Club"
-        icon: fa-water fa-1x
-        href: https://marinesciclubdavis.weebly.com/
       - text: "CMSI"
         icon: fa-map  fa-1x
         href: https://marinescience.ucdavis.edu/
       - text: "MCS Major"
         icon: fa-university  fa-1x
         href: https://geology.ucdavis.edu/mcs
+      - text: "Marine Science Club"
+        icon: fa-water fa-1x
+        href: https://marinesciclubdavis.weebly.com/
 
             
