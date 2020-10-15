@@ -76,7 +76,7 @@ navbar:
         icon: fa-university  fa-1x
         href: https://geology.ucdavis.edu/mcs
       - text: "Marine Science Club"
-        icon: fa-water fa-1x
+        icon: fa-gavel fa-1x
         href: https://marinesciclubdavis.weebly.com/
 
             
