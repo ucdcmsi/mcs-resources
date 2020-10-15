@@ -109,10 +109,11 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 3
 #### Writing in Science
-  + Lecture [[pdf coming soon]() | [recording coming soon]()] - Science Writing
+  + Lecture [**[pdf](FQ20/ANS198_Lec3_SciWri_Intro.pdf)** | [recording coming soon]()] - Science Writing
   + Slides - Technical Science Writing [**[pdf](FQ20/ANS198_Lec3_for_students_Yeager_Intro_Sci_Writing.pdf)**]
   + Slides - Popular Science Writing [**[pdf](FQ20/ANS198_Lec3_Zulian_PopSciWriting.pdf)**]
-    + Activity: (**[Swezey et al. 2020](FQ20/ANS198_Lec3_Swezey_2020_Abalone_PNAS.pdf)** | **[Grodsky & Hernandez 2020](FQ20/ANS198_Lec3_Grodsky_et_al-2020-Nature_Sustainability.pdf)**)
+    + Abalone Study: (**[Academic Paper](FQ20/ANS198_Lec3_Swezey_2020_Abalone_PNAS.pdf)** | **[Press Release](https://climatechange.ucdavis.edu/news/for-red-abalone-resisting-ocean-acidification-starts-with-mom/)**)
+    + Cactus study (**[Academic Paper](FQ20/ANS198_Lec3_Grodsky_et_al-2020-Nature_Sustainability.pdf)** | **[Press Release](https://energy.ucdavis.edu/cacti-and-other-iconic-desert-plants-threatened-by-solar-development/)**)
   + **[Assignment 3](https://airtable.com/shrkMcMfyWyv0MYnJ)** - due October 22
 
 ### Week 4
