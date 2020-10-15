@@ -99,13 +99,13 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
   + Lecture [**[pdf](FQ20/ANS198_FQ20_Lec1_Intro.pdf)** | **[recording](https://ucdavis.zoom.us/rec/share/OhlX6OmWCm0Ya33tgBrRB1gHxzcNbd-KFf5JNvb60nq2MQqDHPdsRs_gKYKJVEuS.H_4VK0DicWmNDilB)**] - Welcome to ANS 198, Fall 2020!
   + **[Google Jamboard](https://jamboard.google.com/d/1cQuBb3pZzlFAJH0-DS4PnJv1ZpPDX51mve27WPf_GGs/viewer?f=0)** - Lecture 1
   + **[Scavenger Hunt](pdfs/LastName_FirstName_ANS198_ScavengerHunt.doc)**
-  + **[Assignment 1](https://airtable.com/shreVaRqdPNJmZgw4)** - due October 8
+  + **[Assignment 1](https://airtable.com/shrmMFheiHBGkksQQ)** - due October 8
 
 ### Week 2
 #### Academic Science + Lab Culture
   + Lecture [**[pdf](FQ20/ANS198_FQ20_Lec2_AcademiaLabs.pdf)** | **[recording](https://ucdavis.zoom.us/rec/share/FwjyHpkabeO14Jsn-AuUGC1Hp1WiqGEA_9XztycTWEp_qrSS83FfjFdJlzWDKGLC.3taNU_xE-zXqM7Uw)**] - Academic Science & Lab Culture
   + **[Google Jamboard]( https://jamboard.google.com/d/1b719lhST642KeNzR0AcRism51yq9os7gdVaLAkuYUCc/edit?usp=sharing)** - Lecture 2
-  + **[Assignment 2](https://airtable.com/shrM0ZQk7jM8MZnmD)** - due October 15
+  + **[Assignment 2](https://airtable.com/shrOgYX9lRc0Cq51l)** - due October 15
 
 ### Week 3
 #### Writing in Science
@@ -117,7 +117,7 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 4
 #### Finding & Reading Scientific Papers
-  + Lecture - Finding & Reading Scientific Papers
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] - Finding & Reading Scientific Papers
     + **[How To Read A Scientific Paper Quickly & Efficiently](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Dennis_ReadSciPapersQuickly.pdf)**
     + **[Infographic: How To Read Scientific Papers](FQ20/SciPaperInfographic.jpg)**
     + **Sanford 1999: ["Regulation of Keystone Predation by Small Changes in Ocean Temperature"](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Sanford1999_KeystonePredationTemp.pdf)**
@@ -127,32 +127,32 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 5
 #### Applying to Jobs / Internships
-  + Lecture - 
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] - 
   + Assignment 5 - due November 5
 
 ### Week 6
 #### Applying for Grants / Fellowships
-  + Lecture -
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] -
   + Assignment 6 - due November 12
 
 ### Week 7
 #### Applying to Graduate School
-  + Lecture - 
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] - 
   + Assignment 7 - due November 19
 
 ### Week 8
 #### Science Communication
-  + Lecture -
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] -
   + Assignment 8 - due December 3
 
 ### Week 9
 #### Science Ethics, Advocacy & Activism
-  + Lecture - 
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] - 
   + Assignment 9 - due December 10
 
 ### Week 10
 #### Wild Card Class - Students' Choice!
-  + Lecture -
+  + Lecture [[pdf coming soon]() | [recording coming soon]()] -
 
 
 
