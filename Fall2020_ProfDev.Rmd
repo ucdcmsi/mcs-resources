@@ -109,22 +109,27 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 3
 #### Writing in Science
-  + Lecture [**[pdf](FQ20/ANS198_Lec3_SciWri_Intro.pdf)** | **[recording](https://ucdavis.zoom.us/rec/share/ntKqlh5UUcmt6hJ7KgTV36PIxxFPpMnr1tMchs-1F8FyLDN_2Jr51l3igok0Xfkb.Vs5VesJaabfkqmsE)**] - Science Writing
-  + Slides - Technical Science Writing [**[pdf](FQ20/ANS198_Lec3_for_students_Yeager_Intro_Sci_Writing.pdf)**]
-  + Slides - Popular Science Writing [**[pdf](FQ20/ANS198_Lec3_Zulian_PopSciWriting.pdf)**]
-    + Abalone Study: (**[Academic Paper](FQ20/ANS198_Lec3_Swezey_2020_Abalone_PNAS.pdf)** | **[Press Release](https://climatechange.ucdavis.edu/news/for-red-abalone-resisting-ocean-acidification-starts-with-mom/)**)
-    + Cactus study (**[Academic Paper](FQ20/ANS198_Lec3_Grodsky_et_al-2020-Nature_Sustainability.pdf)** | **[Press Release](https://energy.ucdavis.edu/cacti-and-other-iconic-desert-plants-threatened-by-solar-development/)**)
+  + Lecture [**[recording](https://ucdavis.zoom.us/rec/share/ntKqlh5UUcmt6hJ7KgTV36PIxxFPpMnr1tMchs-1F8FyLDN_2Jr51l3igok0Xfkb.Vs5VesJaabfkqmsE)**] - Science Writing
+    + Slides - Intro [**[pdf](FQ20/ANS198_Lec3_SciWri_Intro.pdf)**]
+    + Slides - Technical Science Writing [**[pdf](FQ20/ANS198_Lec3_for_students_Yeager_Intro_Sci_Writing.pdf)**]
+    + Slides - Popular Science Writing [**[pdf](FQ20/ANS198_Lec3_Zulian_PopSciWriting.pdf)**]
+      + Abalone Study: (**[Academic Paper](FQ20/ANS198_Lec3_Swezey_2020_Abalone_PNAS.pdf)** | **[Press Release](https://climatechange.ucdavis.edu/news/for-red-abalone-resisting-ocean-acidification-starts-with-mom/)**)
+      + Cactus study (**[Academic Paper](FQ20/ANS198_Lec3_Grodsky_et_al-2020-Nature_Sustainability.pdf)** | **[Press Release](https://energy.ucdavis.edu/cacti-and-other-iconic-desert-plants-threatened-by-solar-development/)**)
   + **[Assignment 3](https://airtable.com/shrkMcMfyWyv0MYnJ)** - due October 22
 
 ### Week 4
 #### Finding & Reading Scientific Papers
-  + Lecture [[pdf coming soon]() | [recording coming soon]()] - Finding & Reading Scientific Papers
-    + How To Read A Scientific Paper Quickly & Efficiently  [ **[link](https://medium.com/@drewdennis/how-to-read-scientific-papers-quickly-efficiently-e7030c4018fa)** | **[pdf](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Dennis_ReadSciPapersQuickly.pdf)**]
-    + Infographic: How To Read Scientific Papers -  [**[link](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)** | **[image](FQ20/SciPaperInfographic.jpg)**]
-    + **Sanford 1999: ["Regulation of Keystone Predation by Small Changes in Ocean Temperature"](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Sanford1999_KeystonePredationTemp.pdf)**
-    + **[How To Write A 'Nature' Abstract](FQ20/ANS198_FQ20_Lec4_SciPaperReading/HowToWriteANatureAbstract.pdf)**
-    + **[Journal Article Notebook](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Liu_JournalArticleNotebook.pdf)**
-  + Assignment 4 - due October 29
+  + Lecture [[recording coming soon]()]
+    + Slides - Intro [[pdf coming soon]()]
+    + Slides - Finding Scientific Papers Lecture [[pdf coming soon]()]
+    + Slides - Reading Scientific Papers Lecture [[pdf coming soon]()]  
+      + Activities 
+        + How To Read A Scientific Paper Quickly & Efficiently  [**[link](https://medium.com/@drewdennis/how-to-read-scientific-papers-quickly-efficiently-e7030c4018fa)** | **[pdf](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Dennis_ReadSciPapersQuickly.pdf)**]
+        + Infographic: How To Read Scientific Papers -  [**[link](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)** | **[image](FQ20/SciPaperInfographic.jpg)**]
+        + **Sanford 1999: ["Regulation of Keystone Predation by Small Changes in Ocean Temperature"](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Sanford1999_KeystonePredationTemp.pdf)**
+        + **[How To Write A 'Nature' Abstract](FQ20/ANS198_FQ20_Lec4_SciPaperReading/HowToWriteANatureAbstract.pdf)**
+        + **[Journal Article Notebook](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Liu_JournalArticleNotebook.pdf)**
+  + **[Assignment 4](https://airtable.com/shrNvSHRM8E8uvc11)** - due October 29
 
 ### Week 5
 #### Applying to Jobs / Internships
