@@ -119,7 +119,7 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 4
 #### Finding & Reading Scientific Papers
-  + Lecture [[recording coming soon]()]
+  + Lecture [**[recording](https://ucdavis.zoom.us/rec/share/c5BMSbP4vqUHUejoNnfw-7HVJd2NfIRf8RgBqBCzcBApX3k7-ClzQ0ZP01uJh4ky.n_6mZJFmu-0WTG7N)**]
     + Intro [**[pdf](FQ20/ANS198_FQ20_Lec4_SciPaperReading/ANS198_FQ20_Lec4_FindingReadingSciPapers.pdf)**]
     + Finding Scientific Papers Lecture [**[ANS 198 Library Guide](   https://www.library.ucdavis.edu/guide/ans198/)**]
     + Reading Scientific Papers Lecture [**[pdf](FQ20/ANS198_FQ20_Lec4_SciPaperReading/ANS198_FQ20_Lec4.5_ReadingSciPapers.pdf)**]  
