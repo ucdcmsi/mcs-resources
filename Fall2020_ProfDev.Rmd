@@ -133,7 +133,7 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 5
 #### Applying to Jobs / Internships
-  + Lecture [[pdf coming soon]() | [recording coming soon]()]
+  + Lecture [[recording coming soon]()]
     + Intro [**[pdf](FQ20/ANS198_FQ20_Lec5_JobsInternships.pdf)**]
     + Find A Job or Internship [**[pdf](FQ20/ANS198_FQ20_Lec5_LFowler_ICC_FindJobInternship.pdf)**] - Lynn Fowler, UC Davis Internship & Career Center (ICC) Adviser
       + **["What Can I Do With A Marine & Coastal Science Major?"](https://icc.ucdavis.edu/data/major?mc=179)**
