@@ -121,7 +121,7 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 #### Finding & Reading Scientific Papers
   + Lecture [**[recording](https://ucdavis.zoom.us/rec/share/c5BMSbP4vqUHUejoNnfw-7HVJd2NfIRf8RgBqBCzcBApX3k7-ClzQ0ZP01uJh4ky.n_6mZJFmu-0WTG7N)**]
     + Intro [**[pdf](FQ20/ANS198_FQ20_Lec4_SciPaperReading/ANS198_FQ20_Lec4_FindingReadingSciPapers.pdf)**]
-    + Finding Scientific Papers Lecture [**[ANS 198 Library Guide](   https://www.library.ucdavis.edu/guide/ans198/)**]
+    + Finding Scientific Papers Lecture [**[ANS 198 Library Guide](   https://www.library.ucdavis.edu/guide/ans198/)**] - Ruth Gustafson, Librarian
     + Reading Scientific Papers Lecture [**[pdf](FQ20/ANS198_FQ20_Lec4_SciPaperReading/ANS198_FQ20_Lec4.5_ReadingSciPapers.pdf)**]  
       + Activities 
         + How To Read A Scientific Paper Quickly & Efficiently  [**[link](https://medium.com/@drewdennis/how-to-read-scientific-papers-quickly-efficiently-e7030c4018fa)** | **[pdf](FQ20/ANS198_FQ20_Lec4_SciPaperReading/Dennis_ReadSciPapersQuickly.pdf)**]
@@ -133,7 +133,12 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ### Week 5
 #### Applying to Jobs / Internships
-  + Lecture [[pdf coming soon]() | [recording coming soon]()] - 
+  + Lecture [[pdf coming soon]() | [recording coming soon]()]
+    + Intro [**[pdf](FQ20/ANS198_FQ20_Lec5_JobsInternships.pdf)**]
+    + Find A Job or Internship [**[pdf](FQ20/ANS198_FQ20_Lec5_LFowler_ICC_FindJobInternship.pdf)**] - Lynn Fowler, UC Davis Internship & Career Center (ICC) Adviser
+      + **["What Can I Do With A Marine & Coastal Science Major?"](https://icc.ucdavis.edu/data/major?mc=179)**
+      + **[ICC Undergrad Website](https://icc.ucdavis.edu/undergrad)**
+    + Using Job Search Tools [**[pdf](FQ20/ANS198_FQ20_Lec5.5_JobsInternships.pdf)**]
   + Assignment 5 - due November 5
 
 ### Week 6
