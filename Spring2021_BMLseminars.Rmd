@@ -1,5 +1,5 @@
 ---
-title: "Spring 2021: Weekly BML Seminar Series Discussion"
+title: "Spring 2021: Journal Club for BML Seminar Series"
 output: 
   html_document:
     theme: yeti
@@ -26,7 +26,7 @@ output:
 <br>
 
 
-## Mary and Louise Riley Seminar Series complement
+## Journal Club for Bodega Marine Lab Seminar Series
 
 This will consist of a discussion group (limited to 30 students) based on [**BML’s seminar series**](BMLseminar.html). Before each seminar, we will discuss one of the current speakers’ papers, then watch the seminar at CMSI and submit questions as a class.
 
