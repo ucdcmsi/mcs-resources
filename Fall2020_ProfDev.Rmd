@@ -30,7 +30,7 @@ output:
 </center>
 
 ## Syllabus
-* Download the Fall 2020 syllabus [here](FQ20/ANS198_ProfDevSyllabus_FQ20_FINAL2.pdf).
+* Download the Fall 2020 **[syllabus](FQ20/ANS198_ProfDevSyllabus_FQ20_FINAL3.pdf)**.
 * View the resources collected by students in the course [here](Fall2020_ProfDev_ResDoc.html).
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
@@ -39,7 +39,7 @@ output:
   + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
 
 ## Location 
-Zoom, **link sent via email**
+**SYNCHRONOUS** on Zoom, **link sent via email**
 
 ## Time
 * COURSE: Thursdays, 2:10 – 3:50pm
@@ -83,9 +83,7 @@ Assignments will consist of a brief questionnaire after each class that will som
 
 Additionally, a quarter-long goal is to accumulate resources as a class that you can leave with and continue to reference as you continue throughout your careers. I will, of course, provide some of these, but **I expect you to also look for resources related to the previous week’s topic (this can be a book, a peer-reviewed article, a blog post, an Instagram post, a Facebook Group, a Twitter thread, an infographic, advice a professor gave you, something you learned from a lunch with a seminar speaker, etc.)**.
 
-Ultimately, there is no single class you can take that will teach you everything you need to know, so learning how to search for and share the information you need is a good skill to hone. Through this exercise, I hope you will not only improve your ability to find information you need, but to also see your classmates as resources. Science is competitive, but the people who have helped me through it most are those working alongside me! The link for this document that we will flesh out over the course of the quarter is located on the course website 
-
-and is available [here](Fall2020_ProfDev_ResDoc.html).
+Ultimately, there is no single class you can take that will teach you everything you need to know, so learning how to search for and share the information you need is a good skill to hone. Through this exercise, I hope you will not only improve your ability to find information you need, but to also see your classmates as resources. Science is competitive, but the people who have helped me through it most are those working alongside me! The link for this document that we will flesh out over the course of the quarter is located on the course website and is available [here](Fall2020_ProfDev_ResDoc.html).
 
 ## JEDI in Marine Science
 * You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because JEDI pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named *"JEDI Mind Tricks”*). JEDI resources are also available [here](JEDImarsci.html).
@@ -98,7 +96,7 @@ and is available [here](Fall2020_ProfDev_ResDoc.html).
 #### Introduction; Syllabus Overview; Class Activity
   + Lecture [**[pdf](FQ20/ANS198_FQ20_Lec1_Intro.pdf)** | **[recording](https://ucdavis.zoom.us/rec/share/OhlX6OmWCm0Ya33tgBrRB1gHxzcNbd-KFf5JNvb60nq2MQqDHPdsRs_gKYKJVEuS.H_4VK0DicWmNDilB)**] - Welcome to ANS 198, Fall 2020!
   + **[Google Jamboard](https://jamboard.google.com/d/1cQuBb3pZzlFAJH0-DS4PnJv1ZpPDX51mve27WPf_GGs/viewer?f=0)** - Lecture 1
-  + **[Scavenger Hunt](pdfs/LastName_FirstName_ANS198_ScavengerHunt.doc)**
+  + **[Scavenger Hunt](Fq20/LastName_FirstName_ANS198_ScavengerHunt.doc)**
   + **[Assignment 1](https://airtable.com/shrmMFheiHBGkksQQ)** - due October 8
 
 ### Week 2
