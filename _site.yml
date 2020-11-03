@@ -16,6 +16,7 @@ navbar:
     title: " "
     left: 
       - text: "Home"
+        icon: fa-water fa-1x
         href: index.html
       - text: "Mentorship Courses"
         icon: fa-fish  fa-1x
