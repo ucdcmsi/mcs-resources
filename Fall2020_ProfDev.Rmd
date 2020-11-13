@@ -85,6 +85,8 @@ Additionally, a quarter-long goal is to accumulate resources as a class that you
 
 Ultimately, there is no single class you can take that will teach you everything you need to know, so learning how to search for and share the information you need is a good skill to hone. Through this exercise, I hope you will not only improve your ability to find information you need, but to also see your classmates as resources. Science is competitive, but the people who have helped me through it most are those working alongside me! The link for this document that we will flesh out over the course of the quarter is located on the course website and is available [here](Fall2020_ProfDev_ResDoc.html).
 
+You can track the assignments you submitted on the **[Canvas Gradebook](https://canvas.ucdavis.edu/courses/481750/gradebook)**.
+
 ## JEDI in Marine Science
 * You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because JEDI pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named *"JEDI Mind Tricks”*). JEDI resources are also available [here](JEDImarsci.html).
 
@@ -148,26 +150,30 @@ Ultimately, there is no single class you can take that will teach you everything
 
 ### Week 7
 #### Applying to Graduate School
-  + Lecture [[pdf coming soon]() | [recording coming soon]()] -
+  + Lecture [[pdf]() | [recording coming soon]()] -
     + **[So, you want to go to grad school? Nail the inquiry email](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/)**
-  + Assignment 7 - due November 19
+  + **[Assignment 7](https://airtable.com/shrrhYENsiVxohJ6Q)** - due November 19
 
 ### Week 8
 #### Science Communication
   + Lecture [[pdf coming soon]() | [recording coming soon]()] -
     + **[55 Lessons Learned About Science Communication Around the World During COVID-19](https://leapsmag.com/55-lessons-learned-about-science-communication-around-the-world-during-covid-19/particle-3)**
-  + Assignment 8 - due December 3
+  + [Assignment 8]() - due December 3
 
 ### Week 9
 #### Science Ethics, Advocacy & Activism
   + Lecture [[pdf coming soon]() | [recording coming soon]()] - 
     + **[Wealthy funder pays reparations for use of HeLa cells](https://www.nature.com/articles/d41586-020-03042-5?utm_source=Nature+Briefing&utm_campaign=0fe8a2dfae-briefing-wk-20201030&utm_medium=email&utm_term=0_c9dfd39373-0fe8a2dfae-42137959)**
-  + Assignment 9 - due December 10
+  + [Assignment 9]() - due December 10
 
 ### Week 10
-#### Wild Card Class - Students' Choice!
-  + Lecture [[pdf coming soon]() | [recording coming soon]()] -
-
+#### SCUBA Diving / Underwater Photography + Jobs Outside of Research
+  + SCUBA Diving & Underwater Photography 
+    + **[Anesti Vega](https://www.anestivega.com/)**
+      + **[Instagram](https://www.instagram.com/anestivega/?hl=en)**
+      + **[IMDB Page](https://www.imdb.com/find?q=anesti+vega&ref_=nv_sr_sm)**
+  + Jobs Outside of Research 
+    + [Guest Speaker TBD]()
 
 
 
