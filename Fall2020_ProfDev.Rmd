@@ -156,9 +156,12 @@ You can track the assignments you submitted on the **[Canvas Gradebook](https://
 
 ### Week 8
 #### Science Communication
-  + Lecture [[pdf coming soon]() | [recording coming soon]()] -
+  + Lecture [**[intro slides](ANS198_FQ20_Lec8_SciComm_Intro.pdf)** | **[recording](https://ucdavis.zoom.us/rec/share/RaCbKodF9VvVqkLcHA4lN3saD1hzG9Oudsg7x6MkHZKq8rNZX69oThTS7RU8FUhj.QiU_mNwcdbA-Bqp9)**]
+    + **[Google Jamboard](https://jamboard.google.com/d/175v6SITGXEC60sWEM_ueWwRqo4lU5Mc9tk0uv0aPotQ/viewer?f=0)**
+    + **[Flyer](FQ20/2021AltExtensionFlyer.pdf)** for ANB 290: Alt. Extension: Science Communication Tools for the
+Modern Era
     + **[55 Lessons Learned About Science Communication Around the World During COVID-19](https://leapsmag.com/55-lessons-learned-about-science-communication-around-the-world-during-covid-19/particle-3)**
-  + [Assignment 8]() - due December 3
+  + **[Assignment 8](https://airtable.com/shrHvScSEPChiwWrB)** - due December 3
 
 ### Week 9
 #### Science Ethics, Advocacy & Activism
