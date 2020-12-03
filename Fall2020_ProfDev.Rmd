@@ -165,11 +165,13 @@ Modern Era
 
 ### Week 9
 #### Science Ethics, Advocacy & Activism
-  + Lecture [[pdf coming soon]() | [recording coming soon]()] - 
+  + Lecture [[pdf coming soon]() | [recording coming soon]()]
+    + **[Piltdown Man](https://www.nhm.ac.uk/our-science/departments-and-staff/library-and-archives/collections/piltdown-man.html)**
+    + **[#PruittData and the Ethics of Data in Science](https://ecologyforthemasses.com/2020/02/04/pruittdata-and-the-ethics-of-data-in-science/)**
     + **["Science advocacy, defined"](https://science.sciencemag.org/content/345/6194/243)** (2014): [**[pdf](FQ20/ANS198_FQ20_Lec9_EthAdvAct/ANS198_FQ20_Lec9_ScienceAdvocacyDefined.pdf)**]
     + **["Should scientists be activists?"](https://www.chemistryworld.com/careers/should-scientists-be-activists/4011293.article)** (2020): [**[pdf](FQ20/ANS198_FQ20_Lec9_EthAdvAct/ANS198_FQ20_Lec9_ShouldScientistsBeActivists.pdf)**]
     + Extra Reading: **[Wealthy funder pays reparations for use of HeLa cells](https://www.nature.com/articles/d41586-020-03042-5?utm_source=Nature+Briefing&utm_campaign=0fe8a2dfae-briefing-wk-20201030&utm_medium=email&utm_term=0_c9dfd39373-0fe8a2dfae-42137959)**
-  + [Assignment 9]() - due December 10
+  + **[Assignment 9](https://airtable.com/shrC2FDFz4iSAVGep)** - due December 10
 
 ### Week 10
 #### SCUBA Diving / Underwater Photography + Jobs Outside of Research
