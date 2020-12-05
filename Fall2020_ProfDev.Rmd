@@ -165,7 +165,7 @@ Modern Era
 
 ### Week 9
 #### Science Ethics, Advocacy & Activism
-  + Lecture [[pdf coming soon]() | [recording coming soon]()]
+  + Lecture [**[pdf](FQ20/ANS198_FQ20_Lec9_EthAdvAct/ANS198_FQ20_Lec9_ScienceEthicsAdvocacy.pdf)** | **[recording](https://ucdavis.zoom.us/rec/share/7b-WeMb8h0ryjQPZ1sA-Pfevr2SzxYcc9twEBHJcvAsg7a-pYc-IIXMqPuJj-o8f.Ro2PQNgVYFG6THWj)**]
     + **[Piltdown Man](https://www.nhm.ac.uk/our-science/departments-and-staff/library-and-archives/collections/piltdown-man.html)**
     + **[#PruittData and the Ethics of Data in Science](https://ecologyforthemasses.com/2020/02/04/pruittdata-and-the-ethics-of-data-in-science/)**
     + **["Science advocacy, defined"](https://science.sciencemag.org/content/345/6194/243)** (2014): [**[pdf](FQ20/ANS198_FQ20_Lec9_EthAdvAct/ANS198_FQ20_Lec9_ScienceAdvocacyDefined.pdf)**]
