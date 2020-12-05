@@ -1,5 +1,5 @@
 ---
-title: "Winter 2021: Career Discovery Seminar"
+title: "ANS 198: Career Discovery Seminar"
 output: 
   html_document:
     theme: yeti
@@ -20,14 +20,14 @@ output:
 
 <br>
 
+## *Winter 2021*
+
 <center>
 <img src="photos/sebastian-pena-lambarri-F54xLcv9wQ0-unsplash.jpg" style="width:100%">
 </center>
 <br>
 
-## Winter 2021
-
-This will be a career exploration seminar for juniors, seniors and transfer students in the marine sciences. Each class will consist of a casual conversation with guest speakers, who span different marine science career paths at different stages, but there will be an emphasis on speakers with work experience after earning a B.A. / B.S. After each conversation, students will discuss and reflect upon what they gain from each conversation.
+## Syllabus
 
 * Download the Winter 2021 [syllabus](WQ21/SYLLABUS_PLACEHOLDER.pdf).
 * Familiarize yourself with:
@@ -35,14 +35,15 @@ This will be a career exploration seminar for juniors, seniors and transfer stud
   + [Student Resources & Services](StudentResources_Services.html)
   + [Code of Academic Conduct](CodeOfConduct_Academic.html)
   + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
+  + [Justice, Equity, Diversity & Inclusion Resources](JEDImarsci.html)
 
 
 ## Location 
 **SYNCHRONOUS** on Zoom, **link sent via email**
 
 ## Time
-* COURSE: TBD
-* OFFICE HOURS: TBD via Zoom, **link sent via email**
+* COURSE: Fridays, 11am - 1pm PT
+* OFFICE HOURS: Fridays, 9am - 10am PT via Zoom, **link sent via email**
 
 ## Credits
 2 units
@@ -68,16 +69,10 @@ This will be a career exploration seminar for juniors, seniors and transfer stud
   + Assignments will consist of a guided reflection during each class. These should be submitted **by the END of each class**.
 
 * Because participation is a key component of this course, the bar for a passing grade is high: 
-  + You must attend 7/10 classes.
-  + You must submit 7/10 guided reflections.
+  + You must attend 9/10 classes.
+  + You must submit 9/10 guided reflections.
 
-If you have obligations that will prevent you from attending class or submitting assignments, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!
-
-
-* *If you have obligations that will prevent you from attending 7/10 classes, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!*
-
-## JEDI in Marine Science
-* You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because JEDI pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named *"JEDI Mind Tricks”*). JEDI resources are also available [here](JEDImarsci.html).
+*If you have obligations that will prevent you from attending 9/10 classes, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!*
 
 *The instructor reserves the right to change details of the above course plans to ensure the best possible learning environment.*
 
