@@ -26,6 +26,7 @@ output:
 </center>
 
 ## General Advice
+* On Not Suffering (Much) in Graduate School [Part 1](https://luisalexis.com/2018/09/07/on-not-suffering-much-in-a-phd/) | [Part 2](https://luisalexis.com/2020/10/28/on-not-suffering-much-in-the-phd-part-2/)
 * [MCSci Tips on Getting Into Grad School](https://geology.ucdavis.edu/students/careers/gradschool)
 * [Academic Secret Menu, updated July 15, 2020](Res_Mentoring/ASecretMenu_15July2020.pdf)
 * [Resources for Undegraduate Students](http://www.raulpacheco.org/resources/resources-for-undergraduate-students/) by Dr. Raul Pacheco-Vega
