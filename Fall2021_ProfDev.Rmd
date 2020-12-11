@@ -34,6 +34,7 @@ output:
 </center>
 
 ### Until then ... 
+* View the Fall 2020 **[course website](Fall2020_ProfDev.html)**
 * Download the Fall 2020 **[syllabus](FQ20/ANS198_ProfDevSyllabus_FQ20_FINAL3.pdf)**.
 * View the **[resources collected by students in the course](Fall2020_ProfDev_ResDoc.html)**.
 * Familiarize yourself with:
