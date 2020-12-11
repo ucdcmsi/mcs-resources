@@ -22,31 +22,103 @@ output:
 
 
 
-### Resources
+## Professional Development Resources {.tabset .tabset-fade}
 
-#### Navigating Lab Environments
-* Coming Soon
+*Accumulated by the Fall 2020 ANS 198: Professional Development Class*
+<br />
+<br />
 
-#### Science Writing
-* Coming Soon
 
-#### Finding & Reading Papers
-* Coming Soon
+### Navigating Lab / Academic Environments
+* General Advice: 
+  + "The worst thing someone can tell you is no." | "If you don't get rejected with some frequency in life, you are not taking enough risk."
+  + The people that you work with in the lab can determine the environment around you. Since lab is usually a competitive setting, it can be hard to work together unless necessary that's why it depends on the people you are working with.     
+  + It is never to early to start applying for lab positions even if you think you are underqualified ... Everyone has to start at the bottoms so to speak.
+  + Sometimes it's hard to find a job and "stable jobs" aren't always an option in science. The days are always different, and sometimes it can be frustrating, but that it is worth it if it's your calling. 
+  + I took a course during Spring Quarter called ESP 198 where graduate students talked about their research!  It was super cool to learn about how the lab can exist outside of the four walls of a building and exploratory environments exist everywhere.
+  + Lab culture in academia is different from that of class required labs like in chemistry or biology. It can be very communal and collaborative, where we can ask for help and discuss research.
+* [What a Post-Doc does](https://academicpositions.com/career-advice/what-is-a-postdoc) 
+* [A Practical Guide to Basic Lab Techniques](https://www.sciencemag.org/sites/default/files/Practical_Guide_to_Basic_Lab_Techniques.pdf)
 
-#### Jobs / Internships
-* Coming Soon
+### Science Writing
+* General advice: 
+  + Ask experienced people for help, Setting a writing goal for yourself, Remember your audience
+  + The scientific writing cycle can take a LONG time because writing a paper is hard, but so is getting it through peer review.
+* [Popular Science Writing for Scientists](https://www.youtube.com/watch?v=Ge-b5oqs1p4)
+* [So You're a Scientist Wanting to Write a Popular Science Book?](https://blogs.scientificamerican.com/life-unbounded/so-youre-a-scientist-wanting-to-write-a-popular-science-book/)
+* [Business Writing vs Technical Writing](https://www.icetraining.org.uk/Focus/Features/Business-Writing-vs-Technical-Writing#:~:text=The%20simple%20answer%20is%20that,with%20science%2C%20engineering%20and%20technology.&text=Business%20writing%20is%20just%20about,except%20journalism%20and%20creative%20writing)
+* [Women in Ocean Science](https://www.womeninoceanscience.com/)
+* [Research Paper Outlining Resources on Pinterest](https://www.pinterest.com/natalienpatrick/research-paper/)
+* [Infographic: How to write better science papers](https://www.elsevier.com/connect/infographic-tips-to-writing-better-science-papers)
+* [Science Writing vs. Technical Writing: What's the Difference?](http://www.bjoranidentity.com/blog/science-writing-vs-technical-writing-whats-the-difference)
 
-#### Grants / Fellowships
-* Coming Soon
+### Finding & Reading Papers
 
-#### Grad School
-* Coming Soon
+#### Finding Scientific Papers
 
-#### SciComm
-* Coming Soon
+* [USC Libraries Research Guides](https://libguides.usc.edu/writingguide/scholarly)
+* [Resources for Finding and Accessing Scientific Papers](https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers)
+* [Science Buddies](https://www.sciencebuddies.org/)
 
-#### Science Ethics & Activism
-* Coming Soon
+#### Reading Scientific Papers
+* General Advice:
+  + Make a note at the beginning of each paper you're reading to let you know how it would be most useful in a paper or in a discussion.
+* [Article: How to Read A Scientific Paper](https://www.lib.purdue.edu/sites/default/files/libraries/engr/Tutorials/Newest%20Scientific%20Paper.pdf)
+* [YouTube: How to read a scientific paper](https://www.youtube.com/watch?v=5Eg_Gzz3hXY)
+* [How to Read a Scientific Article](https://usu.instructure.com/courses/45089/pages/anatomy-of-a-scientific-article)
+* [Art of reading a journal article: Methodically and effectively](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687192/)
 
-#### Wild Card Class! :) 
-* Coming Soon
+### Jobs / Internships
+* General Advice:
+  + Identify broad career interests, without worrying about it being too specific. Use the internship opportunity to find what you want to be specific about. 
+* [Podcast: So You Want to be a Marine Biologist](https://marinebio.life/home/podcast-ocean-science-conservation-careers/)
+* [How to Craft a Cold Networking Email That Gets Results](https://www.ivyexec.com/career-advice/2018/craft-cold-networking-email-gets-results/)
+* [10 Best Websites for Finding an Internship](https://www.forbes.com/sites/susanadams/2015/01/30/the-10-best-websites-for-finding-an-internship/?sh=2d39cf921b44)
+* [How to Get an Internship via glassdoor](https://www.glassdoor.com/blog/guide/how-to-get-an-internship/)
+* [How to Get an Internship in College](https://themetamorphosis.net/how-to-get-an-internship-in-college/)
+* [Job Search Sites (Via Scripps Institution of Oceanography)](https://cmbc.ucsd.edu/alumni/job-search-sites/)
+* [What to Wear to a Job Interview](https://cultivatedculture.com/what-to-wear-to-an-interview/)
+* [UC Davis Internship & Career Center: Resumes & Curriculum Vitae](https://icc.ucdavis.edu/materials/resume)
+* [Understanding the Federal Hiring Process](https://www.dol.gov/general/jobs/understanding-the-federal-hiring-process)
+
+### Grants / Fellowships
+* [University of Washington, Bothell: Scholarship and Fellowship FAQs](https://www.uwb.edu/financial-aid/scholarships/faq#:~:text=The%20terms%20%E2%80%9Cscholarship%E2%80%9D%20and%20%E2%80%9C,of%20one%20or%20more%20years)
+* [National Oceanic and Atmospheric Administration: Student Opportunities](https://www.noaa.gov/education/opportunities/student-opportunities)
+* CollegeScholarships.org [Financial Aid](http://www.collegescholarships.org/financial-aid/) | [Grants](http://www.collegescholarships.org/grants/)
+* [A Guide to Preparing Fellowship Applications in STEM](https://grad.illinois.edu/sites/default/files/PDFs/Fellowship-Proposal-Writing-STEM.pdf)
+* [UC Davis Internship & Career Center: Funding Your Experience](https://icc.ucdavis.edu/find/international/funding)
+* [UC Berkeley: Writing the First Draft](https://research.berkeley.edu/writing-research-proposals)
+
+### Grad School
+* General Advice:
+  + When applying to grad school, applicants need to apply to each program themselves instead of having an app that simplifies the process (like the UC / CSU systems).
+  + There are different grad school tracks: professional programs (no thesis/dissertation) & research programs (must write a thesis/dissertation)
+* [UT Austin: Grad School Application Process](https://che.utexas.edu/prospective-students/graduate-students/admissions/apply-online/)
+* [Reddit: Who took a gap year(s) before grad school?](https://www.reddit.com/r/AskAcademia/comments/8f3ll2/who_took_a_gap_years_before_grad_school/)
+* [Luck Lab: Why and how to email faculty prior to applying to graduate school](https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-facultyWhy and how to email faculty prior to applying to graduate school)
+* [The Contemplative Mammoth: How I cured my imposter syndrome](https://contemplativemammoth.com/2012/04/25/how-i-cured-my-imposter-syndrome/)
+* [11 Best Organization Tips For Grad School Applications](https://speechlyss.com/application-organization/)
+* [How to Create a Standout Graduate School Application](https://www.affordablecollegesonline.org/college-resource-center/how-to-create-a-standout-graduate-school-application/)
+
+### Science Communication
+* General Advice:
+  + There are two paradigms in which science can be communicated. The dissemination paradigm is a one-way communication system from the experts to the public via media, books, documentaries, websites, etc. The public participation paradigm is one that allows the experts and the public to actively engage with the information through dialogue either through Community Science (collecting data from the public) or Consensus Conference (selectively recruiting a group of public).
+* [The Ethogram](https://theethogram.com/)
+* [The Science of Science Communication](http://www.nasonline.org/programs/nas-colloquia/completed_colloquia/science-communication.html)
+  + Quote: "Communication scientists know something about how messages flow through diverse communications channels, how stakeholders interpret them, and how those processes affect beliefs, attitudes, and behaviors about science and scientists."
+* [Brown University Science Center’s Quick Guide to Science Communication](https://www.brown.edu/academics/science-center/sites/brown.edu.academics.science-center/files/uploads/Quick_Guide_to_Science_Communication_0.pdf)
+* [Education does not equal science communication](https://www.purdue.edu/research/dimensions/faculty-communication-tips-education-does-not-equal-science-communication/)
+* [Science–graphic art partnerships to increase research impact](https://www.nature.com/articles/s42003-019-0516-1)
+* [How Poetry Can Help Communicate Science](https://blogs.scientificamerican.com/observations/how-poetry-can-help-communicate-science/)
+* [Cristina Zenato](https://www.instagram.com/cristinazenato/?hl=en) uses social media to advance shark conservation
+* [Effective Communication](https://www.helpguide.org/articles/relationships-communication/effective-communication.htm)
+
+### Science Ethics & Activism
+* [40 Years of Human Experimentation in America: The Tuskegee Study](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study)
+* [Hippocratic Oath for Scientists](http://blogs.nature.com/news/2007/09/hippocratic_oath_for_scientist.html#:~:text=%E2%80%93%20Minimise%20and%20justify%20any%20adverse,be%20misled%2C%20about%20scientific%20matters.)
+* [Science Advocacy: Get Involved](https://www.nature.com/articles/nj7634-611a#:~:text=Presenting%20science%20to%20politicians%20in,understand%20can%20have%20good%20outcomes.&text=With%20so%20many%20science%2Dbased,can%20have%20an%20outsized%20impact)
+* [From Scientist to Activist](https://blog.ucsusa.org/science-blogger/from-scientist-to-activist)
+* [Science Activism on Pinterest](https://www.pinterest.com/pin/623256035902909324/)
+* [Self-Advocacy: The Basics via the National Deaf Center](https://www.nationaldeafcenter.org/resource/self-advocacy-basics)
+* [Should Scientists Engage in Advocacy?](https://blogs.oregonstate.edu/gemmlab/2019/05/20/should-scientists-engage-in-advocacy/)
+* [Climate scientist or climate activist – where’s the line?](https://physicsworld.com/a/climate-scientist-or-climate-activist-wheres-the-line/)
