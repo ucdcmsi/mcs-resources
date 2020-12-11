@@ -79,7 +79,8 @@ This will be a career exploration seminar for juniors, seniors and transfer stud
 ## Lectures & Assignments  {.tabset .tabset-fade}
 
 ### Week 1
-#### Introduction; Syllabus Overview
+#### Topic: Introduction; Syllabus Overview
+##### Guest Speakers: N/A
   + Lecture [[recording coming soon]()]
   + Stories of Marine Scientists
     + **[Why I Pursued Marine Research](https://airplanesandavocados.com/why-i-pursued-marine-research-stories-from-scientists-around-the-world/)**: Stories from Scientists Around The World
@@ -87,40 +88,49 @@ This will be a career exploration seminar for juniors, seniors and transfer stud
  *More information coming soon!*
  
 ### Week 2
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: Grad Students With Jobs Before Grad School
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 3
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: Government
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 4
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: Academia
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 5
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: Public Outreach
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 6
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: Boundary Organizations
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 7
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: K-12 Education
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 8
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: Industry (Fisheries & Aquaculture)
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 9
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: Research Diving
+##### Guest Speakers: 
+  + [recording coming soon]()
 
 ### Week 10
-#### Guest Speaker: TBD
-  + Lecture [recording coming soon]()
+#### Topic: TBD
+##### Guest Speakers: TBD
+  + [recording coming soon]()
 
 
 
