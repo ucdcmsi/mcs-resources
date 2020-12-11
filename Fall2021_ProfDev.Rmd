@@ -1,0 +1,47 @@
+---
+title: "Fall 2021: Professional Development in Marine Science"
+output: 
+  html_document:
+    theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
+<br>
+
+## *Fall 2021*
+
+<br>
+<center>
+<img src="photos/amit-uikey-ekQx8X1i8Qs-unsplash.jpg" style="width:100%">
+<br>
+<br>
+
+
+## Coming Soon!
+
+</center>
+
+### Until then ... 
+* Download the Fall 2020 **[syllabus](FQ20/ANS198_ProfDevSyllabus_FQ20_FINAL3.pdf)**.
+* View the **[resources collected by students in the course](Fall2020_ProfDev_ResDoc.html)**.
+* Familiarize yourself with:
+  + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
+  + [Student Resources & Services](StudentResources_Services.html)
+  + [Code of Academic Conduct](CodeOfConduct_Academic.html)
+  + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
+
+
+
+

@@ -11,7 +11,7 @@
 
 
 
-<title>Course Archive</title>
+<title>Fall 2021: Professional Development in Marine Science</title>
 
 <script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -20,6 +20,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -261,6 +264,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -268,6 +334,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -419,7 +495,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Course Archive</h1>
+<h1 class="title toc-ignore">Fall 2021: Professional Development in Marine Science</h1>
 
 </div>
 
@@ -433,16 +509,28 @@ $(document).ready(function () {
 
   gtag('config', 'UA-16099315-7');
 </script>
+<p><br></p>
+<div id="fall-2021" class="section level2">
+<h2><em>Fall 2021</em></h2>
 <br>
 <center>
-<p><img src="photos/alejandro-pinero-amerio-L1v1HgyDKmM-unsplash.jpg" style="width:100%"> <br> <br></p>
+<p><img src="photos/amit-uikey-ekQx8X1i8Qs-unsplash.jpg" style="width:100%"> <br> <br></p>
+</div>
+<div id="coming-soon" class="section level2">
+<h2>Coming Soon!</h2>
 </center>
-<div id="fall-2020---spring-2021" class="section level3">
-<h3>Fall 2020 - Spring 2021</h3>
-<div id="lead-mentor-priya-shukla" class="section level4">
-<h4>Lead Mentor: <a href="Priya.html">Priya Shukla</a></h4>
+<div id="until-then" class="section level3">
+<h3>Until then …</h3>
 <ul>
-<li>Fall 2020: ANS 198 - <a href="Fall2020_ProfDev.html">Professional Development in Marine Science</a></li>
+<li>Download the Fall 2020 <strong><a href="FQ20/ANS198_ProfDevSyllabus_FQ20_FINAL3.pdf">syllabus</a></strong>.</li>
+<li>View the <strong><a href="Fall2020_ProfDev_ResDoc.html">resources collected by students in the course</a></strong>.</li>
+<li>Familiarize yourself with:
+<ul>
+<li><a href="TerritorialAcknowledgement.html">Territorial Acknowledgment</a></li>
+<li><a href="StudentResources_Services.html">Student Resources &amp; Services</a></li>
+<li><a href="CodeOfConduct_Academic.html">Code of Academic Conduct</a></li>
+<li><a href="CodeOfConduct_Behavior.html">Code of Conduct for Class Interactions</a></li>
+</ul></li>
 </ul>
 </div>
 </div>
@@ -465,6 +553,8 @@ $(document).ready(function () {
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -497,6 +587,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
