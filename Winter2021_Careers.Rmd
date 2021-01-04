@@ -29,7 +29,7 @@ output:
 
 ## Syllabus
 
-* Download the Winter 2021 [syllabus](WQ21/SYLLABUS_PLACEHOLDER.pdf).
+* Download the Winter 2021 [syllabus](WQ21/WQ21_CareerDiscoverySyllabus.pdf).
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
   + [Student Resources & Services](StudentResources_Services.html)
