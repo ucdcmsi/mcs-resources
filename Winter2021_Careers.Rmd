@@ -39,11 +39,11 @@ output:
 
 
 ## Location 
-**SYNCHRONOUS** on Zoom, **link sent via email**
+**SYNCHRONOUS** on Zoom, **link available on Canvas and sent via email**
 
 ## Time
 * COURSE: Fridays, 11am - 1pm PT
-* OFFICE HOURS: Fridays, 9am - 10am PT via Zoom, **link sent via email**
+* OFFICE HOURS: Fridays, 9am - 10am PT via Zoom, **link available on Canvas and sent via email**
 
 ## Credits
 2 units
@@ -53,7 +53,7 @@ output:
 
 
 ## Course Description
-This will be a career exploration seminar for juniors, seniors and transfer students in the marine sciences. Each class will consist of a casual conversation with guest speakers, who span different marine science career paths at different stages, but there will be an emphasis on speakers with work experience after earning a B.A. / B.S. After each conversation, students will discuss and reflect upon what they gain from each conversation.
+This is a career exploration seminar for juniors, seniors and transfer students in the marine sciences. Each class consists of a casual conversation with guest speakers, who span different marine science career paths at different stages, but there will be an emphasis on speakers with work experience after earning a B.A. / B.S. After each conversation, students will discuss and reflect upon what they gain from each conversation.
 
 ## Key Learning Outcomes
 * Meet marine scientists in a wide variety of careers
@@ -89,47 +89,47 @@ This will be a career exploration seminar for juniors, seniors and transfer stud
  
 ### Week 2
 #### Topic: Grad Students With Jobs Before Grad School
-##### Guest Speakers: 
+##### Guest Speakers: **[Helen Killeen](https://helenkilleen.wordpress.com/)** | **[Sam Walkes](https://www.sanford-lab.com/current-lab)**
   + [recording coming soon]()
 
 ### Week 3
 #### Topic: Government
-##### Guest Speakers: 
+##### Guest Speakers: **[Dr. Linh Anh Cat](https://www.linkedin.com/in/linh-anh-cat/)** | **[Dr. Jordan Hollarsmith](https://www.fisheries.noaa.gov/contact/jordan-hollarsmith)**
   + [recording coming soon]()
 
 ### Week 4
 #### Topic: Academia
-##### Guest Speakers: 
+##### Guest Speakers: **[Dr. Maya deVries](http://www.mayadevries.com/)** | **[Dr. Seth Miller](https://scholar.google.com/citations?user=u_8QSSQAAAAJ&hl=en)**
   + [recording coming soon]()
 
 ### Week 5
 #### Topic: Public Outreach
-##### Guest Speakers: 
+##### Guest Speakers: **[Jenny Stock](https://www.linkedin.com/in/jennifer-stock-0961a79/)** | **[Andrew Kornblatt](http://andrewkornblatt.com/)**
   + [recording coming soon]()
 
 ### Week 6
 #### Topic: Boundary Organizations
-##### Guest Speakers: 
+##### Guest Speakers: **[Dominique Kone](https://www.oceansciencetrust.org/persons/dom-kone/)** | **[Vicky Bell](https://www.lenfestocean.org/en/about-us/team)**
   + [recording coming soon]()
 
 ### Week 7
 #### Topic: K-12 Education
-##### Guest Speakers: 
+##### Guest Speakers: **[Grace Colgan](https://www.linkedin.com/in/grace-colgan-a5830588/)** | **[Victoria Sperow](https://www.linkedin.com/in/victoria-sperow-a7a6048a/)**
   + [recording coming soon]()
 
 ### Week 8
 #### Topic: Industry (Fisheries & Aquaculture)
-##### Guest Speakers: 
+##### Guest Speakers: **[Anna Neuman](https://fvprincess.com/p/the-girls)** | **[Leslie Booher](https://www.linkedin.com/in/leslie-booher-19a29125/)**
   + [recording coming soon]()
 
 ### Week 9
 #### Topic: Research Diving
-##### Guest Speakers: 
+##### Guest Speakers: **[Tristin McHugh](https://underwatermchugh.weebly.com/)** | **[Katie Sowul](https://www.linkedin.com/in/ksowul/)** | **[Shelby Kawana](https://marinescience.ucdavis.edu/people/shelby-kawana)**
   + [recording coming soon]()
 
 ### Week 10
-#### Topic: TBD
-##### Guest Speakers: TBD
+#### Topic: Lab Technicians
+##### Guest Speakers: **[Sukanya Dayal](https://imet.usmd.edu/directory/sukanya-dayal)** | **[Amanda Chesler](https://www.vims.edu/people/chesler_ab/index.php)**
   + [recording coming soon]()
 
 

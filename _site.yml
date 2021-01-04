@@ -21,12 +21,12 @@ navbar:
       - text: "Mentorship Courses"
         icon: fa-fish  fa-1x
         menu:
-          - text: "Fall 2020: Professional Development"
-            href: Fall2020_ProfDev.html
           - text: "Winter 2021: Career Discovery"
             href: Winter2021_Careers.html
           - text: "Spring 2021: BML Seminar Series Journal Club"
             href: Spring2021_BMLseminars.html
+          - text: "Fall 2021: Professional Development"
+            href: Fall2021_ProfDev.html
           - text: "Previous Mentorship Courses"
             href: prev_courses.html
           - text: "Courses for MCSci Majors"
