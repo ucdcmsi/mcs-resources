@@ -34,7 +34,7 @@ navbar:
       - text: "Resources"
         icon: fa-anchor  fa-1x
         menu: 
-          - text: "COVID-19 Info"
+          - text: "COVID-19"
             href: covid19.html
           - text: "Quick Contacts"
             href: QuickContacts.html
