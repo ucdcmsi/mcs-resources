@@ -36,6 +36,7 @@ output:
   + [Code of Academic Conduct](CodeOfConduct_Academic.html)
   + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
   + [Justice, Equity, Diversity & Inclusion Resources](JEDImarsci.html)
+  + [UC Davis Student Resources](https://ebeler.faculty.ucdavis.edu/resources/faq-student-resources/)
 
 
 ## Location 
