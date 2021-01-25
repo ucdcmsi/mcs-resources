@@ -21,7 +21,7 @@ output:
 <br>
 
 <center>
-<img src="photos/marek-okon-tWWCqIMiUmg-unsplash.jpg" style="width:100%">
+<img src="photos/ben-white-1zA_mC846yU-unsplash.jpg" style="width:100%">
 </center>
 <br>
 
