@@ -14,7 +14,6 @@
 
 <title>Resources Used to Build this Website</title>
 
-<script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -29,15 +28,6 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -521,7 +511,7 @@ div.tocify {
 <ul>
 <li><a href="https://d-rug.github.io/blog/2018/Martha-Wohlfeil-building-a-website">This YouTube tutorial</a> from Martha Zillig recorded at a D-RUG meeting</li>
 <li><a href="https://bookdown.org/yihui/rmarkdown/html-document.html#table-of-contents">R markdown syntax</a> for an HTML document</li>
-<li>How I created a <a href="https://github.com/rstudio/rmarkdown/issues/1680">footer</a>: see the comment from cderv about rendering the <a href="_footer.html">_footer.html</a> file as an ‘html_fragment’</li>
+<li>How I created a <a href="https://github.com/rstudio/rmarkdown/issues/1680">footer</a>: see the comment from cderv about rendering the <a href="_footer.html" class="uri">_footer.html</a> file as an ‘html_fragment’</li>
 <li>How I started <a href="https://stackoverflow.com/questions/22931723/changing-navbar-color-for-bootstrap-yeti-theme">messing around with CSS</a>: see the comment by richbray89 to see how I changed the navbar color in the <a href="style.css">style.css file</a></li>
 </ul>
 </div>
@@ -574,7 +564,6 @@ div.tocify {
 </center>
 
 
-
 </div>
 </div>
 
@@ -623,7 +612,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

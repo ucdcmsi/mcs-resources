@@ -13,7 +13,6 @@
 
 <title>Quantitative Skill-Building</title>
 
-<script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -28,15 +27,6 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -559,7 +549,7 @@ div.tocify {
 <h3>Using Version Control / GitHub</h3>
 <ul>
 <li><a href="https://gge-ucd.github.io/R-DAVIS/setting_up_git.html">R-DAVIS guide to setting up a Git repository with RStudio</a></li>
-<li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668">A Quick Introduction to Version Control with Git and GitHub</a> by Blischak et al. (2016)</li>
+<li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668">A Quick Introduction to Version Control with Git and GitHub</a> by Blischak et al. (2016)</li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/github-resources/">MIT Communication Lab GitHub Resources</a></li>
 </ul>
 </div>
@@ -585,7 +575,6 @@ div.tocify {
 <em><a href="https://marinescience.ucdavis.edu/liability-and-endorsement-disclaimer">Liability and Endorsement Disclaimer</a></em>
 </p>
 </center>
-
 
 
 </div>
@@ -636,7 +625,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

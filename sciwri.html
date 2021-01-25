@@ -13,7 +13,6 @@
 
 <title>Science Writing</title>
 
-<script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -28,15 +27,6 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -524,12 +514,10 @@ div.tocify {
 <div id="writing-grants-fellowships-application-research-proposals" class="section level2">
 <h2>Writing Grants + Fellowships Application &amp; Research Proposals</h2>
 <ul>
-<li>Fellowship Application Tips from
-<ul>
+<li>Fellowship Application Tips from</li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/graduate-school-personal-statement/">Gradaute School Personal Statement</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/nsf-personal-statement/">NSF GRFP Personal Statement</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/nsf-research-proposal/">NSF GRFP Research Proposal</a></li>
-</ul></li>
 </ul>
 </div>
 <div id="writing-manuscriptspapers" class="section level2">
@@ -538,14 +526,12 @@ div.tocify {
 <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers</a> by Mensh &amp; Kording (2017)</li>
 <li><a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165">Simple rules for concise scientific writing</a></li>
 <li><a href="http://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf">Writing a scientific paper, step by painful step</a> by Kevin Lafferty</li>
-<li>From the MIT Communication Lab:
-<ul>
+<li>From the MIT Communication Lab:</li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/journal-article-abstract/">Abstract</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/journal-article-introduction/">Introduction</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/journal-article-methods/">Methods</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/journal-article-results/">Results</a></li>
 <li><a href="https://mitcommlab.mit.edu/be/commkit/journal-article-discussion/">Discussion</a></li>
-</ul></li>
 </ul>
 </div>
 <div id="writing-a-talk-presentation" class="section level2">
@@ -577,7 +563,6 @@ div.tocify {
 <em><a href="https://marinescience.ucdavis.edu/liability-and-endorsement-disclaimer">Liability and Endorsement Disclaimer</a></em>
 </p>
 </center>
-
 
 
 </div>
@@ -628,7 +613,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
