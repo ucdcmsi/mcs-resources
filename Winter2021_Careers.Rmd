@@ -134,3 +134,8 @@ This is a career exploration seminar for juniors, seniors and transfer students 
 #### Topic: Lab Technicians
 ##### Guest Speakers: **[Sukanya Dayal](https://imet.usmd.edu/directory/sukanya-dayal)** | **[Amanda Chesler](https://www.vims.edu/people/chesler_ab/index.php)**
   + [recording coming soon]()
+  
+### Professional Development Workshops
+  + Finding Jobs & Internships: **[slides](WQ21/ICC_WQ21_FindJobInternship.pdf)**
+  + Resume Basics: [slides coming soon]()
+  + Interview Basics: [slides coming soon]()
