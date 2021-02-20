@@ -13,6 +13,7 @@
 
 <title>Code of Conduct for Class Interactions</title>
 
+<script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -27,6 +28,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -525,13 +535,15 @@ div.tocify {
 </ul>
 <p><em>Reporting:</em></p>
 <ul>
-<li>If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact:</li>
-<li>Priya Shukla, the course facilitator: <a href="mailto:pshukla@ucdavis.edu">pshukla@ucdavis.edu</a></li>
-<li>Anne Todgham, the Insructor affiliated with this course: <a href="mailto:todgham@ucdavis.edu">todgham@ucdavis.edu</a></li>
-<li>Mandy Rousseau, the Undergraduate Advisor: <a href="mailto:mlrousseau@ucdavis.edu">mlrousseau@ucdavis.edu</a></li>
-<li>Tawny Mata, the CMSI Executive Director: <a href="mailto:tmmata@ucdavis.edu">tmmata@ucdavis.edu</a></li>
+<li>If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact:
+<ul>
+<li>Priya Shukla, the course facilitator: <a href="mailto:pshukla@ucdavis.edu" class="email">pshukla@ucdavis.edu</a></li>
+<li>Anne Todgham, the Insructor affiliated with this course: <a href="mailto:todgham@ucdavis.edu" class="email">todgham@ucdavis.edu</a></li>
+<li>Mandy Rousseau, the Undergraduate Advisor: <a href="mailto:mlrousseau@ucdavis.edu" class="email">mlrousseau@ucdavis.edu</a></li>
+<li>Tawny Mata, the CMSI Executive Director: <a href="mailto:tmmata@ucdavis.edu" class="email">tmmata@ucdavis.edu</a></li>
 <li>The <a href="http://ombuds.ucdavis.edu/">UC Davis ombuds office</a>.</li>
-<li>UC Davis Harassment &amp; Discrimination Assistance and Prevention Program (HDAPP): <strong>CONFIDENTIALLY</strong> report harassment or discrimination, including sexual harassment, sexual violence, hate and bias here: <a href="reporthateandbias.ucdavis.edu" class="uri">reporthateandbias.ucdavis.edu</a></li>
+<li>UC Davis Harassment &amp; Discrimination Assistance and Prevention Program (HDAPP): <strong>CONFIDENTIALLY</strong> report harassment or discrimination, including sexual harassment, sexual violence, hate and bias here: <a href="reporthateandbias.ucdavis.edu">reporthateandbias.ucdavis.edu</a></li>
+</ul></li>
 </ul>
 
 
@@ -549,6 +561,7 @@ div.tocify {
 <em><a href="https://marinescience.ucdavis.edu/liability-and-endorsement-disclaimer">Liability and Endorsement Disclaimer</a></em>
 </p>
 </center>
+
 
 
 </div>
@@ -599,7 +612,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

@@ -13,6 +13,7 @@
 
 <title>Territorial Acknowledgement</title>
 
+<script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -27,6 +28,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -509,7 +519,7 @@ div.tocify {
 </center>
 <p>In the tradition of Native peoples across the Americas, <a href="https://native-land.ca/territory-acknowledgement/">acknowledge</a> that the UC Davis campus exists on land that the Wintun/Patwin have thrived on since time immemorial. It is here that the Wintun/Patwin built their huts from earthen materials to wait out bad weather and carry out traditional dances in elaborate costumes. And, in places across Yolo and Solano counties, bedrock mortar sites still exist that show where the historical inhabitants ground acorns to remove their tannins. Although these communities were disrupted by the arrival of Spanish explorers who enslaved, abused and killed many Wintun/Patwin, their descendants are survived by the Yocah Dehe Wintun Nation.</p>
 <p>As settlers, we must recognize how we benefit from colonialism and how it is has impacted the Native Peoples whose lands we now use. This is especially important in the marine sciences, where early exploration is at the root of much of our discipline, but often excludes the presence, culture and knowledge of Indigenous communities that coexisted and understood those resources and ecosystems before our intellectual forefathers did. Thus, it is incumbent upon us to dismantle components of settler-colonialism to ensure a more just and equitable future for not only the Wintun/Patwin, but all Indigenous Peoples.</p>
-<p>This acknowledgement was made possible by <a href="native-land.ca" class="uri">native-land.ca</a> and <a href="yochadehe.org" class="uri">yochadehe.org</a>. Consider using these resources to learn more about the Native Peoples’ whose lands you currently occupy.</p>
+<p>This acknowledgement was made possible by <a href="native-land.ca">native-land.ca</a> and <a href="yochadehe.org">yochadehe.org</a>. Consider using these resources to learn more about the Native Peoples’ whose lands you currently occupy.</p>
 
 
 
@@ -526,6 +536,7 @@ div.tocify {
 <em><a href="https://marinescience.ucdavis.edu/liability-and-endorsement-disclaimer">Liability and Endorsement Disclaimer</a></em>
 </p>
 </center>
+
 
 
 </div>
@@ -576,7 +587,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

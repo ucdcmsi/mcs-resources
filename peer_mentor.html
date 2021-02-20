@@ -13,6 +13,7 @@
 
 <title>Mentoring Resources</title>
 
+<script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -27,6 +28,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -507,10 +517,14 @@ div.tocify {
 <div id="individual-development-plan" class="section level3">
 <h3>Individual Development Plan</h3>
 <ul>
-<li>For Mentees: AAAS <a href="http://myidp.sciencecareers.org/">myIDP</a> Individual Development Plan (IDP) tool</li>
+<li>For Mentees: AAAS <a href="http://myidp.sciencecareers.org/">myIDP</a> Individual Development Plan (IDP) tool
+<ul>
 <li><a href="https://www.sciencemag.org/careers/2013/05/myidp">Several articles</a> to guide you through myIDP</li>
-<li>For Mentors: <a href="https://renettatull.wordpress.com/2015/11/06/the-mentor-mirror-a-reverse-idp-for-mentors-srebdocschomotempowered-thinkbigdiversity/">The Mentor Mirror</a>: A ‘Reverse’ IDP For Mentors</li>
+</ul></li>
+<li>For Mentors: <a href="https://renettatull.wordpress.com/2015/11/06/the-mentor-mirror-a-reverse-idp-for-mentors-srebdocschomotempowered-thinkbigdiversity/">The Mentor Mirror</a>: A ‘Reverse’ IDP For Mentors
+<ul>
 <li><a href="https://medium.com/@Renetta_Tull/i-will-mentor-nobel-prize-winners-academy-fellows-presidents-and-leaders-5a54a3e6fa5b">The Case for the Mentor Mirror</a> by UCD Associate Provost of DEI, Dr. Renetta Tull</li>
+</ul></li>
 </ul>
 <p><em>The myIDP tool above says its for PhD students, but it is useful for any career stage!</em></p>
 </div>
@@ -520,11 +534,13 @@ div.tocify {
 <li>Podcast - NPR Life Kit:<a href="https://www.npr.org/transcripts/907048549">The Right Mentor Can Change Your Career. Here’s How to Find One</a></li>
 <li><a href="https://www.mentoring.org/program-resources/elements-of-effective-practice-for-mentoring/">Elements of Effective Practice for Mentoring</a> from The National Mentoring Partnership</li>
 <li><a href="https://www.youtube.com/watch?v=PhjIrepywXc">Maximizing Mentoring Relationships (YouTube Video)</a> from UC Davis <a href="https://grad.ucdavis.edu/professional-development/gradpathways">GradPathways</a></li>
-<li>From UCSF’s <a href="https://accelerate.ucsf.edu/">Accelerate Program</a></li>
+<li>From UCSF’s <a href="https://accelerate.ucsf.edu/">Accelerate Program</a>
+<ul>
 <li><a href="https://accelerate.ucsf.edu/training/mdp-seminar1">Defining Mentorship from the Beginning</a></li>
 <li><a href="https://accelerate.ucsf.edu/training/mdp-seminar3">Communicating Effectively with Mentees</a></li>
 <li><a href="https://accelerate.ucsf.edu/training/mdp-seminar1-one-minute-mentor">The One-Minute Mentor</a></li>
 <li><a href="https://accelerate.ucsf.edu/training/mdp-seminar1-mentoring-checklist">Mentoring Checklist</a></li>
+</ul></li>
 <li><a href="https://www.gla.ac.uk/media/Media_516965_smxx.pdf">Mentoring Toolkit</a> from the University of Glasgow: A short guide for mentors and mentees to promote effective mentoring</li>
 </ul>
 </div>
@@ -544,6 +560,7 @@ div.tocify {
 <em><a href="https://marinescience.ucdavis.edu/liability-and-endorsement-disclaimer">Liability and Endorsement Disclaimer</a></em>
 </p>
 </center>
+
 
 
 </div>
@@ -594,7 +611,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
