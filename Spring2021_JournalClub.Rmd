@@ -20,18 +20,125 @@ output:
 
 <br>
 
+## *Spring 2021*
+
 <center>
 <img src="photos/ben-white-1zA_mC846yU-unsplash.jpg" style="width:100%">
 </center>
 <br>
 
 
-## Journal Club for Bodega Marine Lab Seminar Series
+## Syllabus
+* Download the Spring 2021 [syllabus](SQ21/SYLLABUS_PLACEHOLDER.pdf).
+* Familiarize yourself with:
+  + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
+  + [Student Resources & Services](StudentResources_Services.html)
+  + [Code of Academic Conduct](CodeOfConduct_Academic.html)
+  + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
+  + [Justice, Equity, Diversity & Inclusion Resources](JEDImarsci.html)
+  + [UC Davis Student Resources](https://ebeler.faculty.ucdavis.edu/resources/faq-student-resources/)
 
-This will consist of a discussion group (limited to 30 students) based on [**BML’s seminar series**](BMLseminar.html). Before each seminar, we will discuss one of the current speakers’ papers, then watch the seminar at CMSI and submit questions as a class.
+## Location 
+**SYNCHRONOUS** on Zoom, **link available on Canvas and sent via email**
 
-## Resources for reading scientific papers 
+## Time
+* COURSE: Wednesdays, 11am - 12pm PT
+* [BML SEMINAR SERIES](BMLseminar.html): Wednesdays, 1pm - 2pm PT
+  + You can find the Spring seminar schedule [here(link TBD)]().
+  + Look out for an email about registering for the weekly seminars!
+  + Recordings of seminars are [here(link TBD)]().
+* OFFICE HOURS: Wednesdays, 9am - 10am PT via Zoom, **link available on Canvas and sent via email**
+
+## Credits
+1 unit
+
+## Instructor 
+**[Priya Shukla](Priya.html)**
+
+## Course Description
+The Journal Club for Bodega Marine Lab Seminar Series will consist of a discussion group (limited to 30 students) based on [**BML’s seminar series**](BMLseminar.html). Before each seminar, we will discuss one of the current speakers’ papers, then watch the seminar at CMSI and submit questions as a class.
+
+
+## Key Learning Outcomes
+* Develop skills in reading, interpreting and critiquing marine science journal articles 
+* Improve understanding of research design, statistics, and techniques for evaluating sound science
+* Practice public speaking and leading a technical discussion
+* Tie a researcher’s previous work (paper) with their ongoing work (seminar)
+
+## Grading
+The class is graded as P/NP. Grades will be determined based on class participation and journal entries that must be completed PRIOR to class.
+
+* You must attend class and engage in discussions about the papers. Thus, missing several classes will put a passing grade in jeopardy.
+* Assignments will consist of journal entries for each paper. These should be completed by 10am the day of class (1 hour before class meets). Barring exceptional circumstances, late submissions will not be accepted.
+* Each week, 2-3 students will co-facilitate a discussion (you are expected to split the responsibilities amongst yourselves):
+  + Summarizing the paper
+  + Asking / providing points of clarification
+  + Facilitating the discussion
+  + Summarizing the discussion
+
+#### Criteria for a Passing Grade
+Because participation is a key component of this course, the bar for a passing grade is high: 
+* You must attend 9/10 classes.
+* You must participate in class discussions.
+* You must submit 9/10 journal entries.
+* You must (co-)facilitate 1/10 discussions and submit the accompanying document.
+
+*If you have obligations that will prevent you from attending class or submitting assignments, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!*
+
+
+## Resources for Reading Scientific Papers 
 * [Journal Article Notebook](Res_SciPapers/Liu_SciPaperNbk.pdf), [courtesy of Christine Liu](https://twitter.com/christineliuart/status/819285847316918272?s=20)
 * [How to Use Web of Science](Res_SciPapers/HowToUseWebOfScience.pdf)
 
-*More information coming soon!*
+## Lectures & Assignments  {.tabset .tabset-fade}
+
+### Week 1
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: PS
+  + Introduction / Syllabus Overview
+  + Reading [[PDF coming soon]()]
+
+### Week 2
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+
+### Week 3
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+  
+### Week 4
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+  
+### Week 5
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+  
+### Week 6
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+
+### Week 7
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+  
+### Week 8
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+
+### Wee 9
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
+  
+### Week 10
+#### Seminar Speaker: TBD
+##### Discussion Facilitator: TBD
+  + Reading [[PDF coming soon]()]
