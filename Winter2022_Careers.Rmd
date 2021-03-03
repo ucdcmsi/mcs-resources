@@ -1,0 +1,47 @@
+---
+title: "Fall 2021: Professional Development in Marine Science"
+output: 
+  html_document:
+    theme: yeti
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
+<br>
+
+## *Fall 2021*
+
+<br>
+<center>
+<img src="photos/noaa-WWVD4wXRX38-unsplash.jpg" style="width:100%">
+<br>
+<br>
+
+
+## Coming Soon!
+
+</center>
+
+### Until then ... 
+* View the Winter 2021 **[course website](Fall2020_ProfDev.html)**
+* Download the Winter 2021 **[syllabus](WQ21/WQ21_CareerDiscoverySyllabus.pdf)**.
+* Familiarize yourself with:
+  + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
+  + [Student Resources & Services](StudentResources_Services.html)
+  + [Code of Academic Conduct](CodeOfConduct_Academic.html)
+  + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
+
+
+
+
