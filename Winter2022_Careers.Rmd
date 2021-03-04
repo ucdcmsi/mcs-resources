@@ -36,6 +36,7 @@ output:
 ### Until then ... 
 * View the Winter 2021 **[course website](Fall2020_ProfDev.html)**
 * Download the Winter 2021 **[syllabus](WQ21/WQ21_CareerDiscoverySyllabus.pdf)**.
+* Check out the **[Virtual Class Notebook](https://docs.google.com/presentation/d/1S9o9p5hJTOFF6DJNj3LM7teqc0e8S9ECZ4_OLTKZEH8/edit?usp=sharing)**.
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
   + [Student Resources & Services](StudentResources_Services.html)

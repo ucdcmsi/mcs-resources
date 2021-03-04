@@ -36,6 +36,7 @@ output:
 ### Until then ... 
 * View the Spring 2021 **[course website](Spring2021_JournalClub.html)**
 * Download the Spring 2021 **[syllabus (link TBD)]()**.
+* Check out the **[Virtual Class Notebook (link TBD)]()**.
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
   + [Student Resources & Services](StudentResources_Services.html)

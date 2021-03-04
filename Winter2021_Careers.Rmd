@@ -77,7 +77,7 @@ This is a career exploration seminar for juniors, seniors and transfer students 
 
 *The instructor reserves the right to change details of the above course plans to ensure the best possible learning environment.*
 
-## Lectures & Assignments  {.tabset .tabset-fade}
+## Lectures {.tabset .tabset-fade}
 
 ### Week 1
 #### Topic: Introduction; Syllabus Overview
