@@ -78,10 +78,10 @@ The class is graded as P/NP. Grades will be determined based on class participat
 
 #### Criteria for a Passing Grade
 Because participation is a key component of this course, the bar for a passing grade is high: 
-* You must attend 9/10 classes.
+* You must attend 8/9 classes.
 * You must participate in class discussions.
-* You must submit 9/10 journal entries.
-* You must (co-)facilitate 1/10 discussions and submit the accompanying document.
+* You must submit 8/9 journal entries.
+* You must (co-)facilitate 6/7 discussions and submit the accompanying document.
 
 *If you have obligations that will prevent you from attending class or submitting assignments, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!*
 
@@ -93,19 +93,19 @@ Because participation is a key component of this course, the bar for a passing g
 ## Lectures & Assignments  {.tabset .tabset-fade}
 
 ### Week 1
-#### Seminar Speaker: TBD
+#### Seminar Speaker: N/A
 ##### Discussion Facilitator: TBD
   + Introduction / Syllabus Overview
   + Virtual Notebook [(link coming soon)]()
   + Reading [[PDF coming soon]()]
 
 ### Week 2
-#### Seminar Speaker: TBD
+#### Seminar Speaker: N/A
 ##### Discussion Facilitator: TBD
   + Reading [[PDF coming soon]()]
 
 ### Week 3
-#### Seminar Speaker: TBD
+#### Seminar Speaker: N/A
 ##### Discussion Facilitator: TBD
   + Reading [[PDF coming soon]()]
   
