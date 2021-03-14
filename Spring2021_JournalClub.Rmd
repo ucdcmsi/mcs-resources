@@ -29,7 +29,7 @@ output:
 
 
 ## Syllabus
-* Download the Spring 2021 [syllabus](SQ21/SYLLABUS_PLACEHOLDER.pdf).
+* Download the Spring 2021 [syllabus](SQ21/SQ21_JournalClubSyllabus.pdf).
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
   + [Student Resources & Services](StudentResources_Services.html)
@@ -44,8 +44,8 @@ output:
 ## Time
 * COURSE: Wednesdays, 11am - 12pm PT
 * [BML SEMINAR SERIES](BMLseminar.html): Wednesdays, 1pm - 2pm PT
-  + You can find the Spring seminar schedule [here(link TBD)]().
   + Look out for an email about registering for the weekly seminars!
+  + You can find the Spring seminar schedule [here(link TBD)]().
   + Recordings of seminars are [here(link TBD)]().
 * OFFICE HOURS: Wednesdays, 9:30am - 10:30am PT via Zoom, **link available on Canvas and sent via email**
 
@@ -78,7 +78,7 @@ The class is graded as P/NP. Grades will be determined based on class participat
 
 #### Criteria for a Passing Grade
 Because participation is a key component of this course, the bar for a passing grade is high: 
-* You must attend 8/9 classes.
+* You must attend 9/10 classes.
 * You must participate in class discussions.
 * You must submit 8/9 journal entries.
 * You must (co-)facilitate 6/7 discussions and submit the accompanying document.
@@ -97,49 +97,44 @@ Because participation is a key component of this course, the bar for a passing g
 ##### Discussion Facilitator: TBD
   + Introduction / Syllabus Overview
   + Virtual Notebook [(link coming soon)]()
-  + Reading [[PDF coming soon]()]
 
 ### Week 2
 #### Seminar Speaker: N/A
 ##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+  + Reading **[[Bonsell & Dutton 2018](SQ21/Bonsell_Dutton_2018_Apr7.pdf)]**
 
 ### Week 3
 #### Seminar Speaker: N/A
 ##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+  + Reading **[[Moore & Cuker 2018](SQ21/Moore_Cuker_2018_Apr14.pdf)]**
   
 ### Week 4
-#### Seminar Speaker: TBD
+#### Seminar Speaker: Adriana Vergés
 ##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+  + Reading **[[Vergés et al. 2020](SQ21/Verges_et_al_2020_Apr21.pdf)]**
   
 ### Week 5
-#### Seminar Speaker: TBD
+#### Seminar Speaker: Melodie Grubbs
 ##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+  + Reading **[[Ludka et al. 2016](SQ21/Ludka_et_al_2016_Apr28.pdf)]**
   
 ### Week 6
-#### Seminar Speaker: TBD
+#### Seminar Speaker: Sarah Giddings
 ##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+  + Reading **[[Koweek et al. 2018](SQ21/Koweek_et_al_2018_May5.pdf)]**
 
 ### Week 7
-#### Seminar Speaker: TBD
+#### Seminar Speaker: Nichole Price
 ##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+  + Reading **[[Neal et al. 2010](SQ21/Neal_et_al_2020_May12.pdf)]**
   
 ### Week 8
-#### Seminar Speaker: TBD
+#### Seminar Speaker: Kura Paul-Burke
 ##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+  + Reading **[[Paul-Burke et al. 2018](SQ21/Paul-Burke_et_al_2018_May19.pdf)]**
 
 ### Wee 9
-#### Seminar Speaker: TBD
-##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+#### Seminar Speaker: Christina Bonsell
   
 ### Week 10
-#### Seminar Speaker: TBD
-##### Discussion Facilitator: TBD
-  + Reading [[PDF coming soon]()]
+#### Seminar Speaker: Tiara Moore
