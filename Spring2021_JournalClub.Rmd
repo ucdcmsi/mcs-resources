@@ -126,7 +126,7 @@ Because participation is a key component of this course, the bar for a passing g
 ### Week 7
 #### Seminar Speaker: Nichole Price
 ##### Discussion Facilitator: TBD
-  + Reading: **[Neal et al. 2010](SQ21/Neal_et_al_2020_May12.pdf)**
+  + Reading: **[Neal et al. 2020](SQ21/Neal_et_al_2020_May12.pdf)**
   
 ### Week 8
 #### Seminar Speaker: Kura Paul-Burke
