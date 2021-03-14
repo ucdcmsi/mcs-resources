@@ -22,7 +22,7 @@ navbar:
         icon: fa-fish  fa-1x
         menu:
           - text: "Spring 2021: BML Seminar Series Journal Club"
-            href: Spring2021_BMLseminars.html
+            href: Spring2021_JournalClub.html
           - text: "Fall 2021: Professional Development"
             href: Fall2021_ProfDev.html
           - text: "Winter 2022: Career Discovery Seminar"
