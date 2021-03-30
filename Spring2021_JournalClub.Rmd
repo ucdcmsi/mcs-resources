@@ -77,11 +77,11 @@ The class is graded as P/NP. Grades will be determined based on class participat
   + Summarizing the discussion
 
 #### Criteria for a Passing Grade
-Because participation is a key component of this course, the bar for a passing grade is high: 
-* You must attend 9/10 classes.
-* You must participate in class discussions.
-* You must submit 8/9 journal entries.
-* You must (co-)facilitate 6/7 discussions and submit the accompanying document.
+* Because participation is a key component of this course, the bar for a passing grade is high: 
+  + You must attend 9/10 classes.
+  + You must participate in class discussions.
+  + You must submit 8/9 journal entries.
+  + You must (co-)facilitate 1/7 discussions and submit the accompanying document.
 
 *If you have obligations that will prevent you from attending class or submitting assignments, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!*
 
