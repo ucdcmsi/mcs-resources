@@ -38,6 +38,7 @@ output:
 * Podcast - NPR Life Kit:[The Right Mentor Can Change Your Career. Here's How to Find One](https://www.npr.org/transcripts/907048549)
 * [Elements of Effective Practice for Mentoring](https://www.mentoring.org/program-resources/elements-of-effective-practice-for-mentoring/) from The National Mentoring Partnership
 * [Maximizing Mentoring Relationships (YouTube Video)](https://www.youtube.com/watch?v=PhjIrepywXc) from UC Davis [GradPathways](https://grad.ucdavis.edu/professional-development/gradpathways) 
+* [One mentor isn't enough. Here's how I built a network of mentors](https://www.sciencemag.org/careers/2021/03/one-mentor-isnt-enough-heres-how-i-built-network-mentors)
 * From UCSF's [Accelerate Program](https://accelerate.ucsf.edu/)
   + [Defining Mentorship from the Beginning](https://accelerate.ucsf.edu/training/mdp-seminar1)
   + [Communicating Effectively with Mentees](https://accelerate.ucsf.edu/training/mdp-seminar3)
