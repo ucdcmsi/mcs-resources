@@ -95,7 +95,7 @@ The class is graded as P/NP. Grades will be determined based on class participat
 ### Week 1
 #### Seminar Speaker: N/A
 ##### Discussion Facilitator: TBD
-  + Introduction / Syllabus Overview
+  + Introduction / Syllabus Overview | **[Slides](SQ21/ANS198_SQ21_Lec1_Intro.pdf)**
   + **[Virtual Notebook Template](https://docs.google.com/presentation/d/1Iyv_n2EVH8mH0Vaqd5UkZvHzbGj5fYSBDtSaCSQxPfg/edit?usp=sharing)**
   + **[Lecture Recording](https://ucdavis.zoom.us/rec/share/SFMoheIk74L6buZMts0IH7nS02nrY6ORIcf7e_ib-f1Bg3uxmMJ4g4B6BZOnF44d.qp2GcGNH2jOoVXqh)**
 
