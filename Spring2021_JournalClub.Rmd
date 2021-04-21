@@ -109,11 +109,13 @@ The class is graded as P/NP. Grades will be determined based on class participat
 #### Seminar Speaker: N/A
 ##### Discussion Facilitators: Alex
   + Reading **[Moore & Cuker 2018](SQ21/Moore_Cuker_2018_Apr14.pdf)**
+  + Discussion | **No Recording :(**
   
 ### Week 4
 #### Seminar Speaker: Adriana Vergés
 ##### Discussion Facilitators: Isaiah & Julia
   + Reading: **[Vergés et al. 2020](SQ21/Verges_et_al_2020_Apr21.pdf)**
+  + Discussion: | **[Recording](https://ucdavis.zoom.us/rec/share/CEWJ1sOSN7idFkdQtCpHBy3MHB2l3k3CKOb9Lh1cm9KXZlVHEzjCWbe4WI5uXPJP.ZUoASzCmltuwrK5x)**
   
 ### Week 5
 #### Seminar Speaker: Melodie Grubbs
@@ -133,7 +135,7 @@ The class is graded as P/NP. Grades will be determined based on class participat
 ### Week 8
 #### Seminar Speaker: Kura Paul-Burke
 ##### Discussion Facilitators: Kalea & Francheska
-  + Readin: **[Paul-Burke et al. 2018](SQ21/Paul-Burke_et_al_2018_May19.pdf)**
+  + Reading: **[Paul-Burke et al. 2018](SQ21/Paul-Burke_et_al_2018_May19.pdf)**
 
 ### Week 9
 #### Seminar Speaker: Christina Bonsell
