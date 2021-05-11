@@ -26,7 +26,7 @@ output:
 </center>
 <br>
 
-## Where I started
+## Where To Start
 * [This YouTube tutorial](https://d-rug.github.io/blog/2018/Martha-Wohlfeil-building-a-website) from Martha Zillig recorded at a D-RUG meeting
 * [R markdown syntax](https://bookdown.org/yihui/rmarkdown/html-document.html#table-of-contents) for an HTML document
 * How I created a [footer](https://github.com/rstudio/rmarkdown/issues/1680): see the comment from cderv about rendering the [_footer.html](_footer.html) file as an 'html_fragment'
