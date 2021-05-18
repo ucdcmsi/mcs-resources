@@ -148,5 +148,5 @@ The class is graded as P/NP. Grades will be determined based on class participat
   
 ### Week 10
 #### Seminar Speaker: Tiara Moore
-    + Reading | **See Week 3**
+  + Reading | **See Week 3**
   + **No Recording**
