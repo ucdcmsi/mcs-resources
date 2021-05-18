@@ -35,8 +35,8 @@ output:
 
 ### Until then ... 
 * View the Spring 2021 **[course website](Spring2021_JournalClub.html)**
-* Download the Spring 2021 **[syllabus (link TBD)]()**.
-* Check out the **[Virtual Class Notebook (link TBD)]()**.
+* Download the Spring 2021 **[syllabus](SQ21/SQ21_JournalClubSyllabus.pdf)**.
+* Check out the **[Virtual Class Notebook](https://docs.google.com/presentation/d/1Iyv_n2EVH8mH0Vaqd5UkZvHzbGj5fYSBDtSaCSQxPfg/edit?usp=sharing)**.
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
   + [Student Resources & Services](StudentResources_Services.html)

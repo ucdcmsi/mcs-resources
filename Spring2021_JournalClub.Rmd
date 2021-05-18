@@ -45,8 +45,8 @@ output:
 * COURSE: Wednesdays, 11am - 12pm PT
 * [BML SEMINAR SERIES](BMLseminar.html): Wednesdays, 1pm - 2pm PT
   + Look out for an email about registering for the weekly seminars!
-  + You can find the Spring seminar schedule [here(link TBD)]().
-  + Recordings of seminars are [here(link TBD)]().
+  + You can find the Spring seminar schedule [here](https://marinescience.ucdavis.edu/events).
+  + Recordings of seminars are [here](https://marinescience.ucdavis.edu/events/seminar-videos).
 * OFFICE HOURS: Wednesdays, 9:30am - 10:30am PT via Zoom, **link available on Canvas and sent via email**
 
 ## Credits
