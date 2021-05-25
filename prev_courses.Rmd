@@ -29,5 +29,6 @@ output:
 #### Lead Mentor: [Priya Shukla](Priya.html)
 * Fall 2020: ANS 198 - [Professional Development in Marine Science](Fall2020_ProfDev.html)
 * Winter 2021: ANS 198 - [Career Discovery Seminar](Winter2021_Careers.html)
+* Spring 2021: ANS 198 - [Journal Club for BML Seminar Series](Spring2021_JournalClub.html)
 
 
