@@ -1,0 +1,52 @@
+---
+title: "CMSI Lead Mentor"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16099315-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-16099315-7');
+</script>
+
+<br>
+
+
+<center>
+## **[MEGHAN ZULIAN](meghanzulian.com)**
+<br>
+
+<img src="photos/MeghanOcean.jpg" style="width:100%"> 
+<!-- <figcaption>*Photo credit: XXX*</figcaption>  -->
+
+
+<br>
+<br>
+
+## About Meghan
+### 2021-2022
+
+*Pronouns: She/Her/Hers*
+
+Meghan is a second-year Ph.D. student in the graduate group in Earth and Planetary Science. Her research examines the impacts of climate change and impending offshore wind projects on coastal ecosystems. Inspired by her internship and ongoing work with the California Ocean Protection Council, she is evaluating the quality of California’s ocean chemistry monitoring networks at locations and times relevant to culturally, ecologically, and economically important coastal species. Before beginning her Ph.D. here at UC Davis, Meghan received her Master’s in Earth Science from the University of Toronto and her undergraduate degree in Geological Sciences from Queen’s University, Canada.
+
+Meghan is a long-time teacher and educator committed to improving justice, diversity, equity, and inclusion in STEM. She is committed to being fully accountable to students in the MCS major, setting them up for success to the best of her abilities.
+
+
+<br>
+
+## Contact Information
+E-mail: **<mzulian@ucdavis.edu>**
+
+Office Hours for Fall 2021: TBD
+
+Location: Zoom (link forthcoming)
+
+<br>
