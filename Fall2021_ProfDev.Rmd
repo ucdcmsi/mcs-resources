@@ -29,20 +29,84 @@ output:
 <br>
 
 
-## Coming Soon!
-
 </center>
 
-### Until then ... 
-* View the Fall 2020 **[course website](Fall2020_ProfDev.html)**
-* Download the Fall 2020 **[syllabus](FQ20/ANS198_ProfDevSyllabus_FQ20_FINAL3.pdf)**.
-* View the **[resources collected by students in the course](Fall2020_ProfDev_ResDoc.html)**.
+ 
+## Syllabus
+* Download the Fall 2021 **[syllabus](FQ21/ANS_198_Syllabus_FQ_2021.pdf)**.
+* View the **[resources collected by students in the course](Fall2020_ProfDev_ResDoc.html)**
 * Familiarize yourself with:
   + [Territorial Acknowledgment](TerritorialAcknowledgement.html)
   + [Student Resources & Services](StudentResources_Services.html)
   + [Code of Academic Conduct](CodeOfConduct_Academic.html)
   + [Code of Conduct for Class Interactions](CodeOfConduct_Behavior.html)
 
+## Location 
+Storer Hall, Rm 1350
 
+## Time
+* COURSE: **TBD**
+* OFFICE HOURS: **TBD**
 
+## Credits 
+2 units
 
+## Instructor 
+**[Meghan Zulian](Meghan.html)**
+
+## Course Description
+A professional
+development seminar for sophomore, junior, and first-year transfer students interested in a career in the marine science that will teach students (1) how science works, (2) skills that will make them a successful student, (3) how to find career experiences during their time as undergraduates that will prepare them for careers after completing their Bachelor’s degree! This course covers topics spanning how to find and read scientific papers; what academic science/research entails; building a resume and/or CV; writing grant and fellowship applications; applying for jobs, internships, and graduate school; science communication; and science ethics. By the end of this seminar, undergraduate students should have a better understanding of how to (1) navigate their undergraduate experience as well as (2) explore career options after completing their degrees.
+
+## Key Learning Outcomes
+* Find and evaluate research papers
+* Understand the cogs that underlie the scientific process
+* Create a CV/resume that can be periodically modified
+* Be able to submit a grant/fellowship application
+* Be able to find internships, jobs, and research experiences
+* Write an email to a prospective faculty advisor or employer
+* Communicate science to non-technical audiences
+* Navigate science with best ethical practices in mind
+* **Leave with a compendium of resources to support the above outcomes!**
+
+## Lectures & Assignments  {.tabset .tabset-fade}
+
+### Week 1
+#### Introduction; Syllabus Overview; Class Activity
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 2
+#### Academic Science & Lab Culture
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 3
+#### Applying to Graduate School: Panel
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 4
+#### Applying for Grants & Fellowships
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 5
+#### Science Writing
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 6
+#### Science Communication
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 7
+#### Intro to Marine Science Careers
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 8
+#### Science Ethics & Advocacy & Activism
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 9
+#### Applying to Jobs/Internships
+* Lecture Slides: [PDF](X.pdf)
+
+### Week 10
+#### Alumni Networking Panel
+* Lecture Slides: [PDF](X.pdf)
