@@ -69,6 +69,30 @@ development seminar for sophomore, junior, and first-year transfer students inte
 * Navigate science with best ethical practices in mind
 * **Leave with a compendium of resources to support the above outcomes!**
 
+## Grading
+
+* The class is graded as P/NP. Grades will be determined based on class participation and short, weekly written assignments
+  +	To participate, you need to attend class and engage in the breakout sessions. Because we only meet once a week and **will be doing the bulk of our work in class**, missing several classes will put a passing grade in jeopardy.  
+  +	Assignments will consist of a brief questionnaire after each class that will sometimes require doing a task related to that class’ topic (e.g., reading, exercise, research). These should be submitted  **by 12:00pm the day of class**.
+
+* Because a key goal of this course is to share and collect resources, the bar for a passing grade is high: 
+  +	You must attend 7/10 classes.
+  +	All assignments must be turned in.
+
+* *If you have obligations that will prevent you from attending 7/10 classes, please let me know so that we can discuss alternative arrangements for making sure you are getting the most out of this course!*
+
+## Assignment Guidelines
+Assignments will consist of a brief questionnaire after each class that will sometimes require doing a task related to that class’ topic (e.g., reading, exercise, research). These should be submitted  **by 12:00pm the day of class**.
+
+Additionally, a quarter-long goal is to accumulate resources as a class that you can leave with and continue to reference as you continue throughout your careers. I will, of course, provide some of these, but **I expect you to also look for resources related to the previous week’s topic (this can be a book, a peer-reviewed article, a blog post, an Instagram post, a Facebook Group, a Twitter thread, an infographic, advice a professor gave you, something you learned from a lunch with a seminar speaker, etc.)**.
+
+Ultimately, there is no single class you can take that will teach you everything you need to know, so learning how to search for and share the information you need is a good skill to hone. Through this exercise, I hope you will not only improve your ability to find information you need, but to also see your classmates as resources. Science is competitive, but the people who have helped me through it most are those working alongside me! The link for this document that we will flesh out over the course of the quarter is located on the course website and is available [here](Fall2021_ProfDev_ResDoc.html). You can also view the Fall 2020 class' resource document [here](Fall2020_ProfDev_ResDoc.html).
+
+You can track the assignments you submitted on the **[Canvas Gradebook](https://canvas.ucdavis.edu/courses/481750/gradebook)**.
+
+## JEDI in Marine Science
+* You may notice that Justice, Diversity, Equity & Inclusion (JEDI) are not listed as an explicit topic in the course schedule. This is because JEDI pervades every aspect of our professional lives. Thus, we will be addressing these issues each week (in a segment I have cheekily named *"JEDI Mind Tricks”*). JEDI resources are also available [here](JEDImarsci.html).
+
 ## Lectures & Assignments  {.tabset .tabset-fade}
 
 ### Week 1
